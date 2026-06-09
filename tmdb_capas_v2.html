@@ -502,7 +502,7 @@ async function buscarOpcoes() {
         card.className = 'opt-card' + (mi === 0 ? ' selected' : '');
         card.dataset.idx = idx;
         card.dataset.mi = mi;
-        const imgUrl = movie.poster_path ? 'https://image.tmdb.org/t/p/w185' + movie.poster_path : null;
+        const imgUrl = movie.poster_path ? 'https://corsproxy.io/?url=https://image.tmdb.org/t/p/w185' + movie.poster_path : null;
         const yr = movie.release_date ? movie.release_date.slice(0, 4) : '—';
         card.innerHTML = imgUrl
           ? '<img src="' + imgUrl + '" alt="' + movie.title + '" loading="lazy"><div class="opt-label">' + movie.title + ' · ' + yr + '</div>'
@@ -598,7 +598,7 @@ async function confirmarEBaixar() {
     const label = fc.input.title + (fc.input.year ? ' (' + fc.input.year + ')' : '');
     const rowId = addRow(label);
     try {
-      const imgUrl = 'https://image.tmdb.org/t/p/w185' + movie.poster_path;
+      const imgUrl = 'https://corsproxy.io/?url=https://image.tmdb.org/t/p/w185' + movie.poster_path;
       const imgRes = await fetch(imgUrl);
       const blob = await imgRes.blob();
       const safe = fnameMode === 'id'
