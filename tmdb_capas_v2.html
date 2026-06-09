@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TMDB — Baixador de Capas</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500&family=Bebas+Neue&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #f5f4f0;
+    --surface: #ffffff;
+    --border: #e0ddd6;
+    --text: #1a1a1a;
+    --muted: #888;
+    --accent: #e05c1a;
+    --accent-light: #fdf0e8;
+    --success-bg: #e8f5ee;
+    --success: #1a7a3f;
+    --error-bg: #fdecea;
+    --error: #b91c1c;
+    --info-bg: #e8f0fd;
+    --info: #1a4ab9;
+    --warn-bg: #fff8e1;
+    --warn: #a06000;
+    --radius: 8px;
+    --radius-lg: 12px;
+  }
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 40px 20px;
+  }
+  .container { max-width: 760px; margin: 0 auto; }
+  header { margin-bottom: 32px; }
+  header h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 42px;
+    letter-spacing: 1px;
+    color: var(--text);
+    line-height: 1;
+  }
+  header p { font-size: 14px; color: var(--muted); margin-top: 6px; }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 24px;
+    margin-bottom: 16px;
+  }
+  label {
+    display: block;
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 8px;
+  }
+  input[type=text], textarea, select {
+    width: 100%;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    color: var(--text);
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 10px 14px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  input[type=text]:focus, textarea:focus, select:focus {
+    border-color: var(--accent);
+    background: #fff;
+  }
+  input[type=text].apikey { font-family: monospace; font-size: 13px; }
+  textarea { resize: vertical; line-height: 1.6; min-height: 180px; }
+  .format-tabs { display: flex; gap: 6px; margin-bottom: 10px; }
+  .ftab {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 5px 14px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 1px solid var(--border);
+    background: transparent;
+    color: var(--muted);
+    transition: all 0.15s;
+  }
+  .ftab:hover { border-color: var(--accent); color: var(--accent); }
+  .ftab.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .hint {
+    font-size: 12px;
+    color: var(--muted);
+    background: var(--accent-light);
+    border-radius: var(--radius);
+    padding: 8px 12px;
+    margin-top: 8px;
+    border-left: 3px solid var(--accent);
+  }
+  .row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  #btn-run {
+    width: 100%;
+    padding: 14px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 22px;
+    letter-spacing: 1px;
+    color: #fff;
+    background: var(--accent);
+    border: none;
+    border-radius: var(--radius-lg);
+    cursor: pointer;
+    transition: opacity 0.2s, transform 0.1s;
+    margin-top: 8px;
+  }
+  #btn-run:hover { opacity: 0.9; }
+  #btn-run:active { transform: scale(0.99); }
+  #btn-run:disabled { opacity: 0.4; cursor: default; transform: none; }
+
+  /* ── FASE 1: seleção ── */
+  #select-section { display: none; margin-top: 16px; }
+  .select-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+  }
+  .select-header h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 22px;
+    letter-spacing: 0.5px;
+  }
+  .select-header span { font-size: 13px; color: var(--muted); }
+  .film-row {
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 16px;
+    margin-bottom: 12px;
+    background: var(--surface);
+  }
+  .film-row-title {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    margin-bottom: 10px;
+  }
+  .film-row-title strong { color: var(--text); text-transform: none; letter-spacing: 0; font-size: 14px; }
+  .options-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 10px;
+  }
+  .opt-card {
+    cursor: pointer;
+    border: 2px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    transition: border-color 0.15s, transform 0.1s;
+    background: var(--bg);
+    position: relative;
+  }
+  .opt-card:hover { border-color: var(--accent); transform: translateY(-1px); }
+  .opt-card.selected { border-color: var(--accent); background: var(--accent-light); }
+  .opt-card.selected::after {
+    content: '✓';
+    position: absolute;
+    top: 4px; right: 6px;
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--accent);
+  }
+  .opt-card img {
+    width: 100%;
+    aspect-ratio: 2/3;
+    object-fit: cover;
+    display: block;
+  }
+  .opt-card .opt-no-img {
+    width: 100%;
+    aspect-ratio: 2/3;
+    background: var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    color: #ccc;
+  }
+  .opt-card .opt-label {
+    font-size: 10px;
+    color: var(--muted);
+    padding: 4px 6px;
+    line-height: 1.3;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .opt-none {
+    cursor: pointer;
+    border: 2px dashed var(--border);
+    border-radius: var(--radius);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 4px;
+    aspect-ratio: 2/3;
+    font-size: 11px;
+    color: var(--muted);
+    transition: border-color 0.15s;
+    background: transparent;
+    padding: 8px;
+    text-align: center;
+  }
+  .opt-none:hover { border-color: var(--error); color: var(--error); }
+  .opt-none.selected { border-color: var(--error); color: var(--error); background: var(--error-bg); }
+  .not-found-row {
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 14px 16px;
+    margin-bottom: 12px;
+    background: var(--surface);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .not-found-row .badge-err {
+    font-size: 10px; font-weight: 500;
+    padding: 2px 8px; border-radius: 20px;
+    background: var(--error-bg); color: var(--error);
+    white-space: nowrap;
+  }
+  .not-found-row span { font-size: 13px; color: var(--muted); }
+
+  #btn-confirm {
+    width: 100%;
+    padding: 14px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 22px;
+    letter-spacing: 1px;
+    color: #fff;
+    background: var(--success);
+    border: none;
+    border-radius: var(--radius-lg);
+    cursor: pointer;
+    transition: opacity 0.2s;
+    margin-top: 4px;
+    display: none;
+  }
+  #btn-confirm:hover { opacity: 0.9; }
+
+  /* ── FASE 2: download ── */
+  #progress-section { display: none; margin-top: 16px; }
+  .progress-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  .progress-header span { font-size: 13px; color: var(--muted); }
+  .progress-header strong { font-size: 13px; color: var(--text); }
+  .bar-wrap {
+    height: 6px;
+    background: var(--border);
+    border-radius: 3px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  .bar {
+    height: 6px;
+    background: var(--accent);
+    border-radius: 3px;
+    width: 0%;
+    transition: width 0.3s ease;
+  }
+  .status-list { display: flex; flex-direction: column; gap: 0; }
+  .status-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 13px;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .status-item:last-child { border-bottom: none; }
+  .badge {
+    font-size: 10px; font-weight: 500;
+    padding: 2px 8px; border-radius: 20px;
+    white-space: nowrap; min-width: 62px; text-align: center;
+  }
+  .badge-loading { background: var(--info-bg); color: var(--info); }
+  .badge-ok { background: var(--success-bg); color: var(--success); }
+  .badge-err { background: var(--error-bg); color: var(--error); }
+  .badge-skip { background: var(--warn-bg); color: var(--warn); }
+  .si-title { flex: 1; color: var(--text); }
+  .si-found { font-size: 11px; color: var(--muted); }
+  .done-banner {
+    background: var(--success-bg);
+    border: 1px solid #a7d9b8;
+    border-radius: var(--radius-lg);
+    padding: 16px 20px;
+    margin-top: 16px;
+    display: none;
+    text-align: center;
+  }
+  .done-banner strong { color: var(--success); font-size: 15px; }
+  .done-banner p { font-size: 13px; color: var(--muted); margin-top: 4px; }
+  .loading-inline {
+    font-size: 13px; color: var(--muted);
+    padding: 10px 0;
+    display: flex; align-items: center; gap: 8px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .spinner {
+    width: 14px; height: 14px;
+    border: 2px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.7s linear infinite;
+    flex-shrink: 0;
+  }
+  @media (max-width: 500px) {
+    .row { grid-template-columns: 1fr; }
+    header h1 { font-size: 32px; }
+    .options-grid { grid-template-columns: repeat(3, 1fr); }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <h1>TMDB Capas</h1>
+    <p>Baixe capas de filmes em lote — com seleção manual para garantir a capa certa · w185 · WebP · ZIP</p>
+  </header>
+
+  <div class="card">
+    <label>Chave da API (TMDB)</label>
+    <input type="text" id="api-key" class="apikey" placeholder="Cole sua API key aqui" />
+  </div>
+
+  <div class="card">
+    <label>Lista de filmes</label>
+    <div class="format-tabs">
+      <button class="ftab active" onclick="setFormat('excel')" id="tab-excel">Colagem do Excel</button>
+      <button class="ftab" onclick="setFormat('manual')" id="tab-manual">Texto manual</button>
+    </div>
+    <textarea id="film-list" placeholder="Cole aqui as duas colunas do Excel (Título e Ano)
+
+Drive	2011
+Efeito Dominó	2008
+Força Aérea Um	1997"></textarea>
+    <div class="hint" id="format-hint">
+      Selecione as colunas <strong>Título</strong> e <strong>Ano</strong> no Excel e cole aqui (Ctrl+V). A separação por tabulação é detectada automaticamente.
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="row">
+      <div>
+        <label>Idioma de busca</label>
+        <select id="lang">
+          <option value="pt-BR">Português (pt-BR)</option>
+          <option value="en-US">Inglês (en-US)</option>
+        </select>
+      </div>
+      <div>
+        <label>Nome dos arquivos</label>
+        <select id="fname">
+          <option value="title">Título do filme</option>
+          <option value="id">ID TMDB</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <button id="btn-run" onclick="buscarOpcoes()">Buscar opções de capa</button>
+
+  <!-- Fase 1: seleção -->
+  <div id="select-section">
+    <div class="card" style="padding:20px 24px;">
+      <div class="select-header">
+        <h2>Escolha as capas</h2>
+        <span id="select-status">Buscando...</span>
+      </div>
+      <div id="loading-phase1" class="loading-inline">
+        <div class="spinner"></div> Consultando TMDB...
+      </div>
+      <div id="film-choices"></div>
+    </div>
+    <button id="btn-confirm" onclick="confirmarEBaixar()">Confirmar seleção e baixar ZIP</button>
+  </div>
+
+  <!-- Fase 2: download -->
+  <div id="progress-section" class="card">
+    <div class="progress-header">
+      <span id="counter">0 de 0 processados</span>
+      <strong id="pct">0%</strong>
+    </div>
+    <div class="bar-wrap"><div class="bar" id="bar"></div></div>
+    <div class="status-list" id="status-list"></div>
+  </div>
+
+  <div class="done-banner" id="done-banner">
+    <strong>✅ Lote concluído!</strong>
+    <p id="done-msg"></p>
+  </div>
+
+</div>
+<script>
+let currentFormat = 'excel';
+let filmChoices = []; // [{input, selected: {poster_path, title, id} | null}]
+
+function setFormat(fmt) {
+  currentFormat = fmt;
+  document.getElementById('tab-excel').classList.toggle('active', fmt === 'excel');
+  document.getElementById('tab-manual').classList.toggle('active', fmt === 'manual');
+  const ta = document.getElementById('film-list');
+  const hint = document.getElementById('format-hint');
+  if (fmt === 'excel') {
+    ta.placeholder = 'Cole aqui as duas colunas do Excel (Título e Ano)\n\nDrive\t2011\nEfeito Dominó\t2008';
+    hint.innerHTML = 'Selecione as colunas <strong>Título</strong> e <strong>Ano</strong> no Excel e cole aqui (Ctrl+V).';
+  } else {
+    ta.placeholder = 'Um filme por linha:\n\nDrive (2011)\nEfeito Dominó (2008)';
+    hint.innerHTML = 'Um filme por linha no formato <strong>Título (Ano)</strong>.';
+  }
+  ta.value = '';
+}
+
+function parseLines(raw) {
+  return raw.split('\n').map(l => l.trim()).filter(Boolean).map(line => {
+    if (line.includes('\t')) {
+      const parts = line.split('\t');
+      return { title: parts[0].trim(), year: (parts[1] || '').trim().replace(/\D/g, '').slice(0, 4) };
+    }
+    const m = line.match(/^(.+?)\s*\((\d{4})\)\s*$/);
+    if (m) return { title: m[1].trim(), year: m[2] };
+    return { title: line, year: '' };
+  });
+}
+
+async function buscarOpcoes() {
+  const apiKey = document.getElementById('api-key').value.trim();
+  const raw = document.getElementById('film-list').value.trim();
+  const lang = document.getElementById('lang').value;
+  if (!apiKey) { alert('Informe a chave da API.'); return; }
+  if (!raw) { alert('Informe ao menos um filme.'); return; }
+  const films = parseLines(raw);
+  if (!films.length) { alert('Lista vazia.'); return; }
+
+  const btn = document.getElementById('btn-run');
+  btn.disabled = true;
+  btn.textContent = 'Buscando...';
+
+  document.getElementById('select-section').style.display = 'block';
+  document.getElementById('loading-phase1').style.display = 'flex';
+  document.getElementById('film-choices').innerHTML = '';
+  document.getElementById('btn-confirm').style.display = 'none';
+  document.getElementById('select-status').textContent = '0 de ' + films.length + ' buscados';
+  document.getElementById('progress-section').style.display = 'none';
+  document.getElementById('done-banner').style.display = 'none';
+
+  filmChoices = [];
+  const choicesEl = document.getElementById('film-choices');
+
+  for (let i = 0; i < films.length; i++) {
+    const { title, year } = films[i];
+    const q = encodeURIComponent(title);
+    const yp = year ? '&year=' + year : '';
+    let results = [];
+    try {
+      const res = await fetch('https://api.themoviedb.org/3/search/movie?api_key=' + apiKey + '&query=' + q + yp + '&language=' + lang);
+      const data = await res.json();
+      results = (data.results || []).slice(0, 4);
+    } catch(e) {}
+
+    const choiceObj = { input: { title, year }, results, selected: results.length > 0 ? results[0] : null };
+    filmChoices.push(choiceObj);
+
+    const idx = filmChoices.length - 1;
+
+    if (results.length === 0) {
+      const div = document.createElement('div');
+      div.className = 'not-found-row';
+      div.innerHTML = '<span class="badge-err">não encontrado</span><span>' + title + (year ? ' (' + year + ')' : '') + '</span>';
+      choicesEl.appendChild(div);
+    } else {
+      const div = document.createElement('div');
+      div.className = 'film-row';
+      div.innerHTML = '<div class="film-row-title">Sua busca: <strong>' + title + (year ? ' (' + year + ')' : '') + '</strong></div><div class="options-grid" id="grid-' + idx + '"></div>';
+      choicesEl.appendChild(div);
+
+      const grid = document.getElementById('grid-' + idx);
+
+      results.forEach((movie, mi) => {
+        const card = document.createElement('div');
+        card.className = 'opt-card' + (mi === 0 ? ' selected' : '');
+        card.dataset.idx = idx;
+        card.dataset.mi = mi;
+        const imgUrl = movie.poster_path ? 'https://image.tmdb.org/t/p/w185' + movie.poster_path : null;
+        const yr = movie.release_date ? movie.release_date.slice(0, 4) : '—';
+        card.innerHTML = imgUrl
+          ? '<img src="' + imgUrl + '" alt="' + movie.title + '" loading="lazy"><div class="opt-label">' + movie.title + ' · ' + yr + '</div>'
+          : '<div class="opt-no-img">?</div><div class="opt-label">' + movie.title + ' · ' + yr + '</div>';
+        card.addEventListener('click', () => selectOption(idx, mi));
+        grid.appendChild(card);
+      });
+
+      // "Nenhuma" option
+      const noneCard = document.createElement('div');
+      noneCard.className = 'opt-none';
+      noneCard.dataset.idx = idx;
+      noneCard.dataset.mi = -1;
+      noneCard.innerHTML = '✕<span>Nenhuma</span>';
+      noneCard.addEventListener('click', () => selectOption(idx, -1));
+      grid.appendChild(noneCard);
+    }
+
+    document.getElementById('select-status').textContent = (i + 1) + ' de ' + films.length + ' buscados';
+    await new Promise(r => setTimeout(r, 200));
+  }
+
+  document.getElementById('loading-phase1').style.display = 'none';
+  document.getElementById('select-status').textContent = films.length + ' filmes carregados — revise e confirme';
+  document.getElementById('btn-confirm').style.display = 'block';
+  btn.disabled = false;
+  btn.textContent = 'Buscar opções de capa';
+}
+
+function selectOption(idx, mi) {
+  filmChoices[idx].selected = mi >= 0 ? filmChoices[idx].results[mi] : null;
+  const grid = document.getElementById('grid-' + idx);
+  grid.querySelectorAll('.opt-card').forEach((c, i) => {
+    c.classList.toggle('selected', i === mi);
+  });
+  const none = grid.querySelector('.opt-none');
+  if (none) none.classList.toggle('selected', mi === -1);
+}
+
+async function confirmarEBaixar() {
+  const apiKey = document.getElementById('api-key').value.trim();
+  const lang = document.getElementById('lang').value;
+  const fnameMode = document.getElementById('fname').value;
+  const toDownload = filmChoices.filter(fc => fc.selected && fc.selected.poster_path);
+
+  if (toDownload.length === 0) { alert('Nenhuma capa selecionada.'); return; }
+
+  document.getElementById('btn-confirm').disabled = true;
+  document.getElementById('progress-section').style.display = 'block';
+  document.getElementById('done-banner').style.display = 'none';
+  document.getElementById('status-list').innerHTML = '';
+
+  const zip = new JSZip();
+  let done = 0, okCount = 0;
+
+  function setBar(n, total) {
+    const pct = Math.round((n / total) * 100);
+    document.getElementById('bar').style.width = pct + '%';
+    document.getElementById('counter').textContent = n + ' de ' + total + ' processados';
+    document.getElementById('pct').textContent = pct + '%';
+  }
+
+  function addRow(label) {
+    const id = 'si' + Math.random().toString(36).slice(2, 9);
+    const div = document.createElement('div');
+    div.className = 'status-item'; div.id = id;
+    div.innerHTML = '<span class="badge badge-loading">baixando</span><span class="si-title">' + label + '</span><span class="si-found"></span>';
+    document.getElementById('status-list').appendChild(div);
+    return id;
+  }
+
+  function updateRow(id, status, msg) {
+    const el = document.getElementById(id); if (!el) return;
+    const b = el.querySelector('.badge');
+    if (status === 'ok') { b.className = 'badge badge-ok'; b.textContent = '✓ baixado'; }
+    else if (status === 'skip') { b.className = 'badge badge-skip'; b.textContent = '— pulado'; }
+    else { b.className = 'badge badge-err'; b.textContent = '✗ erro'; }
+    el.querySelector('.si-found').textContent = msg || '';
+  }
+
+  // Skipped films
+  filmChoices.filter(fc => !fc.selected || !fc.selected.poster_path).forEach(fc => {
+    const label = fc.input.title + (fc.input.year ? ' (' + fc.input.year + ')' : '');
+    const rowId = addRow(label);
+    updateRow(rowId, 'skip', fc.results.length === 0 ? 'não encontrado' : 'ignorado manualmente');
+  });
+
+  setBar(0, toDownload.length);
+
+  for (let i = 0; i < toDownload.length; i++) {
+    const fc = toDownload[i];
+    const movie = fc.selected;
+    const label = fc.input.title + (fc.input.year ? ' (' + fc.input.year + ')' : '');
+    const rowId = addRow(label);
+    try {
+      const imgUrl = 'https://image.tmdb.org/t/p/w185' + movie.poster_path;
+      const imgRes = await fetch(imgUrl);
+      const blob = await imgRes.blob();
+      const safe = fnameMode === 'id'
+        ? String(movie.id)
+        : (movie.title || fc.input.title).replace(/[/\\:*?"<>|]/g, '');
+      zip.file(safe + '.webp', blob);
+      okCount++;
+      updateRow(rowId, 'ok', movie.title + (movie.release_date ? ' · ' + movie.release_date.slice(0, 4) : ''));
+    } catch(e) {
+      updateRow(rowId, 'err', 'falha ao baixar');
+    }
+    done++;
+    setBar(done, toDownload.length);
+    await new Promise(r => setTimeout(r, 150));
+  }
+
+  const content = await zip.generateAsync({ type: 'blob' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(content);
+  a.download = 'capas_tmdb.zip';
+  a.click();
+
+  document.getElementById('btn-confirm').disabled = false;
+  const banner = document.getElementById('done-banner');
+  banner.style.display = 'block';
+  document.getElementById('done-msg').textContent =
+    okCount + ' de ' + filmChoices.length + ' capas baixadas.' +
+    (filmChoices.length - okCount > 0 ? ' ' + (filmChoices.length - okCount) + ' puladas.' : ' Tudo certo!');
+}
+</script>
+</body>
+</html>
