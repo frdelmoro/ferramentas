@@ -137,6 +137,30 @@
   [data-theme="dark"] .mode-btn.active { color: #000; }
 
   /* ── TABS ── */
+  .tabs-wrap {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .tabs-arrow {
+    flex-shrink: 0;
+    width: 26px; height: 26px;
+    border-radius: 50%;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--muted);
+    cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 14px;
+    line-height: 1;
+    margin-bottom: 6px;
+    transition: all 0.2s;
+  }
+  .tabs-arrow:hover { border-color: var(--accent); color: var(--accent); }
+  .tabs-arrow:disabled { opacity: 0.25; cursor: default; }
+  .tabs-arrow:disabled:hover { border-color: var(--border); color: var(--muted); }
+
   .tabs {
     display: flex;
     gap: 4px;
@@ -435,7 +459,11 @@
       <span id="theme-label">Tema Escuro</span>
     </button>
   </div>
-  <nav class="tabs" id="tabs"></nav>
+  <div class="tabs-wrap">
+    <button class="tabs-arrow" id="tabs-arrow-left" onclick="scrollTabs(-1)" aria-label="Voltar">‹</button>
+    <nav class="tabs" id="tabs"></nav>
+    <button class="tabs-arrow" id="tabs-arrow-right" onclick="scrollTabs(1)" aria-label="Avançar">›</button>
+  </div>
 </header>
 
 <div class="toolbar">
@@ -527,6 +555,22 @@ function renderTabs() {
   document.getElementById('tabs').innerHTML = tabs.map(t =>
     `<button class="tab${t===currentTab?' active':''}" onclick="switchTab('${t.replace(/'/g,"\\'")}')">${t}</button>`
   ).join('');
+  document.getElementById('tabs').scrollLeft = 0;
+  updateTabsArrows();
+}
+
+function scrollTabs(dir) {
+  const el = document.getElementById('tabs');
+  el.scrollBy({ left: dir * 260, behavior: 'smooth' });
+}
+
+function updateTabsArrows() {
+  const el = document.getElementById('tabs');
+  const left = document.getElementById('tabs-arrow-left');
+  const right = document.getElementById('tabs-arrow-right');
+  const maxScroll = el.scrollWidth - el.clientWidth;
+  left.disabled = el.scrollLeft <= 2;
+  right.disabled = el.scrollLeft >= maxScroll - 2;
 }
 
 function switchTab(tab) {
@@ -663,6 +707,8 @@ document.addEventListener('keydown', e => { if (e.key==='Escape') closeModal(nul
 
 document.getElementById('btn-ordem').style.display = 'none';
 document.body.style.backgroundImage = `url('${SKY_URL}')`;
+document.getElementById('tabs').addEventListener('scroll', updateTabsArrows);
+window.addEventListener('resize', updateTabsArrows);
 renderTabs();
 renderGrid();
 </script>
