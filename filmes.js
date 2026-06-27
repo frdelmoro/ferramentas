@@ -8213,7 +8213,7 @@ const filmes = [
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1mXTf2PlezvHxc2H9Pr398bNCRuTeHIvk",
-    "nome": "Brigitte Bardot - A Verdade",
+    "nome": "A Verdade",
     "ano": 1960,
     "duracao": "2h 07m",
     "gb": null,
@@ -8233,11 +8233,12 @@ const filmes = [
         "nome": "Coleção Belle Cult - Feminina",
         "raw": "Coleção Belle Cult - Feminina"
       }
-    ]
+    ],
+    "artista": "Brigitte Bardot"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Ne-X2gTnLbySmOseFcImZPG80tvYQzNY",
-    "nome": "Catherine Deneuve - Expresso para Bordeaux",
+    "nome": "Expresso para Bordeaux",
     "ano": 1972,
     "duracao": "1h 38m",
     "gb": null,
@@ -8257,11 +8258,12 @@ const filmes = [
         "nome": "Coleção Belle Cult - Feminina",
         "raw": "Coleção Belle Cult - Feminina"
       }
-    ]
+    ],
+    "artista": "Catherine Deneuve"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1vtj7lWoqDdlh2fCYAP5AMuD2d91zIEWu",
-    "nome": "Charlotte Rampling - O Veredito",
+    "nome": "O Veredito",
     "ano": 1982,
     "duracao": "2h 09m",
     "gb": null,
@@ -8281,11 +8283,12 @@ const filmes = [
         "nome": "Coleção Belle Cult - Feminina",
         "raw": "Coleção Belle Cult - Feminina"
       }
-    ]
+    ],
+    "artista": "Charlotte Rampling"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Zeq_pj6YxYJb4NGkWK2za7B9dlOTvjtc",
-    "nome": "Claudia Cardinale - A Pantera Cor de Rosa",
+    "nome": "A Pantera Cor de Rosa",
     "ano": 1963,
     "duracao": "1h 55m",
     "gb": null,
@@ -8305,11 +8308,12 @@ const filmes = [
         "nome": "Coleção Belle Cult - Feminina",
         "raw": "Coleção Belle Cult - Feminina"
       }
-    ]
+    ],
+    "artista": "Claudia Cardinale"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1_ZKkSUgA85Jm3FBW9yq_MwKekAcZgLoA",
-    "nome": "Gina Lollobrigida - Quando Setembro Vier",
+    "nome": "Quando Setembro Vier",
     "ano": 1961,
     "duracao": "1h 52m",
     "gb": null,
@@ -8329,11 +8333,12 @@ const filmes = [
         "nome": "Coleção Belle Cult - Feminina",
         "raw": "Coleção Belle Cult - Feminina"
       }
-    ]
+    ],
+    "artista": "Gina Lollobrigida"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1EaKqYzHJwPIABJUvEY1BGBANpIbBlAhM",
-    "nome": "Raquel Welch - Os Três Mosqueteiros",
+    "nome": "Os Três Mosqueteiros",
     "ano": 1973,
     "duracao": "1h 45m",
     "gb": null,
@@ -8353,11 +8358,12 @@ const filmes = [
         "nome": "Coleção Belle Cult - Feminina",
         "raw": "Coleção Belle Cult - Feminina"
       }
-    ]
+    ],
+    "artista": "Raquel Welch"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1xx-_q3M-0FrsDwILn26VlIC9JEl5OVZr",
-    "nome": "Ursula Andress - O que é que há Gatinha?",
+    "nome": "O que é que há Gatinha?",
     "ano": 1965,
     "duracao": "1h 48m",
     "gb": null,
@@ -8377,11 +8383,12 @@ const filmes = [
         "nome": "Coleção Belle Cult - Feminina",
         "raw": "Coleção Belle Cult - Feminina"
       }
-    ]
+    ],
+    "artista": "Ursula Andress"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1PLUXYq_syU1-U1he02nmuUGY_KxKNKoR",
-    "nome": "Sophia Loren - Boccacio 70",
+    "nome": "Boccacio 70",
     "ano": 1962,
     "duracao": "3h 25m",
     "gb": null,
@@ -8401,11 +8408,12 @@ const filmes = [
         "nome": "Coleção Belle Cult - Feminina",
         "raw": "Coleção Belle Cult - Feminina"
       }
-    ]
+    ],
+    "artista": "Sophia Loren"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1uOxVpx2X4qy1AyeYnooxXYh1jnC1oZpe",
-    "nome": "Alain Delon - O Círculo Vermelho",
+    "nome": "O Círculo Vermelho",
     "ano": 1970,
     "duracao": "2h 20m",
     "gb": null,
@@ -8425,11 +8433,12 @@ const filmes = [
         "nome": "Coleção Belle Cult - Masculina",
         "raw": "Coleção Belle Cult - Masculina"
       }
-    ]
+    ],
+    "artista": "Alain Delon"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1BoH60E1tEEFzFpdMmSZFDSC18PJiyorg",
-    "nome": "Alain Delon - O Samurai",
+    "nome": "O Samurai",
     "ano": 1967,
     "duracao": "1h 41m",
     "gb": null,
@@ -8449,11 +8458,12 @@ const filmes = [
         "nome": "Coleção Belle Cult - Masculina",
         "raw": "Coleção Belle Cult - Masculina"
       }
-    ]
+    ],
+    "artista": "Alain Delon"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1e90WdTh5sL_H_zysR6G3N-SSFkw7KRZ-",
-    "nome": "Elis Presley - Amor a toda velocidade",
+    "nome": "Amor a toda velocidade",
     "ano": 1964,
     "duracao": "1h 25m",
     "gb": null,
@@ -8473,11 +8483,12 @@ const filmes = [
         "nome": "Coleção Belle Cult - Masculina",
         "raw": "Coleção Belle Cult - Masculina"
       }
-    ]
+    ],
+    "artista": "Elis Presley"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1wqnh-wS8N_ILPOEPdadMOKNp78BOdFOi",
-    "nome": "Marcello Mastroianni - Matrimônio à Italiana",
+    "nome": "Matrimônio à Italiana",
     "ano": 1964,
     "duracao": "1h 42m",
     "gb": null,
@@ -8497,11 +8508,12 @@ const filmes = [
         "nome": "Coleção Belle Cult - Masculina",
         "raw": "Coleção Belle Cult - Masculina"
       }
-    ]
+    ],
+    "artista": "Marcello Mastroianni"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/14sjrhPjs4VnPnzpZFizhVMRecrnMizDZ",
-    "nome": "Omar Sharif - Doutor Jivago",
+    "nome": "Doutor Jivago",
     "ano": 1965,
     "duracao": "3h 17m",
     "gb": null,
@@ -8521,11 +8533,12 @@ const filmes = [
         "nome": "Coleção Belle Cult - Masculina",
         "raw": "Coleção Belle Cult - Masculina"
       }
-    ]
+    ],
+    "artista": "Omar Sharif"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1zWIQeOGlj5Gyy1YLUWCxBNpR3h21iuWH",
-    "nome": "Redford - Newman - Butch Cassidy",
+    "nome": "Butch Cassidy",
     "ano": 1969,
     "duracao": "1h 50m",
     "gb": null,
@@ -8545,7 +8558,8 @@ const filmes = [
         "nome": "Coleção Belle Cult - Masculina",
         "raw": "Coleção Belle Cult - Masculina"
       }
-    ]
+    ],
+    "artista": "Redford - Newman"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/11cpMqmSNkvN9IerUfLGDxaMK03FRemIT",
@@ -8814,7 +8828,8 @@ const filmes = [
         "nome": "Coleção Belle Cult - Feminina",
         "raw": "Coleção Belle Cult - Feminina"
       }
-    ]
+    ],
+    "artista": "Sylvia Kristel"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/14o3Yf6ZYooU7Tc2OIFbqkQYkKGAdaBAp",
@@ -9731,7 +9746,8 @@ const filmes = [
         "nome": "Coleção Belle Cult - Masculina",
         "raw": "Coleção Belle Cult - Masculina"
       }
-    ]
+    ],
+    "artista": "Franco Nero"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1h1w08VtlU95DIfRhlP6LKX4Sgx9aVZzb",
@@ -9760,7 +9776,8 @@ const filmes = [
         "nome": "Coleção Belle Cult - Masculina",
         "raw": "Coleção Belle Cult - Masculina"
       }
-    ]
+    ],
+    "artista": "Giuliano Gemma"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1fFvsQoZGOqRoAWSKlU8Pf-24raWrJMeF",
@@ -10341,7 +10358,8 @@ const filmes = [
         "nome": "Coleção Belle Cult - Feminina",
         "raw": "Coleção Belle Cult - Feminina"
       }
-    ]
+    ],
+    "artista": "Jacqueline Bisset"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1hditqD25B16HqS3x9Tz05L2wPa6cHYcx",
