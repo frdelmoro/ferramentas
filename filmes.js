@@ -1111,10 +1111,10 @@ const filmes = [
     "duracao": "02h 12m",
     "gb": null,
     "local": "Ação TR",
-    "codec": "HEVC",
+    "codec": "HEVC 4K",
     "perfilCor": "HDR",
-    "presetElmedia": "B1 | S4 | C6 | G5 | H1 | Sh1.25",
-    "situacao": null,
+    "presetElmedia": "B6 | S4 | C10 | G10 | H-1 | Sh1.2",
+    "situacao": "F",
     "sinopse": "Robert McCall vive uma vida pacata e solitária tentando esquecer seu passado. Ele quebra seu isolamento e usa suas habilidades letais para proteger uma jovem russa das garras de uma violenta facção da máfia.",
     "genero": "Ação",
     "origem": "genero",
@@ -2042,7 +2042,7 @@ const filmes = [
     "sinopse": "Um enfermeiro azarado decide pedir a namorada em casamento durante um fim de semana na casa dos sogros. O plano perfeito vira um pesadelo hilário quando ele descobre que seu futuro sogro é um ex-agente desconfiado da CIA que decide investigar o genro.",
     "genero": "Comédia",
     "origem": "genero",
-    "colecaoTipo": "Franquia -  Entrando Numa Fria",
+    "colecaoTipo": "Franquia - Entrando Numa Fria",
     "ordem": "EF 01",
     "tags": [
       {
@@ -2066,7 +2066,7 @@ const filmes = [
     "sinopse": "Após sobreviver ao primeiro encontro com o sogro ex-CIA, o jovem casal viaja para apresentar os pais dele à espalhafatosa família do noivo. O choque cultural definitivo entre duas famílias completamente opostas transforma a viagem em uma lavagem de roupa suja incontrolável.",
     "genero": "Comédia",
     "origem": "genero",
-    "colecaoTipo": "Franquia -  Entrando Numa Fria",
+    "colecaoTipo": "Franquia - Entrando Numa Fria",
     "ordem": "EF 02",
     "tags": [
       {
@@ -6592,246 +6592,6 @@ const filmes = [
     "tags": []
   },
   {
-    "capa": "https://lh3.googleusercontent.com/d/1YXP0rGPLlKafcBC-0NDtkBM8fj4P6Djk",
-    "nome": "O Garoto",
-    "ano": 1921,
-    "duracao": "1h 08m",
-    "gb": null,
-    "local": "TB-F Filmes Família",
-    "codec": null,
-    "perfilCor": null,
-    "presetElmedia": null,
-    "situacao": null,
-    "sinopse": "A emocionante jornada de um homem humilde determinado a salvar a visão da mulher que ama. Entre trapalhadas hilárias e uma sensibilidade tocante, este romance mudo desafia a chegada do som no cinema com uma das mensagens mais belas sobre a empatia humana.",
-    "genero": "Filmes Família",
-    "origem": "genero",
-    "colecaoTipo": "Franquia - Chaplin",
-    "ordem": "CC 01",
-    "tags": [
-      {
-        "tipo": "Franquia",
-        "nome": "Chaplin",
-        "raw": "Franquia - Chaplin"
-      }
-    ]
-  },
-  {
-    "capa": "https://lh3.googleusercontent.com/d/1e-c5eTv31aVf7qbAnOGcbHrEk2_BEXpI",
-    "nome": "Em Busca do Ouro",
-    "ano": 1925,
-    "duracao": "1h 35m",
-    "gb": null,
-    "local": "TB-F Filmes Família",
-    "codec": null,
-    "perfilCor": null,
-    "presetElmedia": null,
-    "situacao": null,
-    "sinopse": "O Vagabundo enfrenta o frio do Alasca e o isolamento na busca implacável por riqueza. Uma obra-prima da comédia visual que transforma a fome e a adversidade em pura poesia cinematográfica. Descubra o clássico imortal que equilibra riso e emoção.",
-    "genero": "Filmes Família",
-    "origem": "genero",
-    "colecaoTipo": "Franquia - Chaplin",
-    "ordem": "CC 02",
-    "tags": [
-      {
-        "tipo": "Franquia",
-        "nome": "Chaplin",
-        "raw": "Franquia - Chaplin"
-      }
-    ]
-  },
-  {
-    "capa": "https://lh3.googleusercontent.com/d/1qnvt22zOY1VbQ1qJO9tMJ9pRSkJK0NPU",
-    "nome": "O Circo",
-    "ano": 1928,
-    "duracao": "1h 12m",
-    "gb": null,
-    "local": "TB-F Filmes Família",
-    "codec": null,
-    "perfilCor": null,
-    "presetElmedia": null,
-    "situacao": null,
-    "sinopse": "Fugindo da polícia, o Vagabundo acidentalmente vira a grande atração de um circo decadente. Uma comédia vibrante repleta de acrobacias geniais, risadas garantidas e a melancolia única de Chaplin nos bastidores do picadeiro.",
-    "genero": "Filmes Família",
-    "origem": "genero",
-    "colecaoTipo": "Franquia - Chaplin",
-    "ordem": "CC 03",
-    "tags": [
-      {
-        "tipo": "Franquia",
-        "nome": "Chaplin",
-        "raw": "Franquia - Chaplin"
-      }
-    ]
-  },
-  {
-    "capa": "https://lh3.googleusercontent.com/d/14pA7YiLSUJP8kFJ1n1VKKBL1fmvKJops",
-    "nome": "Luzes da Cidade",
-    "ano": 1931,
-    "duracao": "1h 27m",
-    "gb": null,
-    "local": "TB-F Filmes Família",
-    "codec": null,
-    "perfilCor": null,
-    "presetElmedia": null,
-    "situacao": null,
-    "sinopse": "O clássico comovente que uniu o Vagabundo a um adorável órfão em uma parceria inesquecível. Com humor refinado e profunda carga dramática, esta obra revolucionou o cinema ao provar que um filme pode fazer chorar e sorrir ao mesmo tempo.",
-    "genero": "Filmes Família",
-    "origem": "genero",
-    "colecaoTipo": "Franquia - Chaplin",
-    "ordem": "CC 04",
-    "tags": [
-      {
-        "tipo": "Franquia",
-        "nome": "Chaplin",
-        "raw": "Franquia - Chaplin"
-      }
-    ]
-  },
-  {
-    "capa": "https://lh3.googleusercontent.com/d/1DVtqkCV_z5b4a0CMYQMm_76f7lpnu7uI",
-    "nome": "Tempos Modernos",
-    "ano": 1936,
-    "duracao": "1h 27m",
-    "gb": null,
-    "local": "TB-F Filmes Família",
-    "codec": null,
-    "perfilCor": null,
-    "presetElmedia": null,
-    "situacao": null,
-    "sinopse": "A genial e corajosa sátira política onde Chaplin ridiculariza o fascismo com inteligência afiada. Uma obra-prima audaciosa que diverte através de equívocos hilários e entrega um dos discursos humanistas mais potentes e atuais da história.",
-    "genero": "Filmes Família",
-    "origem": "genero",
-    "colecaoTipo": "Franquia - Chaplin",
-    "ordem": "CC 05",
-    "tags": [
-      {
-        "tipo": "Franquia",
-        "nome": "Chaplin",
-        "raw": "Franquia - Chaplin"
-      }
-    ]
-  },
-  {
-    "capa": "https://lh3.googleusercontent.com/d/1a9RDR7qd6-eCJd-MWErtS9gpcP1i4Qsw",
-    "nome": "O Grande Ditador",
-    "ano": 1940,
-    "duracao": "0h 55m",
-    "gb": null,
-    "local": "TB-F Filmes Família",
-    "codec": null,
-    "perfilCor": null,
-    "presetElmedia": null,
-    "situacao": null,
-    "sinopse": "Uma crítica bem-humorada e atemporal à industrialização e à opressão do trabalho fabril. O Vagabundo tenta sobreviver à rotina das máquinas em uma sucessão de cenas icônicas que misturam comédia física genial e questionamento social.",
-    "genero": "Filmes Família",
-    "origem": "genero",
-    "colecaoTipo": "Franquia - Chaplin",
-    "ordem": "CC 06",
-    "tags": [
-      {
-        "tipo": "Franquia",
-        "nome": "Chaplin",
-        "raw": "Franquia - Chaplin"
-      }
-    ]
-  },
-  {
-    "capa": "https://lh3.googleusercontent.com/d/1ZblRtv9KS4KzktHhVHmFnmh25k6UZAg2",
-    "nome": "Ceia dos Veteranos",
-    "ano": 1938,
-    "duracao": "2h 05m",
-    "gb": null,
-    "local": "TB-F Filmes Família",
-    "codec": null,
-    "perfilCor": null,
-    "presetElmedia": null,
-    "situacao": null,
-    "sinopse": "Stan passa 20 anos vigiando uma trincheira sem saber que a guerra acabou. Ao ser resgatado por Ollie, a dupla se reencontra para encarar a vida moderna em uma avalanche de trapalhadas domésticas explosivas, ciúmes e a clássica e caótica genialidade que consagrou a dupla.",
-    "genero": "Filmes Família",
-    "origem": "genero",
-    "colecaoTipo": "Franquia - O Gordo e o Magro",
-    "ordem": null,
-    "tags": [
-      {
-        "tipo": "Franquia",
-        "nome": "O Gordo e o Magro",
-        "raw": "Franquia - O Gordo e o Magro"
-      }
-    ]
-  },
-  {
-    "capa": "https://lh3.googleusercontent.com/d/1lRD_3Ht-lY91H1SWCGmW6wgAXfmtDEw5",
-    "nome": "Febre de Juventude",
-    "ano": 1978,
-    "duracao": "1h 44m",
-    "gb": null,
-    "local": "TB-F Filmes Família",
-    "codec": null,
-    "perfilCor": null,
-    "presetElmedia": null,
-    "situacao": null,
-    "sinopse": "A emocionante história dos bastidores da criação do clássico Peter Pan. Acompanhe a tocante e transformadora amizade entre o escritor J.M. Barrie e uma família que o inspira a redescobrir o poder da imaginação, do afeto e da eterna juventude.",
-    "genero": "Filmes Família",
-    "origem": "genero",
-    "colecaoTipo": null,
-    "ordem": null,
-    "tags": []
-  },
-  {
-    "capa": "https://lh3.googleusercontent.com/d/1YiezhdyGD3q9GY2yTacTJzcwwMEreg3N",
-    "nome": "Em Busca da Terra do Nunca",
-    "ano": 2004,
-    "duracao": "1h 46m",
-    "gb": null,
-    "local": "TB-F Filmes Família",
-    "codec": null,
-    "perfilCor": null,
-    "presetElmedia": null,
-    "situacao": null,
-    "sinopse": "Uma comédia eletrizante ambientada no auge da Beatlemania em 1964. Seis adolescentes de Nova Jersey fazem de tudo para invadir Nova York e assistir à histórica primeira apresentação dos Beatles na TV americana, desencadeando confusões inesquecíveis.",
-    "genero": "Filmes Família",
-    "origem": "genero",
-    "colecaoTipo": null,
-    "ordem": null,
-    "tags": []
-  },
-  {
-    "capa": "https://lh3.googleusercontent.com/d/1Je89FymnSZiSlNCAzEwp9gusEOafDR64",
-    "nome": "O Rei da Califórnia",
-    "ano": 2007,
-    "duracao": "1h 33m",
-    "gb": null,
-    "local": "TB-F Filmes Família",
-    "codec": "HEVC",
-    "perfilCor": null,
-    "presetElmedia": null,
-    "situacao": null,
-    "sinopse": "As hilárias e adoráveis desventuras de um garoto francês cheio de imaginação e sua turma de amigos. Uma comédia familiar leve, nostálgica e inteligente que captura perfeitamente os desafios e as grandes alegrias do universo infantil.",
-    "genero": "Filmes Família",
-    "origem": "genero",
-    "colecaoTipo": null,
-    "ordem": null,
-    "tags": []
-  },
-  {
-    "capa": "https://lh3.googleusercontent.com/d/1pHVMxpl2QE7wtVIClkBEaOeAyZPJZpvD",
-    "nome": "O Pequeno Nicolau",
-    "ano": 2009,
-    "duracao": "1h 31m",
-    "gb": null,
-    "local": "TB-F Filmes Família",
-    "codec": null,
-    "perfilCor": null,
-    "presetElmedia": null,
-    "situacao": null,
-    "sinopse": "Um pai excêntrico sai de uma clínica de reabilitação determinado a convencer sua filha de que há um tesouro espanhol enterrado sob um supermercado local. Uma jornada cativante e imprevisível sobre segundas chances, loucura e os laços familiares.",
-    "genero": "Filmes Família",
-    "origem": "genero",
-    "colecaoTipo": null,
-    "ordem": null,
-    "tags": []
-  },
-  {
     "capa": "https://lh3.googleusercontent.com/d/1Avd41r90jpzgDu69MybT588m3qp2wxEz",
     "nome": "Sean Conery - 007 contra Goldfinger",
     "ano": 1964,
@@ -8196,7 +7956,7 @@ const filmes = [
     ]
   },
   {
-    "capa": "https://lh3.googleusercontent.com/d/1BoyXSHWvkDPKHBuBZ98HVexEsxoftLTH",
+    "capa": "https://lh3.googleusercontent.com/d/1GW8pXWFr58gtYqdhMeeJSondb-zedOul",
     "nome": "F1 2025",
     "ano": 2025,
     "duracao": "2h 35m",
@@ -10182,7 +9942,7 @@ const filmes = [
     ]
   },
   {
-    "capa": "https://lh3.googleusercontent.com/d/1lAID98si76Idg7reCsFCx73synsa9NCS",
+    "capa": "https://lh3.googleusercontent.com/d/1fANtee5qBP9Fq60ycivVfzdLsNtPJAZ_",
     "nome": "A Grande Aposta",
     "ano": 2015,
     "duracao": "02h 10m",
@@ -10206,7 +9966,7 @@ const filmes = [
     ]
   },
   {
-    "capa": "https://lh3.googleusercontent.com/d/1o1Ty7Kg2SiwCRhyyARsGNdW6BSFT8laF",
+    "capa": "https://lh3.googleusercontent.com/d/1OVjKIGo0S4ArhUioNtq3HtRpJQhfzX9B",
     "nome": "Clube de Compras Dallas",
     "ano": 2013,
     "duracao": "01h 57m",
@@ -10230,7 +9990,7 @@ const filmes = [
     ]
   },
   {
-    "capa": "https://lh3.googleusercontent.com/d/1OVjKIGo0S4ArhUioNtq3HtRpJQhfzX9B",
+    "capa": "https://lh3.googleusercontent.com/d/1o1Ty7Kg2SiwCRhyyARsGNdW6BSFT8laF",
     "nome": "Conduta de Risco",
     "ano": 2007,
     "duracao": "02h 00m",
@@ -10254,7 +10014,7 @@ const filmes = [
     ]
   },
   {
-    "capa": "https://lh3.googleusercontent.com/d/1fANtee5qBP9Fq60ycivVfzdLsNtPJAZ_",
+    "capa": "https://lh3.googleusercontent.com/d/1mW3bVqT3A1W0KgNdDKcBQlejPjQN5MpF",
     "nome": "Kolya",
     "ano": 1996,
     "duracao": "01h 45m",
@@ -10278,7 +10038,7 @@ const filmes = [
     ]
   },
   {
-    "capa": "https://lh3.googleusercontent.com/d/1mW3bVqT3A1W0KgNdDKcBQlejPjQN5MpF",
+    "capa": "https://lh3.googleusercontent.com/d/1T-bevx7XmrbLO1X1v7fVs2NnBiWZv1I_",
     "nome": "Philomena",
     "ano": 2013,
     "duracao": "01h 38m",
@@ -10302,7 +10062,7 @@ const filmes = [
     ]
   },
   {
-    "capa": "https://lh3.googleusercontent.com/d/1jeWn_HpydpTmpjUHFx3swCV9511MwzOl",
+    "capa": "https://lh3.googleusercontent.com/d/1lAID98si76Idg7reCsFCx73synsa9NCS",
     "nome": "Sonhos de Trem",
     "ano": 2025,
     "duracao": "01h 45m",
@@ -10326,7 +10086,7 @@ const filmes = [
     ]
   },
   {
-    "capa": "https://lh3.googleusercontent.com/d/1T-bevx7XmrbLO1X1v7fVs2NnBiWZv1I_",
+    "capa": "https://lh3.googleusercontent.com/d/1_FskMDgNkG0booWK7tnDscIqQ9byFUeY",
     "nome": "Trapaça",
     "ano": 2013,
     "duracao": "02h 18m",
@@ -10350,7 +10110,7 @@ const filmes = [
     ]
   },
   {
-    "capa": "https://lh3.googleusercontent.com/d/1_FskMDgNkG0booWK7tnDscIqQ9byFUeY",
+    "capa": "https://lh3.googleusercontent.com/d/1jeWn_HpydpTmpjUHFx3swCV9511MwzOl",
     "nome": "Três Anúncios para Um Crime",
     "ano": 2017,
     "duracao": "01h 55m",
@@ -10636,6 +10396,246 @@ const filmes = [
         "raw": "Coleção Shakespeare"
       }
     ]
+  },
+  {
+    "capa": "https://lh3.googleusercontent.com/d/1YXP0rGPLlKafcBC-0NDtkBM8fj4P6Djk",
+    "nome": "O Garoto",
+    "ano": 1921,
+    "duracao": "1h 08m",
+    "gb": null,
+    "local": "TB-F Filmes Família",
+    "codec": null,
+    "perfilCor": null,
+    "presetElmedia": null,
+    "situacao": null,
+    "sinopse": "A emocionante jornada de um homem humilde determinado a salvar a visão da mulher que ama. Entre trapalhadas hilárias e uma sensibilidade tocante, este romance mudo desafia a chegada do som no cinema com uma das mensagens mais belas sobre a empatia humana.",
+    "genero": "Filmes Família",
+    "origem": "genero",
+    "colecaoTipo": "Franquia - Chaplin",
+    "ordem": "CC 01",
+    "tags": [
+      {
+        "tipo": "Franquia",
+        "nome": "Chaplin",
+        "raw": "Franquia - Chaplin"
+      }
+    ]
+  },
+  {
+    "capa": "https://lh3.googleusercontent.com/d/1e-c5eTv31aVf7qbAnOGcbHrEk2_BEXpI",
+    "nome": "Em Busca do Ouro",
+    "ano": 1925,
+    "duracao": "1h 35m",
+    "gb": null,
+    "local": "TB-F Filmes Família",
+    "codec": null,
+    "perfilCor": null,
+    "presetElmedia": null,
+    "situacao": null,
+    "sinopse": "O Vagabundo enfrenta o frio do Alasca e o isolamento na busca implacável por riqueza. Uma obra-prima da comédia visual que transforma a fome e a adversidade em pura poesia cinematográfica. Descubra o clássico imortal que equilibra riso e emoção.",
+    "genero": "Filmes Família",
+    "origem": "genero",
+    "colecaoTipo": "Franquia - Chaplin",
+    "ordem": "CC 02",
+    "tags": [
+      {
+        "tipo": "Franquia",
+        "nome": "Chaplin",
+        "raw": "Franquia - Chaplin"
+      }
+    ]
+  },
+  {
+    "capa": "https://lh3.googleusercontent.com/d/1qnvt22zOY1VbQ1qJO9tMJ9pRSkJK0NPU",
+    "nome": "O Circo",
+    "ano": 1928,
+    "duracao": "1h 12m",
+    "gb": null,
+    "local": "TB-F Filmes Família",
+    "codec": null,
+    "perfilCor": null,
+    "presetElmedia": null,
+    "situacao": null,
+    "sinopse": "Fugindo da polícia, o Vagabundo acidentalmente vira a grande atração de um circo decadente. Uma comédia vibrante repleta de acrobacias geniais, risadas garantidas e a melancolia única de Chaplin nos bastidores do picadeiro.",
+    "genero": "Filmes Família",
+    "origem": "genero",
+    "colecaoTipo": "Franquia - Chaplin",
+    "ordem": "CC 03",
+    "tags": [
+      {
+        "tipo": "Franquia",
+        "nome": "Chaplin",
+        "raw": "Franquia - Chaplin"
+      }
+    ]
+  },
+  {
+    "capa": "https://lh3.googleusercontent.com/d/14pA7YiLSUJP8kFJ1n1VKKBL1fmvKJops",
+    "nome": "Luzes da Cidade",
+    "ano": 1931,
+    "duracao": "1h 27m",
+    "gb": null,
+    "local": "TB-F Filmes Família",
+    "codec": null,
+    "perfilCor": null,
+    "presetElmedia": null,
+    "situacao": null,
+    "sinopse": "O clássico comovente que uniu o Vagabundo a um adorável órfão em uma parceria inesquecível. Com humor refinado e profunda carga dramática, esta obra revolucionou o cinema ao provar que um filme pode fazer chorar e sorrir ao mesmo tempo.",
+    "genero": "Filmes Família",
+    "origem": "genero",
+    "colecaoTipo": "Franquia - Chaplin",
+    "ordem": "CC 04",
+    "tags": [
+      {
+        "tipo": "Franquia",
+        "nome": "Chaplin",
+        "raw": "Franquia - Chaplin"
+      }
+    ]
+  },
+  {
+    "capa": "https://lh3.googleusercontent.com/d/1DVtqkCV_z5b4a0CMYQMm_76f7lpnu7uI",
+    "nome": "Tempos Modernos",
+    "ano": 1936,
+    "duracao": "1h 27m",
+    "gb": null,
+    "local": "TB-F Filmes Família",
+    "codec": null,
+    "perfilCor": null,
+    "presetElmedia": null,
+    "situacao": null,
+    "sinopse": "A genial e corajosa sátira política onde Chaplin ridiculariza o fascismo com inteligência afiada. Uma obra-prima audaciosa que diverte através de equívocos hilários e entrega um dos discursos humanistas mais potentes e atuais da história.",
+    "genero": "Filmes Família",
+    "origem": "genero",
+    "colecaoTipo": "Franquia - Chaplin",
+    "ordem": "CC 05",
+    "tags": [
+      {
+        "tipo": "Franquia",
+        "nome": "Chaplin",
+        "raw": "Franquia - Chaplin"
+      }
+    ]
+  },
+  {
+    "capa": "https://lh3.googleusercontent.com/d/1a9RDR7qd6-eCJd-MWErtS9gpcP1i4Qsw",
+    "nome": "O Grande Ditador",
+    "ano": 1940,
+    "duracao": "0h 55m",
+    "gb": null,
+    "local": "TB-F Filmes Família",
+    "codec": null,
+    "perfilCor": null,
+    "presetElmedia": null,
+    "situacao": null,
+    "sinopse": "Uma crítica bem-humorada e atemporal à industrialização e à opressão do trabalho fabril. O Vagabundo tenta sobreviver à rotina das máquinas em uma sucessão de cenas icônicas que misturam comédia física genial e questionamento social.",
+    "genero": "Filmes Família",
+    "origem": "genero",
+    "colecaoTipo": "Franquia - Chaplin",
+    "ordem": "CC 06",
+    "tags": [
+      {
+        "tipo": "Franquia",
+        "nome": "Chaplin",
+        "raw": "Franquia - Chaplin"
+      }
+    ]
+  },
+  {
+    "capa": "https://lh3.googleusercontent.com/d/1ZblRtv9KS4KzktHhVHmFnmh25k6UZAg2",
+    "nome": "Ceia dos Veteranos",
+    "ano": 1938,
+    "duracao": "2h 05m",
+    "gb": null,
+    "local": "TB-F Filmes Família",
+    "codec": null,
+    "perfilCor": null,
+    "presetElmedia": null,
+    "situacao": null,
+    "sinopse": "Stan passa 20 anos vigiando uma trincheira sem saber que a guerra acabou. Ao ser resgatado por Ollie, a dupla se reencontra para encarar a vida moderna em uma avalanche de trapalhadas domésticas explosivas, ciúmes e a clássica e caótica genialidade que consagrou a dupla.",
+    "genero": "Filmes Família",
+    "origem": "genero",
+    "colecaoTipo": "Franquia - O Gordo e o Magro",
+    "ordem": null,
+    "tags": [
+      {
+        "tipo": "Franquia",
+        "nome": "O Gordo e o Magro",
+        "raw": "Franquia - O Gordo e o Magro"
+      }
+    ]
+  },
+  {
+    "capa": "https://lh3.googleusercontent.com/d/1lRD_3Ht-lY91H1SWCGmW6wgAXfmtDEw5",
+    "nome": "Febre de Juventude",
+    "ano": 1978,
+    "duracao": "1h 44m",
+    "gb": null,
+    "local": "TB-F Filmes Família",
+    "codec": null,
+    "perfilCor": null,
+    "presetElmedia": null,
+    "situacao": null,
+    "sinopse": "A emocionante história dos bastidores da criação do clássico Peter Pan. Acompanhe a tocante e transformadora amizade entre o escritor J.M. Barrie e uma família que o inspira a redescobrir o poder da imaginação, do afeto e da eterna juventude.",
+    "genero": "Filmes Família",
+    "origem": "genero",
+    "colecaoTipo": null,
+    "ordem": null,
+    "tags": []
+  },
+  {
+    "capa": "https://lh3.googleusercontent.com/d/1YiezhdyGD3q9GY2yTacTJzcwwMEreg3N",
+    "nome": "Em Busca da Terra do Nunca",
+    "ano": 2004,
+    "duracao": "1h 46m",
+    "gb": null,
+    "local": "TB-F Filmes Família",
+    "codec": null,
+    "perfilCor": null,
+    "presetElmedia": null,
+    "situacao": null,
+    "sinopse": "Uma comédia eletrizante ambientada no auge da Beatlemania em 1964. Seis adolescentes de Nova Jersey fazem de tudo para invadir Nova York e assistir à histórica primeira apresentação dos Beatles na TV americana, desencadeando confusões inesquecíveis.",
+    "genero": "Filmes Família",
+    "origem": "genero",
+    "colecaoTipo": null,
+    "ordem": null,
+    "tags": []
+  },
+  {
+    "capa": "https://lh3.googleusercontent.com/d/1Je89FymnSZiSlNCAzEwp9gusEOafDR64",
+    "nome": "O Rei da Califórnia",
+    "ano": 2007,
+    "duracao": "1h 33m",
+    "gb": null,
+    "local": "TB-F Filmes Família",
+    "codec": "HEVC",
+    "perfilCor": null,
+    "presetElmedia": null,
+    "situacao": null,
+    "sinopse": "As hilárias e adoráveis desventuras de um garoto francês cheio de imaginação e sua turma de amigos. Uma comédia familiar leve, nostálgica e inteligente que captura perfeitamente os desafios e as grandes alegrias do universo infantil.",
+    "genero": "Filmes Família",
+    "origem": "genero",
+    "colecaoTipo": null,
+    "ordem": null,
+    "tags": []
+  },
+  {
+    "capa": "https://lh3.googleusercontent.com/d/1pHVMxpl2QE7wtVIClkBEaOeAyZPJZpvD",
+    "nome": "O Pequeno Nicolau",
+    "ano": 2009,
+    "duracao": "1h 31m",
+    "gb": null,
+    "local": "TB-F Filmes Família",
+    "codec": null,
+    "perfilCor": null,
+    "presetElmedia": null,
+    "situacao": null,
+    "sinopse": "Um pai excêntrico sai de uma clínica de reabilitação determinado a convencer sua filha de que há um tesouro espanhol enterrado sob um supermercado local. Uma jornada cativante e imprevisível sobre segundas chances, loucura e os laços familiares.",
+    "genero": "Filmes Família",
+    "origem": "genero",
+    "colecaoTipo": null,
+    "ordem": null,
+    "tags": []
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Trr7iGftVCQFeRRXP2qmYurtCJCc0RTn",
