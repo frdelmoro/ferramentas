@@ -22,7 +22,14 @@ const filmes = [
         "nome": "De Volta para O Futuro",
         "raw": "Franquia - De Volta para O Futuro"
       }
-    ]
+    ],
+    "diretor": "Robert Zemeckis",
+    "ator1": "Michael J. Fox",
+    "ator2": "Christopher Lloyd",
+    "ator3": "Lea Thompson",
+    "ator4": "Crispin Glover",
+    "ator5": "Thomas F. Wilson",
+    "ator6": "Claudia Wells"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1IoEUT5ByUD-4h9ir9l2rD8KrfXjMGAZM",
@@ -46,7 +53,14 @@ const filmes = [
         "nome": "De Volta para O Futuro",
         "raw": "Franquia - De Volta para O Futuro"
       }
-    ]
+    ],
+    "diretor": "Robert Zemeckis",
+    "ator1": "Michael J. Fox",
+    "ator2": "Christopher Lloyd",
+    "ator3": "Lea Thompson",
+    "ator4": "Thomas F. Wilson",
+    "ator5": "Elisabeth Shue",
+    "ator6": "Jeffrey Weissman"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1qG9d-mb8X5PsLa-XEnIcCN3PE8SZGfsv",
@@ -70,7 +84,14 @@ const filmes = [
         "nome": "De Volta para O Futuro",
         "raw": "Franquia - De Volta para O Futuro"
       }
-    ]
+    ],
+    "diretor": "Robert Zemeckis",
+    "ator1": "Michael J. Fox",
+    "ator2": "Christopher Lloyd",
+    "ator3": "Mary Steenburgen",
+    "ator4": "Thomas F. Wilson",
+    "ator5": "Lea Thompson",
+    "ator6": "Elisabeth Shue"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/15-qh5XsEJpr_LfKVnKPIm9kvLdqI4YVC",
@@ -94,7 +115,14 @@ const filmes = [
         "nome": "Rocky",
         "raw": "Franquia - Rocky"
       }
-    ]
+    ],
+    "diretor": "John G. Avildsen",
+    "ator1": "Sylvester Stallone",
+    "ator2": "Talia Shire",
+    "ator3": "Burt Young",
+    "ator4": "Carl Weathers",
+    "ator5": "Burgess Meredith",
+    "ator6": "Thayer David"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1jP2yyRo_o-GVhJODRGajTlH_rZdLFdvk",
@@ -118,7 +146,14 @@ const filmes = [
         "nome": "Rocky",
         "raw": "Franquia - Rocky"
       }
-    ]
+    ],
+    "diretor": "Sylvester Stallone",
+    "ator1": "Sylvester Stallone",
+    "ator2": "Talia Shire",
+    "ator3": "Burt Young",
+    "ator4": "Carl Weathers",
+    "ator5": "Burgess Meredith",
+    "ator6": "Burgess Meredith"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/13eb9VvCsatLnzQJ8gTYbVFrKR3iJWt9Y",
@@ -142,7 +177,14 @@ const filmes = [
         "nome": "Rocky",
         "raw": "Franquia - Rocky"
       }
-    ]
+    ],
+    "diretor": "Sylvester Stallone",
+    "ator1": "Sylvester Stallone",
+    "ator2": "Talia Shire",
+    "ator3": "Burt Young",
+    "ator4": "Carl Weathers",
+    "ator5": "Burgess Meredith",
+    "ator6": "Mr. T"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1fiGGlVchLSpCAEpfM2tY0_wir6HbNAt9",
@@ -166,7 +208,14 @@ const filmes = [
         "nome": "Rocky",
         "raw": "Franquia - Rocky"
       }
-    ]
+    ],
+    "diretor": "Sylvester Stallone",
+    "ator1": "Sylvester Stallone",
+    "ator2": "Talia Shire",
+    "ator3": "Burt Young",
+    "ator4": "Carl Weathers",
+    "ator5": "Brigitte Nielsen",
+    "ator6": "Dolph Lundgren"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1TOXvDnX1jQ7NmAeFaeT5bpwDBrIg4dC3",
@@ -190,7 +239,14 @@ const filmes = [
         "nome": "Rocky",
         "raw": "Franquia - Rocky"
       }
-    ]
+    ],
+    "diretor": "Sylvester Stallone",
+    "ator1": "Sylvester Stallone",
+    "ator2": "Burt Young",
+    "ator3": "Antonio Tarver",
+    "ator4": "Geraldine Hughes",
+    "ator5": "Milo Ventimiglia",
+    "ator6": "Tony Burton"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/13p9W0-B6Y6LjbrrjjVzpoOWbN7R2YJZI",
@@ -208,7 +264,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Zack Snyder",
+    "ator1": "Gerard Butler",
+    "ator2": "Lena Headey",
+    "ator3": "David Wenham",
+    "ator4": "Dominic West",
+    "ator5": "Vincent Regan",
+    "ator6": "Rodrigo Santoro"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1glwu6TmDNKN0LfdZEKdwxSnXdOtkL2zR",
@@ -226,7 +289,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Stanley Kubrick",
+    "ator1": "Keir Dullea",
+    "ator2": "Gary Lockwood",
+    "ator3": "William Sylvester",
+    "ator4": "Daniel Richter",
+    "ator5": "Leonard Rossiter",
+    "ator6": "Margaret Tyzack"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Au1yrpnpCQyHOu8YHi5IB_dczAdDV_hH",
@@ -244,7 +314,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Mel Stuart",
+    "ator1": "Gene Wilder",
+    "ator2": "Jack Albertson",
+    "ator3": "Peter Ostrum",
+    "ator4": "Roy Kinnear",
+    "ator5": "Julie Dawn Cole",
+    "ator6": "Leonard Stone"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1stv3Q9958RD-Udg4dq7Jwm4-PeJ_fghw",
@@ -262,7 +339,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Billy Wilder",
+    "ator1": "Kirk Douglas",
+    "ator2": "Jan Sterling",
+    "ator3": "Robert Arthur",
+    "ator4": "Porter Hall",
+    "ator5": "Fay Baker",
+    "ator6": "Richard Benedict"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/11MIRVhulGGAlQVSAs_pMDmt3LNsPTqi-",
@@ -280,7 +364,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Robert Wise",
+    "ator1": "Julie Andrews",
+    "ator2": "Christopher Plummer",
+    "ator3": "Eleanor Parker",
+    "ator4": "Richard Haydn",
+    "ator5": "Peggy Wood",
+    "ator6": "Charmian Carr"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1KtdmEK8PUMMZ-7pUIJqXKGDCj-RbdFUo",
@@ -298,7 +389,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "William Wyler",
+    "ator1": "Gregory Peck",
+    "ator2": "Audrey Hepburn",
+    "ator3": "Eddie Albert",
+    "ator4": "Hartley Power",
+    "ator5": "Harcourt Williams",
+    "ator6": "Margaret Rawlings"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1cpPyP533PAniPXL95dUHZT-cMgItJSSe",
@@ -316,7 +414,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Rob Reiner",
+    "ator1": "Cary Elwes",
+    "ator2": "Robin Wright",
+    "ator3": "Mandy Patinkin",
+    "ator4": "Chris Sarandon",
+    "ator5": "Christopher Guest",
+    "ator6": "Wallace Shawn"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/10PGH3HG-fJ13iHq93rujwK7HOLvN2OGr",
@@ -334,7 +439,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Milos Forman",
+    "ator1": "F. Murray Abraham",
+    "ator2": "Tom Hulce",
+    "ator3": "Elizabeth Berridge",
+    "ator4": "Simon Callow",
+    "ator5": "Roy Dotrice",
+    "ator6": "Christine Ebersole"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1fYtbC6-0DOpeI-taCM5cs1jK0yUYaA8a",
@@ -352,7 +464,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Steven Spielberg",
+    "ator1": "Morgan Freeman",
+    "ator2": "Nigel Hawthorne",
+    "ator3": "Anthony Hopkins",
+    "ator4": "Matthew McConaughey",
+    "ator5": "Djimon Hounsou",
+    "ator6": "David Paymer"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1iGRmleE55_4Z7jjjWPKE0Y5Bvq-icyZw",
@@ -370,7 +489,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Bernard Rose",
+    "ator1": "Sophie Marceau",
+    "ator2": "Sean Bean",
+    "ator3": "Alfred Molina",
+    "ator4": "Mia Kirshner",
+    "ator5": "James Fox",
+    "ator6": "Fiona Shaw"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1d3ZlFu1oG9I_Y_uZit2g1zPoK41Sb_bu",
@@ -388,7 +514,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Andrew Adamson",
+    "ator1": "Georgie Henley",
+    "ator2": "Skandar Keynes",
+    "ator3": "William Moseley",
+    "ator4": "Anna Popplewell",
+    "ator5": "Tilda Swinton",
+    "ator6": "James McAvoy"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1hNNqgxdA5pOoY5i-4xB_EixPKZ6DNkM5",
@@ -406,7 +539,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Quentin Tarantino",
+    "ator1": "Brad Pitt",
+    "ator2": "Mélanie Laurent",
+    "ator3": "Christoph Waltz",
+    "ator4": "Eli Roth",
+    "ator5": "Michael Fassbender",
+    "ator6": "Diane Kruger"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1J4dDnzpeh39MdWQ2HnWQIIlUHHfio7D5",
@@ -424,7 +564,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "William Wyler",
+    "ator1": "Charlton Heston",
+    "ator2": "Jack Hawkins",
+    "ator3": "Haya Harareet",
+    "ator4": "Stephen Boyd",
+    "ator5": "Hugh Griffith",
+    "ator6": "Martha Scott"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1S9-GiwL2Lr660D_49XY11NTBpwquObPP",
@@ -442,7 +589,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Blake Edwards",
+    "ator1": "Audrey Hepburn",
+    "ator2": "George Peppard",
+    "ator3": "Patricia Neal",
+    "ator4": "Buddy Ebsen",
+    "ator5": "Martin Balsam",
+    "ator6": "José Luis de Vilallonga"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/19ghbArZsF92cd78KKtrkDc8B9ESRN3X3",
@@ -460,7 +614,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Michael Curtiz",
+    "ator1": "Humphrey Bogart",
+    "ator2": "Ingrid Bergman",
+    "ator3": "Paul Henreid",
+    "ator4": "Claude Rains",
+    "ator5": "Conrad Veidt",
+    "ator6": "Gladys George"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1qQKEkKORUTTsgIBvfNPpC2_OnHs4o-HJ",
@@ -478,7 +639,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Orson Welles",
+    "ator1": "Orson Welles",
+    "ator2": "Joseph Cotten",
+    "ator3": "Dorothy Comingore",
+    "ator4": "Agnes Moorehead",
+    "ator5": "Ruth Warrick",
+    "ator6": "Ray Collins"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/15xd0ZVrxDfZruv1Ut_U4tKlLjEj4aFcf",
@@ -496,7 +664,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Joseph L. Mankiewicz",
+    "ator1": "Elizabeth Taylor",
+    "ator2": "Richard Burton",
+    "ator3": "Rex Harrison",
+    "ator4": "Pamela Brown",
+    "ator5": "George Cole",
+    "ator6": "Hume Cronyn"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1MNPD4EIFoWn1SOvnVKm4rLuBHs2L_Kc0",
@@ -514,7 +689,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Jonathan Lynn",
+    "ator1": "Eileen Brennan",
+    "ator2": "Tim Curry",
+    "ator3": "Madeline Kahn",
+    "ator4": "Christopher Lloyd",
+    "ator5": "Michael McKean",
+    "ator6": "Martin Mull"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1rkP0OwlhZrvQh4f4y6ZkFeR9dtqjCjqp",
@@ -532,7 +714,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Andrzej Wajda",
+    "ator1": "Gérard Depardieu",
+    "ator2": "Wojciech Pszoniak",
+    "ator3": "Patrice Chéreau",
+    "ator4": "Bogusław Linda",
+    "ator5": "Angela Winkler",
+    "ator6": "Artur Barbiś"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/17xg0JBLvdNNmXMI_VVVSiKg81aUTmYS6",
@@ -550,7 +739,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Stanley Kramer",
+    "ator1": "Spencer Tracy",
+    "ator2": "Milton Berle",
+    "ator3": "Sid Caesar",
+    "ator4": "Buddy Hackett",
+    "ator5": "Ethel Merman",
+    "ator6": "Mickey Rooney"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1VVuJ5iST_2VpTIwfN_VNPU9zwGVKipIV",
@@ -568,7 +764,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Victor Fleming",
+    "ator1": "Clark Gable",
+    "ator2": "Vivien Leigh",
+    "ator3": "Leslie Howard",
+    "ator4": "Olivia de Havilland",
+    "ator5": "Thomas Mitchell",
+    "ator6": "Barbara O'Neil"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1_yxwhdThomXMpMLOaC3Lls2lAUlQfsdG",
@@ -586,7 +789,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "John Boorman",
+    "ator1": "Nigel Terry",
+    "ator2": "Helen Mirren",
+    "ator3": "Nicholas Clay",
+    "ator4": "Cherie Lunghi",
+    "ator5": "Paul Geoffrey",
+    "ator6": "Nicol Williamson"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1fXqZWso6jh-0Ppbt2XqvE7hYOQkOL26T",
@@ -604,7 +814,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Mike Hodges",
+    "ator1": "Sam J. Jones",
+    "ator2": "Melody Anderson",
+    "ator3": "Max von Sydow",
+    "ator4": "Topol",
+    "ator5": "Ornella Muti",
+    "ator6": "Timothy Dalton"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1MfGIF2a6bQD2fqr8pFH87cJ26HkgrGev",
@@ -622,7 +839,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Charles Vidor",
+    "ator1": "Rita Hayworth",
+    "ator2": "Glenn Ford",
+    "ator3": "George Macready",
+    "ator4": "Joseph Calleia",
+    "ator5": "Steven Geray",
+    "ator6": "Joe Sawyer"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1bMZ3ZTjpH2IQ_H1NhhEcwem5Xyzx2KFu",
@@ -640,7 +864,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Godfrey Reggio",
+    "ator1": "Edward Asner",
+    "ator2": "Pat Benatar",
+    "ator3": "Jerry Brown",
+    "ator4": "Johnny Carson",
+    "ator5": "Marilyn Chambers",
+    "ator6": "Sammy Davis Jr."
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1p3Xa5Xxs6FHj-rjsV8HEWOO2Sp9d7c2I",
@@ -658,7 +889,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Jerry Zucker",
+    "ator1": "Sean Connery",
+    "ator2": "Richard Gere",
+    "ator3": "Julia Ormond",
+    "ator4": "Ben Cross",
+    "ator5": "Harry Andrews",
+    "ator6": "John Gielgud"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1MkNxuDLxeBdD7BqAiAg11pjCyXIsdwtJ",
@@ -676,7 +914,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "David Lean",
+    "ator1": "Peter O'Toole",
+    "ator2": "Alec Guinness",
+    "ator3": "Anthony Quinn",
+    "ator4": "Jack Hawkins",
+    "ator5": "Omar Sharif",
+    "ator6": "José Ferrer"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Gh6HelI37uRtkOtpMmMaRyeC7VTtvGh1",
@@ -694,7 +939,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Richard Donner",
+    "ator1": "Mel Gibson",
+    "ator2": "Jodie Foster",
+    "ator3": "James Garner",
+    "ator4": "Graham Greene",
+    "ator5": "Alfred Molina",
+    "ator6": "James Brolin"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1tXbRZQeLx3Nlw_nMUuig35sWyX5ZMIqU",
@@ -712,7 +964,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Kenneth Branagh",
+    "ator1": "Kenneth Branagh",
+    "ator2": "Emma Thompson",
+    "ator3": "Richard Briers",
+    "ator4": "Keanu Reeves",
+    "ator5": "Michael Keaton",
+    "ator6": "Denzel Washington"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1puq3ghZY2lgWE2FrwGnn-5Rn3EGgprdG",
@@ -730,7 +989,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Andrei Konchalovsky",
+    "ator1": "Tom Hulce",
+    "ator2": "Lolita Davidovich",
+    "ator3": "Alec Baldwin",
+    "ator4": "Bob Hoskins",
+    "ator5": "Aleksandr Zbruev",
+    "ator6": "Feodor Chaliapin Jr."
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1EmKL7crbRXkcZYlNY1A9vn2M_cGZ2TBF",
@@ -748,7 +1014,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "David Greene",
+    "ator1": "Richard Chamberlain",
+    "ator2": "Tony Curtis",
+    "ator3": "Trevor Howard",
+    "ator4": "Louis Jourdan",
+    "ator5": "Donald Pleasence",
+    "ator6": "Kate Nelligan"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1IilDbNPbINkeFyXpfeH1ABxR6FP0NbXn",
@@ -766,7 +1039,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Josée Dayan",
+    "ator1": "Gérard Depardieu",
+    "ator2": "Ornella Muti",
+    "ator3": "Jean Rochefort",
+    "ator4": "Pierre Arditi",
+    "ator5": "Sergio Rubini",
+    "ator6": "Florence Darel"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1ybRcAiDPVJ13W7KDb9VTCcXmEI7tEqF1",
@@ -784,7 +1064,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Kevin Reynolds",
+    "ator1": "Jim Caviezel",
+    "ator2": "Guy Pearce",
+    "ator3": "Richard Harris",
+    "ator4": "James Frain",
+    "ator5": "Dagmara Domińczyk",
+    "ator6": "Luis Guzmán"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1oKy9gUON8uU8ABckCucydC_F2QElfSbK",
@@ -802,7 +1089,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Philip Saville",
+    "ator1": "Christopher Plummer",
+    "ator2": "Henry Ian Cusick",
+    "ator3": "Stuart Bunce",
+    "ator4": "Daniel Kash",
+    "ator5": "Stephen Russell",
+    "ator6": "Diana Berriman"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1tMA5Vab7IMx4U5cDnCHhb3Ybz5vI-Mjt",
@@ -820,7 +1114,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "James Parrott",
+    "ator1": "Stan Laurel",
+    "ator2": "Oliver Hardy",
+    "ator3": "Jacquie Lyn",
+    "ator4": "Mary Carr",
+    "ator5": "Richard Tucker",
+    "ator6": "Mae Busch"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1qv-DUBzgRBcw04l4OEDomg0yRtBi-B0k",
@@ -838,7 +1139,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Victor Fleming",
+    "ator1": "Judy Garland",
+    "ator2": "Frank Morgan",
+    "ator3": "Ray Bolger",
+    "ator4": "Bert Lahr",
+    "ator5": "Jack Haley",
+    "ator6": "Billie Burke"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1pCGeRAP76OVhDLdURy-DjM_OGs_KZ1PQ",
@@ -856,7 +1164,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Michael Schultz",
+    "ator1": "Taimak",
+    "ator2": "Vanity",
+    "ator3": "Julius Carry",
+    "ator4": "Chris Murney",
+    "ator5": "Keshia Knight Pulliam",
+    "ator6": "Faith Prince"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1bwFk9y9M_kryf3M0945gqQYPN4t-YrEZ",
@@ -874,7 +1189,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Edward Zwick",
+    "ator1": "Tom Cruise",
+    "ator2": "Ken Watanabe",
+    "ator3": "Timothy Spall",
+    "ator4": "Billy Connolly",
+    "ator5": "Tony Goldwyn",
+    "ator6": "Hiroyuki Sanada"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1HCPHGqCcMI1852ak8ooP_O9le_eDCjC6",
@@ -892,7 +1214,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Stephen Herek",
+    "ator1": "Charlie Sheen",
+    "ator2": "Kiefer Sutherland",
+    "ator3": "Chris O'Donnell",
+    "ator4": "Oliver Platt",
+    "ator5": "Tim Curry",
+    "ator6": "Rebecca De Mornay"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1pAic470u9_MDBVXlnH_eMISJuWJxzqWM",
@@ -910,7 +1239,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Ted Kotcheff",
+    "ator1": "Sylvester Stallone",
+    "ator2": "Richard Crenna",
+    "ator3": "Brian Dennehy",
+    "ator4": "Bill McKinney",
+    "ator5": "Jack Starrett",
+    "ator6": "Michael Talbott"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1ipETlwnUx4qnarkiWyR39nJpqpixvm2m",
@@ -928,7 +1264,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Franco Zeffirelli",
+    "ator1": "Leonard Whiting",
+    "ator2": "Olivia Hussey",
+    "ator3": "John McEnery",
+    "ator4": "Milo O'Shea",
+    "ator5": "Pat Heywood",
+    "ator6": "Robert Stephens"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1kzKtPEzE6a45ZYWUBgFagYL-FaFVw46H",
@@ -946,7 +1289,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "George Sidney",
+    "ator1": "Stewart Granger",
+    "ator2": "Eleanor Parker",
+    "ator3": "Janet Leigh",
+    "ator4": "Mel Ferrer",
+    "ator5": "Henry Wilcoxon",
+    "ator6": "Nina Foch"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1E3wqdwq9I1gQVG3jb5rOz1skgbmx_hOA",
@@ -964,7 +1314,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "John Badham",
+    "ator1": "Ally Sheedy",
+    "ator2": "Steve Guttenberg",
+    "ator3": "Fisher Stevens",
+    "ator4": "Austin Pendleton",
+    "ator5": "G.W. Bailey",
+    "ator6": "Brian McNamara"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1LvCT4pA9lBoPlFY0B6jkFVUxQgF_J1ip",
@@ -982,7 +1339,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Stanley Kubrick",
+    "ator1": "Kirk Douglas",
+    "ator2": "Laurence Olivier",
+    "ator3": "Jean Simmons",
+    "ator4": "Charles Laughton",
+    "ator5": "Peter Ustinov",
+    "ator6": "John Gavin"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1s3fcUSEije5JvSUnv6fF4tUs7_t12LIt",
@@ -991,10 +1355,10 @@ const filmes = [
     "duracao": "01:55:18",
     "gb": 6.17,
     "local": "HD",
-    "codec": "HEVC",
+    "codec": "HEVC 4K",
     "perfilCor": "HDR",
-    "presetElmedia": "B2 | S7 | C8 | G6 | H-2 | Sh1",
-    "situacao": null,
+    "presetElmedia": "B0 | S11 | C11 | G8 | H0 | Sh1.5",
+    "situacao": "F",
     "sinopse": "O destemido arqueólogo Indiana Jones é contratado pelo governo americano para encontrar a lendária Arca da Aliança antes dos nazistas. Uma corrida contra o tempo repleta de armadilhas mortais, cobras e confrontos explosivos que definiu o cinema de aventura.",
     "genero": "Ação",
     "origem": "genero",
@@ -1006,7 +1370,14 @@ const filmes = [
         "nome": "Indiana Jones",
         "raw": "Franquia - Indiana Jones"
       }
-    ]
+    ],
+    "diretor": "Steven Spielberg",
+    "ator1": "Harrison Ford",
+    "ator2": "Karen Allen",
+    "ator3": "Paul Freeman",
+    "ator4": "John Rhys-Davies",
+    "ator5": "Denholm Elliott",
+    "ator6": "Alfred Molina"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1pyyWySDVz_JpSOYAyb_dPQ16XRi4WHr1",
@@ -1030,7 +1401,14 @@ const filmes = [
         "nome": "Indiana Jones",
         "raw": "Franquia - Indiana Jones"
       }
-    ]
+    ],
+    "diretor": "Steven Spielberg",
+    "ator1": "Harrison Ford",
+    "ator2": "Kate Capshaw",
+    "ator3": "Amrish Puri",
+    "ator4": "Roshan Seth",
+    "ator5": "Philip Stone",
+    "ator6": "Ke Huy Quan"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1W5FUlmtWojNaxCV8AL1RUepC9wlLcEUB",
@@ -1054,7 +1432,14 @@ const filmes = [
         "nome": "Indiana Jones",
         "raw": "Franquia - Indiana Jones"
       }
-    ]
+    ],
+    "diretor": "Steven Spielberg",
+    "ator1": "Harrison Ford",
+    "ator2": "Sean Connery",
+    "ator3": "Alison Doody",
+    "ator4": "Denholm Elliott",
+    "ator5": "Julian Glover",
+    "ator6": "River Phoenix"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1kPF28zB2PkCUdFGqz6LX8HpqLI1GUT-q",
@@ -1078,7 +1463,14 @@ const filmes = [
         "nome": "O Contador",
         "raw": "Franquia - O Contador"
       }
-    ]
+    ],
+    "diretor": "Gavin O'Connor",
+    "ator1": "Ben Affleck",
+    "ator2": "Anna Kendrick",
+    "ator3": "J.K. Simmons",
+    "ator4": "Jon Bernthal",
+    "ator5": "Cynthia Addai-Robinson",
+    "ator6": "John Lithgow"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1xzhK7MXBo2DBkBdUPlW7JnFNE7Ko-zJG",
@@ -1102,7 +1494,14 @@ const filmes = [
         "nome": "O Contador",
         "raw": "Franquia - O Contador"
       }
-    ]
+    ],
+    "diretor": "Gavin O'Connor",
+    "ator1": "Ben Affleck",
+    "ator2": "Jon Bernthal",
+    "ator3": "Cynthia Addai-Robinson",
+    "ator4": "J.K. Simmons",
+    "ator5": "Daniella Pineda",
+    "ator6": "Robert Morgan"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1m-QJYiwziob8ZJKvUAEyYwJOYEo293oU",
@@ -1126,7 +1525,14 @@ const filmes = [
         "nome": "O Protetor",
         "raw": "Franquia - O Protetor"
       }
-    ]
+    ],
+    "diretor": "Antoine Fuqua",
+    "ator1": "Denzel Washington",
+    "ator2": "Marton Csokas",
+    "ator3": "Chloë Grace Moretz",
+    "ator4": "David Harbour",
+    "ator5": "Haley Bennett",
+    "ator6": "Bill Pullman"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1whwENWVhm4i-nniMxu1UK76KGQ-IibgW",
@@ -1135,10 +1541,10 @@ const filmes = [
     "duracao": "02h 01m",
     "gb": null,
     "local": "Ação TR",
-    "codec": "HEVC",
+    "codec": "HEVC 4K",
     "perfilCor": "HDR",
     "presetElmedia": "B0 | S12 | C11 | G6 | H0 | Sh1.5",
-    "situacao": null,
+    "situacao": "F",
     "sinopse": "Trabalhando disfarçado como motorista de aplicativo, Robert McCall continua entregando sua justiça vigilante aos oprimidos. O jogo se torna profundamente pessoal quando sua melhor amiga e ex-colega de agência é assassinada, iniciando uma caçada implacável pelos culpados.",
     "genero": "Ação",
     "origem": "genero",
@@ -1150,7 +1556,14 @@ const filmes = [
         "nome": "O Protetor",
         "raw": "Franquia - O Protetor"
       }
-    ]
+    ],
+    "diretor": "Antoine Fuqua",
+    "ator1": "Denzel Washington",
+    "ator2": "Pedro Pascal",
+    "ator3": "Ashton Sanders",
+    "ator4": "Bill Pullman",
+    "ator5": "Melissa Leo",
+    "ator6": "Jonathan Scarfe"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1AVRacucUAqNOAgWte3uVuGO3ScFOJw6u",
@@ -1159,7 +1572,7 @@ const filmes = [
     "duracao": "01h 49m",
     "gb": null,
     "local": "Ação TR",
-    "codec": "HEVC",
+    "codec": "HEVC 4K",
     "perfilCor": "HDR",
     "presetElmedia": "B5 | S17 | C8 | G6 | H-2 | Sh1",
     "situacao": null,
@@ -1174,7 +1587,14 @@ const filmes = [
         "nome": "O Protetor",
         "raw": "Franquia - O Protetor"
       }
-    ]
+    ],
+    "diretor": "Antoine Fuqua",
+    "ator1": "Denzel Washington",
+    "ator2": "Dakota Fanning",
+    "ator3": "Eugenio Mastrandrea",
+    "ator4": "David Denman",
+    "ator5": "Gaia Scodellaro",
+    "ator6": "Remo Girone"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1jubFONLBBeWNfW6WNCGbyDCI_1AOibYQ",
@@ -1198,7 +1618,14 @@ const filmes = [
         "nome": "Tiro Certo",
         "raw": "Franquia - Tiro Certo"
       }
-    ]
+    ],
+    "diretor": "James Nunn",
+    "ator1": "Scott Adkins",
+    "ator2": "Ashley Greene",
+    "ator3": "Ryan Phillippe",
+    "ator4": "Emmanuel Imani",
+    "ator5": "Lee Charles",
+    "ator6": "Dino Kelly"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1xy1gZtksU7mEQOthdGrpJ0rSC7j2zYTQ",
@@ -1222,7 +1649,14 @@ const filmes = [
         "nome": "Tiro Certo",
         "raw": "Franquia - Tiro Certo"
       }
-    ]
+    ],
+    "diretor": "James Nunn",
+    "ator1": "Scott Adkins",
+    "ator2": "Michael Jai White",
+    "ator3": "Alexis Knapp",
+    "ator4": "Tom Berenger",
+    "ator5": "Meena Rayann",
+    "ator6": "Waleed Elgadi"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1smFqt4QYKS4eFilSb8cZE-KTHTrLicw-",
@@ -1246,7 +1680,14 @@ const filmes = [
         "nome": "Top Gun",
         "raw": "Franquia - Top Gun"
       }
-    ]
+    ],
+    "diretor": "Tony Scott",
+    "ator1": "Tom Cruise",
+    "ator2": "Kelly McGillis",
+    "ator3": "Val Kilmer",
+    "ator4": "Anthony Edwards",
+    "ator5": "Tom Skerritt",
+    "ator6": "Michael Ironside"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1eC-dVA4XQjwGPor-ipxmfdvwRjm3WL6g",
@@ -1270,7 +1711,14 @@ const filmes = [
         "nome": "Top Gun",
         "raw": "Franquia - Top Gun"
       }
-    ]
+    ],
+    "diretor": "Joseph Kosinski",
+    "ator1": "Tom Cruise",
+    "ator2": "Miles Teller",
+    "ator3": "Jennifer Connelly",
+    "ator4": "Jon Hamm",
+    "ator5": "Glen Powell",
+    "ator6": "Ed Harris"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Xg9PX0Es3drRY8MPSljT5JZuQOfISHqe",
@@ -1288,7 +1736,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Michael Bay",
+    "ator1": "Ewan McGregor",
+    "ator2": "Scarlett Johansson",
+    "ator3": "Djimon Hounsou",
+    "ator4": "Sean Bean",
+    "ator5": "Steve Buscemi",
+    "ator6": "Michael Clarke Duncan"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1vwpOGfK1OfUwTc3s8WkphdlnhkM0YVwn",
@@ -1306,7 +1761,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "John Woo",
+    "ator1": "John Travolta",
+    "ator2": "Nicolas Cage",
+    "ator3": "Joan Allen",
+    "ator4": "Alessandro Nivola",
+    "ator5": "Gina Gershon",
+    "ator6": "Dominique Swain"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1rFL6Ro1yraOyug3CdDDx0PCS1QpS9z8o",
@@ -1324,7 +1786,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "John Woo",
+    "ator1": "John Travolta",
+    "ator2": "Christian Slater",
+    "ator3": "Samantha Mathis",
+    "ator4": "Delroy Lindo",
+    "ator5": "Bob Gunton",
+    "ator6": "Howie Long"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1HWjP__QNAckRuy4vdquTL72tMHaPEjQM",
@@ -1348,7 +1817,14 @@ const filmes = [
         "nome": "Coleção Desfalque",
         "raw": "Coleção Desfalque"
       }
-    ]
+    ],
+    "diretor": "Jon Amiel",
+    "ator1": "Sean Connery",
+    "ator2": "Catherine Zeta-Jones",
+    "ator3": "Ving Rhames",
+    "ator4": "Will Patton",
+    "ator5": "Maury Chaykin",
+    "ator6": "Ritchie Coster"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1aXYD520HzxhADjkhOYrQKQbD1rLzY6qu",
@@ -1366,7 +1842,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Simon West",
+    "ator1": "Jason Statham",
+    "ator2": "Ben Foster",
+    "ator3": "Donald Pleasence",
+    "ator4": "Tony Goldwyn",
+    "ator5": "Jeff Chase",
+    "ator6": "Mini Anden"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1ndZqi4i78xqLJENYWVI_SwfxWE59BYPq",
@@ -1384,7 +1867,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "John Woo",
+    "ator1": "Nicolas Cage",
+    "ator2": "John Travolta",
+    "ator3": "Joan Allen",
+    "ator4": "Alessandro Nivola",
+    "ator5": "Gina Gershon",
+    "ator6": "Dominique Swain"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/18N9-tyRR8Dc6RYu_ByELKQS3UJ06onP8",
@@ -1402,7 +1892,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Louis Leterrier",
+    "ator1": "Jason Statham",
+    "ator2": "Shu Qi",
+    "ator3": "Matt Schulze",
+    "ator4": "François Berléand",
+    "ator5": "Ric Young",
+    "ator6": "Doug Rand"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1e_TSVkdxwdjpuLFSzAGIwi_4Q1t_fbzR",
@@ -1420,7 +1917,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Ridley Scott",
+    "ator1": "Michael Douglas",
+    "ator2": "Andy García",
+    "ator3": "Ken Takakura",
+    "ator4": "Kate Capshaw",
+    "ator5": "Shigeru Kôyama",
+    "ator6": "John Spencer"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/19d73rh48S_q-EcYHjmFuJvV7UbwOU5sk",
@@ -1438,7 +1942,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Ron Howard",
+    "ator1": "Don Ameche",
+    "ator2": "Wilford Brimley",
+    "ator3": "Hume Cronyn",
+    "ator4": "Brian Dennehy",
+    "ator5": "Jack Gilford",
+    "ator6": "Steve Guttenberg"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/15YjXIDavYHiWFdat1qVLq94VWg0urBfF",
@@ -1456,7 +1967,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Michael Apted",
+    "ator1": "Noomi Rapace",
+    "ator2": "Orlando Bloom",
+    "ator3": "Toni Collette",
+    "ator4": "John Malkovich",
+    "ator5": "Michael Douglas",
+    "ator6": "Brian Caspe"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1oE0Xf2WydKJLkiEXRSC4dpJjCSlFkgvo",
@@ -1474,7 +1992,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "D.J. Caruso",
+    "ator1": "Shia LaBeouf",
+    "ator2": "Michelle Monaghan",
+    "ator3": "Rosario Dawson",
+    "ator4": "Michael Chiklis",
+    "ator5": "Anthony Mackie",
+    "ator6": "Billy Bob Thornton"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1shHuzziXZc90-B4J5dvo9Vf84wxHG671",
@@ -1492,7 +2017,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Nicolas Winding Refn",
+    "ator1": "Ryan Gosling",
+    "ator2": "Carey Mulligan",
+    "ator3": "Bryan Cranston",
+    "ator4": "Albert Brooks",
+    "ator5": "Oscar Isaac",
+    "ator6": "Christina Hendricks"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Fn2CEt8quya-YccBkf0LhYTPjM7n8K-w",
@@ -1510,7 +2042,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Roger Donaldson",
+    "ator1": "Jason Statham",
+    "ator2": "Saffron Burrows",
+    "ator3": "Stephen Campbell Moore",
+    "ator4": "Daniel Mays",
+    "ator5": "James Faulkner",
+    "ator6": "Alki David"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/19r7AQuHS8ytIpbDszykfGNkYMygV1zuQ",
@@ -1528,7 +2067,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Wolfgang Petersen",
+    "ator1": "Harrison Ford",
+    "ator2": "Gary Oldman",
+    "ator3": "Glenn Close",
+    "ator4": "Wendy Crewson",
+    "ator5": "Liesel Matthews",
+    "ator6": "Paul Guilfoyle"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1IginpgXxRVLeakxvEIr6lNgo0vjlOtaj",
@@ -1546,7 +2092,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Martin Brest",
+    "ator1": "Robert De Niro",
+    "ator2": "Charles Grodin",
+    "ator3": "Yaphet Kotto",
+    "ator4": "John Ashton",
+    "ator5": "Dennis Farina",
+    "ator6": "Joe Pantoliano"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/192Sfs8lB_ejOfubDhxkTeV1_Mqg3KT_3",
@@ -1564,7 +2117,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Robert Mandel",
+    "ator1": "Bryan Brown",
+    "ator2": "Brian Dennehy",
+    "ator3": "Diane Venora",
+    "ator4": "Cliff DeYoung",
+    "ator5": "Mason Adams",
+    "ator6": "Jerry Orbach"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1rLJhJ_fjJdHrmE9ZjPMjeVb2iElCSxXb",
@@ -1582,7 +2142,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Shawn Levy",
+    "ator1": "Hugh Jackman",
+    "ator2": "Dakota Goyo",
+    "ator3": "Evangeline Lilly",
+    "ator4": "Anthony Mackie",
+    "ator5": "Kevin Durand",
+    "ator6": "Hope Davis"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1rSrqgIQt7NRXlIpLiv0lrp4lM99b1RAe",
@@ -1606,7 +2173,14 @@ const filmes = [
         "nome": "Coleção HQ",
         "raw": "Coleção HQ"
       }
-    ]
+    ],
+    "diretor": "Jon Favreau",
+    "ator1": "Robert Downey Jr.",
+    "ator2": "Terrence Howard",
+    "ator3": "Jeff Bridges",
+    "ator4": "Gwyneth Paltrow",
+    "ator5": "Leslie Bibb",
+    "ator6": "Shaun Toub"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1ZV-NSKtrAZRy4b5YX_IOE2YTlcjBIprD",
@@ -1624,7 +2198,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Roger Young",
+    "ator1": "Richard Chamberlain",
+    "ator2": "Jaclyn Smith",
+    "ator3": "Anthony Quayle",
+    "ator4": "Donald Pleasence",
+    "ator5": "Shane Rimmer",
+    "ator6": "Yorgo Voyagis"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1zf_CEoPMMsyzpj2boDrhFSEm5L5PPvYn",
@@ -1642,7 +2223,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Chad Stahelski",
+    "ator1": "Keanu Reeves",
+    "ator2": "Michael Nyqvist",
+    "ator3": "Alfie Allen",
+    "ator4": "Willem Dafoe",
+    "ator5": "Dean Winters",
+    "ator6": "Adrianne Palicki"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1FZ8SF8hl_ACEhbZC5qmxuBJbInYBY7-M",
@@ -1660,7 +2248,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Richard Donner",
+    "ator1": "Matthew Broderick",
+    "ator2": "Rutger Hauer",
+    "ator3": "Michelle Pfeiffer",
+    "ator4": "Leo McKern",
+    "ator5": "John Wood",
+    "ator6": "Ken Hutchison"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1L1tVG3CwjImyDzEnyfEbj5w5DYwzsbKM",
@@ -1678,7 +2273,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Barry Sonnenfeld",
+    "ator1": "John Travolta",
+    "ator2": "Gene Hackman",
+    "ator3": "Rene Russo",
+    "ator4": "Danny DeVito",
+    "ator5": "Dennis Farina",
+    "ator6": "Bette Midler"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1unzDQ01-HYU9wCU49BUlCzNPiZp8LF2v",
@@ -1696,7 +2298,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Timur Bekmambetov",
+    "ator1": "James McAvoy",
+    "ator2": "Morgan Freeman",
+    "ator3": "Angelina Jolie",
+    "ator4": "Terence Stamp",
+    "ator5": "Thomas Kretschmann",
+    "ator6": "Common"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1ZnHYko0R13zhJqUXIVWymZ93nX3zXmlm",
@@ -1714,7 +2323,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Luc Besson",
+    "ator1": "Jean Reno",
+    "ator2": "Gary Oldman",
+    "ator3": "Natalie Portman",
+    "ator4": "Danny Aiello",
+    "ator5": "Peter Appel",
+    "ator6": "Michael Badalucco"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1pclhv-fLQHM79tTPVupwMhDMQEKT2IB_",
@@ -1732,7 +2348,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Brian Helgeland",
+    "ator1": "Mel Gibson",
+    "ator2": "Gregg Henry",
+    "ator3": "Maria Bello",
+    "ator4": "David Paymer",
+    "ator5": "Bill Duke",
+    "ator6": "Deborah Kara Unger"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1FVgYcm0K2qNQcvVNs0jyWMw4io-W3RPO",
@@ -1750,7 +2373,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Walter Hill",
+    "ator1": "Bruce Willis",
+    "ator2": "Christopher Walken",
+    "ator3": "Alexandra Powers",
+    "ator4": "David Patrick Kelly",
+    "ator5": "William Sanderson",
+    "ator6": "Ned Eisenberg"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1KEW7TyIHMGjTvU7ww6UekHgYUVHwLpTj",
@@ -1768,7 +2398,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "John Carpenter",
+    "ator1": "Kurt Russell",
+    "ator2": "Kim Cattrall",
+    "ator3": "Dennis Dun",
+    "ator4": "James Hong",
+    "ator5": "Victor Wong",
+    "ator6": "Kate Burton"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1X91Xs4RX47fNyJV5ETi6RQM3DQZcw8Vj",
@@ -1786,7 +2423,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Gary McKendry",
+    "ator1": "Jason Statham",
+    "ator2": "Clive Owen",
+    "ator3": "Robert De Niro",
+    "ator4": "Dominic Purcell",
+    "ator5": "Aden Young",
+    "ator6": "Yvonne Strahovski"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1ad3cset6T-Bk9rutL_lxgMK_pPEn8Zu0",
@@ -1804,7 +2448,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Taylor Hackford",
+    "ator1": "Jason Statham",
+    "ator2": "Jennifer Lopez",
+    "ator3": "Michael Chiklis",
+    "ator4": "Wendell Pierce",
+    "ator5": "Clifton Collins Jr.",
+    "ator6": "Bobby Cannavale"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1jTYP3MMwEzpJK8kU46DAbch7GfD38Q4j",
@@ -1822,7 +2473,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Jonas Åkerlund",
+    "ator1": "Mads Mikkelsen",
+    "ator2": "Vanessa Hudgens",
+    "ator3": "Katheryn Winnick",
+    "ator4": "Matt Lucas",
+    "ator5": "Ruby O. Fee",
+    "ator6": "Robert Maillet"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Vtj00qwlwbqOVycKzT11LQtIRCwnhq8p",
@@ -1840,7 +2498,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Robert Schwentke",
+    "ator1": "Bruce Willis",
+    "ator2": "Morgan Freeman",
+    "ator3": "John Malkovich",
+    "ator4": "Helen Mirren",
+    "ator5": "Mary-Louise Parker",
+    "ator6": "Karl Urban"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1VpkG6K5QUBxiwlOsVQ14Fuf6OG9hENdY",
@@ -1858,7 +2523,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "George P. Cosmatos",
+    "ator1": "Sylvester Stallone",
+    "ator2": "Brigitte Nielsen",
+    "ator3": "Reni Santoni",
+    "ator4": "Andrew Robinson",
+    "ator5": "Brian Thompson",
+    "ator6": "John Herzfeld"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1xK4yZK8zizAljRU0r1Ttp-tvhLOTC7RV",
@@ -1876,7 +2548,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Richard Donner",
+    "ator1": "Mel Gibson",
+    "ator2": "Julia Roberts",
+    "ator3": "Patrick Stewart",
+    "ator4": "Cylk Cozart",
+    "ator5": "Steve Kahan",
+    "ator6": "Terry Alexander"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1oRGUrtfiv5AEz-Kp0BtZ92ocoJhuL0Kt",
@@ -1900,7 +2579,14 @@ const filmes = [
         "nome": "Coleção Desfalque",
         "raw": "Coleção Desfalque"
       }
-    ]
+    ],
+    "diretor": "F. Gary Gray",
+    "ator1": "Mark Wahlberg",
+    "ator2": "Charlize Theron",
+    "ator3": "Edward Norton",
+    "ator4": "Seth Green",
+    "ator5": "Jason Statham",
+    "ator6": "Mos Def"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1XEZilCGnPxOi0tgRNX2hFZGw3vuR3FHK",
@@ -1918,7 +2604,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "James Cameron",
+    "ator1": "Arnold Schwarzenegger",
+    "ator2": "Jamie Lee Curtis",
+    "ator3": "Tom Arnold",
+    "ator4": "Bill Paxton",
+    "ator5": "Tia Carrere",
+    "ator6": "Art Malik"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1BGQNfkCHhwPufEWMGHvm72D1cZ8YeufZ",
@@ -1936,7 +2629,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Robert Zemeckis",
+    "ator1": "Michael Douglas",
+    "ator2": "Kathleen Turner",
+    "ator3": "Danny DeVito",
+    "ator4": "Zack Norman",
+    "ator5": "Alfonso Arau",
+    "ator6": "Manuel Ojeda"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1RulWZF5WzG8A_MGdqeAGpEZ8pBsjPd5d",
@@ -1954,7 +2654,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Joe Dante",
+    "ator1": "Dennis Quaid",
+    "ator2": "Martin Short",
+    "ator3": "Meg Ryan",
+    "ator4": "Kevin McCarthy",
+    "ator5": "Fiona Lewis",
+    "ator6": "Vernon Wells"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Trr7iGftVCQFeRRXP2qmYurtCJCc0RTn",
@@ -1978,7 +2685,14 @@ const filmes = [
         "nome": "Caros Amigos",
         "raw": "Franquia - Caros Amigos"
       }
-    ]
+    ],
+    "diretor": "Mario Monicelli",
+    "ator1": "Ugo Tognazzi",
+    "ator2": "Gastone Moschin",
+    "ator3": "Philippe Noiret",
+    "ator4": "Duilio Del Prete",
+    "ator5": "Adolfo Celi",
+    "ator6": "Olga Karlatos"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1FfcjN271_dPzBSVnvzT-eAqv-IEhR8to",
@@ -2002,7 +2716,14 @@ const filmes = [
         "nome": "Caros Amigos",
         "raw": "Franquia - Caros Amigos"
       }
-    ]
+    ],
+    "diretor": "Mario Monicelli",
+    "ator1": "Ugo Tognazzi",
+    "ator2": "Gastone Moschin",
+    "ator3": "Philippe Noiret",
+    "ator4": "Renzo Montagnani",
+    "ator5": "Adolfo Celi",
+    "ator6": "Milena Vukotic"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/12B4r5ugilldGktN0bBEIW96szvqPxLM9",
@@ -2026,7 +2747,14 @@ const filmes = [
         "nome": "Caros Amigos",
         "raw": "Franquia - Caros Amigos"
       }
-    ]
+    ],
+    "diretor": "Nanni Loy",
+    "ator1": "Ugo Tognazzi",
+    "ator2": "Gastone Moschin",
+    "ator3": "Philippe Noiret",
+    "ator4": "Renzo Montagnani",
+    "ator5": "Adolfo Celi",
+    "ator6": "Bernard Blier"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1f7H4l8mzzZsE8gCwY9FuvJrAy2b6zcIm",
@@ -2050,7 +2778,14 @@ const filmes = [
         "nome": "Entrando Numa Fria",
         "raw": "Franquia - Entrando Numa Fria"
       }
-    ]
+    ],
+    "diretor": "Jay Roach",
+    "ator1": "Robert De Niro",
+    "ator2": "Ben Stiller",
+    "ator3": "Teri Polo",
+    "ator4": "Blythe Danner",
+    "ator5": "Owen Wilson",
+    "ator6": "Nicole DeHuff"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/14tYsbYwR9UM0u-xcGOHqPeL7Z5ZGqH5T",
@@ -2074,7 +2809,14 @@ const filmes = [
         "nome": "Entrando Numa Fria",
         "raw": "Franquia - Entrando Numa Fria"
       }
-    ]
+    ],
+    "diretor": "Jay Roach",
+    "ator1": "Robert De Niro",
+    "ator2": "Ben Stiller",
+    "ator3": "Dustin Hoffman",
+    "ator4": "Barbra Streisand",
+    "ator5": "Blythe Danner",
+    "ator6": "Teri Polo"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1BI5jZIEMLqLBApoRIe7JVajSLT9RMBA5",
@@ -2098,7 +2840,14 @@ const filmes = [
         "nome": "Gente Grande",
         "raw": "Franquia - Gente Grande"
       }
-    ]
+    ],
+    "diretor": "Dennis Dugan",
+    "ator1": "Adam Sandler",
+    "ator2": "Kevin James",
+    "ator3": "Chris Rock",
+    "ator4": "David Spade",
+    "ator5": "Rob Schneider",
+    "ator6": "Salma Hayek"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Y5F5503GNH2umz7qbAcnXcr0XD_9qiKy",
@@ -2122,7 +2871,14 @@ const filmes = [
         "nome": "Gente Grande",
         "raw": "Franquia - Gente Grande"
       }
-    ]
+    ],
+    "diretor": "Dennis Dugan",
+    "ator1": "Adam Sandler",
+    "ator2": "Kevin James",
+    "ator3": "Chris Rock",
+    "ator4": "David Spade",
+    "ator5": "Salma Hayek",
+    "ator6": "Maya Rudolph"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1EsGj3D4x0slSu7iwJDdcpDplWG9wYi-K",
@@ -2146,7 +2902,14 @@ const filmes = [
         "nome": "Johnny English",
         "raw": "Franquia - Johnny English"
       }
-    ]
+    ],
+    "diretor": "Peter Howitt",
+    "ator1": "Rowan Atkinson",
+    "ator2": "Natalie Imbruglia",
+    "ator3": "Ben Miller",
+    "ator4": "John Malkovich",
+    "ator5": "Tim Pigott-Smith",
+    "ator6": "Kevin McNally"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1vsB1kvlvLt2OqW7-sn0Id1o40Snl95Ct",
@@ -2170,7 +2933,14 @@ const filmes = [
         "nome": "Johnny English",
         "raw": "Franquia - Johnny English"
       }
-    ]
+    ],
+    "diretor": "Oliver Parker",
+    "ator1": "Rowan Atkinson",
+    "ator2": "Gillian Anderson",
+    "ator3": "Dominic West",
+    "ator4": "Rosamund Pike",
+    "ator5": "Daniel Kaluuya",
+    "ator6": "Mark Ivanir"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1a1jAzKBQPr5I1D4bmG0gnKL8w-lBBPy0",
@@ -2194,7 +2964,14 @@ const filmes = [
         "nome": "Johnny English",
         "raw": "Franquia - Johnny English"
       }
-    ]
+    ],
+    "diretor": "David Kerr",
+    "ator1": "Rowan Atkinson",
+    "ator2": "Ben Miller",
+    "ator3": "Olga Kurylenko",
+    "ator4": "Jake Lacy",
+    "ator5": "Emma Thompson",
+    "ator6": "Adam James"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Ml7MRKu2obFotvTJsNu2L_GpnHSlf-1j",
@@ -2218,7 +2995,14 @@ const filmes = [
         "nome": "Mr. Bean",
         "raw": "Franquia - Mr. Bean"
       }
-    ]
+    ],
+    "diretor": "Steve Bendelack",
+    "ator1": "Rowan Atkinson",
+    "ator2": "Emma de Caunes",
+    "ator3": "Max Baldry",
+    "ator4": "Willem Dafoe",
+    "ator5": "Jean Rochefort",
+    "ator6": "Karel Roden"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1g_02L_LkwLexI2Osc9xlIeG6gJqfLuO6",
@@ -2242,7 +3026,14 @@ const filmes = [
         "nome": "Mr. Bean",
         "raw": "Franquia - Mr. Bean"
       }
-    ]
+    ],
+    "diretor": "John Howard Davies",
+    "ator1": "Rowan Atkinson",
+    "ator2": null,
+    "ator3": null,
+    "ator4": null,
+    "ator5": null,
+    "ator6": null
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1zfG7vbbIBuRsLxO0EruRxa89F4HJyvaw",
@@ -2266,7 +3057,14 @@ const filmes = [
         "nome": "Três Solteirões",
         "raw": "Franquia - Três Solteirões"
       }
-    ]
+    ],
+    "diretor": "Leonard Nimoy",
+    "ator1": "Tom Selleck",
+    "ator2": "Steve Guttenberg",
+    "ator3": "Ted Danson",
+    "ator4": "Nancy Travis",
+    "ator5": "Margaret Colin",
+    "ator6": "Philip Bosco"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1HXV_b5D6YbnfdHoMT8mq1LyewW_50Wyu",
@@ -2290,7 +3088,14 @@ const filmes = [
         "nome": "Três Solteirões",
         "raw": "Franquia - Três Solteirões"
       }
-    ]
+    ],
+    "diretor": "Emile Ardolino",
+    "ator1": "Tom Selleck",
+    "ator2": "Steve Guttenberg",
+    "ator3": "Ted Danson",
+    "ator4": "Nancy Travis",
+    "ator5": "Christopher Cazenove",
+    "ator6": "Fiona Shaw"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/19HGri3Q8FlIXaxtW_DLyH9f-wYUPbFSd",
@@ -2314,7 +3119,14 @@ const filmes = [
         "nome": "Woody Allen",
         "raw": "Franquia - Woody Allen"
       }
-    ]
+    ],
+    "diretor": "Herbert Ross",
+    "ator1": "Woody Allen",
+    "ator2": "Diane Keaton",
+    "ator3": "Tony Roberts",
+    "ator4": "Jerry Lacy",
+    "ator5": "Susan Anspach",
+    "ator6": "Jennifer Salt"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1-p84pJVRVh8un2qzaxgKd-cvi-DPpX7w",
@@ -2338,7 +3150,14 @@ const filmes = [
         "nome": "Woody Allen",
         "raw": "Franquia - Woody Allen"
       }
-    ]
+    ],
+    "diretor": "Woody Allen",
+    "ator1": "Woody Allen",
+    "ator2": "Diane Keaton",
+    "ator3": "Tony Roberts",
+    "ator4": "Carol Kane",
+    "ator5": "Paul Simon",
+    "ator6": "Shelley Duvall"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/10jBmIs-4HzTjU_YGr7s53F2AU_qqMcOq",
@@ -2362,7 +3181,14 @@ const filmes = [
         "nome": "Woody Allen",
         "raw": "Franquia - Woody Allen"
       }
-    ]
+    ],
+    "diretor": "Woody Allen",
+    "ator1": "Woody Allen",
+    "ator2": "Diane Keaton",
+    "ator3": "Michael Murphy",
+    "ator4": "Mariel Hemingway",
+    "ator5": "Meryl Streep",
+    "ator6": "Anne Byrne"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1qnXB6x6R0tnKLOyGYAuUa_67AGC97xR2",
@@ -2386,7 +3212,14 @@ const filmes = [
         "nome": "Woody Allen",
         "raw": "Franquia - Woody Allen"
       }
-    ]
+    ],
+    "diretor": "Woody Allen",
+    "ator1": "Woody Allen",
+    "ator2": "Mia Farrow",
+    "ator3": "John Malkovich",
+    "ator4": "Madonna",
+    "ator5": "Kenneth Mars",
+    "ator6": "Donald Pleasence"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1f7kprgxDNO0xZfNbaFIn1WWh2lcepbRI",
@@ -2410,7 +3243,14 @@ const filmes = [
         "nome": "Woody Allen",
         "raw": "Franquia - Woody Allen"
       }
-    ]
+    ],
+    "diretor": "Woody Allen",
+    "ator1": "Woody Allen",
+    "ator2": "Diane Keaton",
+    "ator3": "Alan Alda",
+    "ator4": "Anjelica Huston",
+    "ator5": "Jerry Adler",
+    "ator6": "Lynn Cohen"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1ajAAycalb_1aZpPxC-sig9-cVmo3Pwhx",
@@ -2428,7 +3268,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Harold Ramis",
+    "ator1": "Robert De Niro",
+    "ator2": "Billy Crystal",
+    "ator3": "Lisa Kudrow",
+    "ator4": "Chazz Palminteri",
+    "ator5": "Joe Viterelli",
+    "ator6": "Kyle Sabihy"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1_GbWzA0M-49tExP7EKoioisdtCHx-35k",
@@ -2446,7 +3293,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Robert Luketic",
+    "ator1": "Katherine Heigl",
+    "ator2": "Gerard Butler",
+    "ator3": "Bree Turner",
+    "ator4": "Eric Winter",
+    "ator5": "Nick Searcy",
+    "ator6": "Cheryl Hines"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1DRs0g5--Z5ElhZtS5kz-JwMxdCkQHyTj",
@@ -2464,7 +3318,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "John Hughes",
+    "ator1": "Steve Martin",
+    "ator2": "John Candy",
+    "ator3": "Laila Robins",
+    "ator4": "Michael McKean",
+    "ator5": "Kevin Bacon",
+    "ator6": "Dylan Baker"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1R4d_v3a9AOlPXccIpJA1quX7poXFvR4q",
@@ -2482,7 +3343,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Nanni Moretti",
+    "ator1": "Nanni Moretti",
+    "ator2": "Renato Carpentieri",
+    "ator3": "Antonio Neiwiller",
+    "ator4": "Jennifer Beals",
+    "ator5": "Monia Giovannangeli",
+    "ator6": "Carlo Mazzacurati"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1K__Gq2VQJ4R_ksMyth6NH-ZLxZEy-wtT",
@@ -2500,7 +3368,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Arthur Hiller",
+    "ator1": "Gene Wilder",
+    "ator2": "Richard Pryor",
+    "ator3": "Joan Severance",
+    "ator4": "Kevin Spacey",
+    "ator5": "Alan North",
+    "ator6": "Anthony Zerbe"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/18XkhQ7R6ek0LzZdJlk7hjRYMXQHIuWAi",
@@ -2518,7 +3393,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Colin Higgins",
+    "ator1": "Jane Fonda",
+    "ator2": "Lily Tomlin",
+    "ator3": "Dolly Parton",
+    "ator4": "Dabney Coleman",
+    "ator5": "Elizabeth Wilson",
+    "ator6": "Sterling Hayden"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/12ui2y_I3kWcbEY_-wT2aM9B0NTZQ0fEO",
@@ -2536,7 +3418,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "John Hughes",
+    "ator1": "Matthew Broderick",
+    "ator2": "Alan Ruck",
+    "ator3": "Mia Sara",
+    "ator4": "Jeffrey Jones",
+    "ator5": "Jennifer Grey",
+    "ator6": "Cindy Pickett"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Eg674LLGrX-C7pkQhMFSwxEC2-AD57mF",
@@ -2554,7 +3443,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Nancy Meyers",
+    "ator1": "Mel Gibson",
+    "ator2": "Helen Hunt",
+    "ator3": "Marisa Tomei",
+    "ator4": "Alan Alda",
+    "ator5": "Lauren Holly",
+    "ator6": "Ashley Johnson"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1KlpG10482xZYLsDKd2D3OfW41Fhnmoam",
@@ -2572,7 +3468,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Roger Michell",
+    "ator1": "Ben Affleck",
+    "ator2": "Samuel L. Jackson",
+    "ator3": "Kim Staunton",
+    "ator4": "Toni Collette",
+    "ator5": "Sydney Pollack",
+    "ator6": "William Hurt"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1i7aAoGRuRFCoWlPmCtZ2zLVSiASOsGje",
@@ -2590,7 +3493,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Howard Zieff",
+    "ator1": "Dudley Moore",
+    "ator2": "Nastassja Kinski",
+    "ator3": "Armand Assante",
+    "ator4": "Albert Brooks",
+    "ator5": "Richard Libertini",
+    "ator6": "Bernard Hughes"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1gAdM-aemyhT-mQROdB-RcrPN-DVdzC-P",
@@ -2608,7 +3518,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Elio Petri",
+    "ator1": "Gian Maria Volontè",
+    "ator2": "Florinda Bolkan",
+    "ator3": "Gianni Santuccio",
+    "ator4": "Orazio Orlando",
+    "ator5": "Sergio Tramonti",
+    "ator6": "Arturo Dominici"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1C9UH5Z8YE-97T-XbYyhnaP73VClRBwr5",
@@ -2626,7 +3543,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Barry Levinson",
+    "ator1": "Dustin Hoffman",
+    "ator2": "Robert De Niro",
+    "ator3": "Anne Heche",
+    "ator4": "Denis Leary",
+    "ator5": "Willie Nelson",
+    "ator6": "Andrea Martin"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/19dYt5-BCpe8OUSYPSU3-YDvkz4saBKCa",
@@ -2644,7 +3568,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Steve Miner",
+    "ator1": "Gérard Depardieu",
+    "ator2": "Katherine Heigl",
+    "ator3": "Dalton James",
+    "ator4": "Faith Prince",
+    "ator5": "Stephen Tobolowsky",
+    "ator6": "Lauren Hutton"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/14zD7BD6yNztfHX6Xp2g4t3ZF5nob3pmx",
@@ -2662,7 +3593,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Emile Ardolino",
+    "ator1": "Whoopi Goldberg",
+    "ator2": "Maggie Smith",
+    "ator3": "Harvey Keitel",
+    "ator4": "Bill Nunn",
+    "ator5": "Mary Wickes",
+    "ator6": "Kathy Najimy"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/13V2J6m0vYdqbh4yzt81mAc-F81SAYA7E",
@@ -2680,7 +3618,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Peter Bogdanovich",
+    "ator1": "Carol Burnett",
+    "ator2": "Michael Caine",
+    "ator3": "Denholm Elliott",
+    "ator4": "Julie Hagerty",
+    "ator5": "Marilu Henner",
+    "ator6": "John Ritter"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/18s_A1bPjQKk-e8pO6_KrDoiqwoNLZcAu",
@@ -2698,7 +3643,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Philippe de Broca",
+    "ator1": "Jean-Paul Belmondo",
+    "ator2": "Jacqueline Bisset",
+    "ator3": "Vittorio Caprioli",
+    "ator4": "Hans Meyer",
+    "ator5": "Monique Tarbès",
+    "ator6": "Jean Lefebvre"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1IoucxfXlBeY_6OS6yYcr-Aygp6SUH047",
@@ -2716,7 +3668,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Roberto Benigni",
+    "ator1": "Roberto Benigni",
+    "ator2": "Michel Blanc",
+    "ator3": "Nicoletta Braschi",
+    "ator4": "Dominique Lavanant",
+    "ator5": "Jean-Claude Brialy",
+    "ator6": "Laurent Spielvogel"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1HJlvQ2cGG79gGDppcAEuB5bFHhz6XYis",
@@ -2734,7 +3693,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Charles Shyer",
+    "ator1": "Steve Martin",
+    "ator2": "Diane Keaton",
+    "ator3": "Martin Short",
+    "ator4": "Kimberly Williams-Paisley",
+    "ator5": "George Newbern",
+    "ator6": "Kieran Culkin"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Yk4sUBYaSH7-OxjvDNSYoZurkqF0q49u",
@@ -2752,7 +3718,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Frank Oz",
+    "ator1": "Steve Martin",
+    "ator2": "Michael Caine",
+    "ator3": "Glenne Headly",
+    "ator4": "Anton Rodgers",
+    "ator5": "Barbara Harris",
+    "ator6": "Ian McDiarmid"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/11iuD94GcJJ7iZJyuRZRLU5u_j2zsRPIz",
@@ -2770,7 +3743,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Seth Gordon",
+    "ator1": "Jason Bateman",
+    "ator2": "Charlie Day",
+    "ator3": "Jason Sudeikis",
+    "ator4": "Jennifer Aniston",
+    "ator5": "Colin Farrell",
+    "ator6": "Kevin Spacey"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1hlYrhXuVfEuBZGBRvgXjS_PdgcuGsmtW",
@@ -2788,7 +3768,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Francis Veber",
+    "ator1": "Gérard Depardieu",
+    "ator2": "Jean Reno",
+    "ator3": "Richard Berry",
+    "ator4": "André Dussollier",
+    "ator5": "Jean-Pierre Malo",
+    "ator6": "Jean-Michel Noirey"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1LxAZkHa0F1cB8jenfLBtANlcBIBayXog",
@@ -2806,7 +3793,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Todd Phillips",
+    "ator1": "Bradley Cooper",
+    "ator2": "Ed Helms",
+    "ator3": "Zach Galifianakis",
+    "ator4": "Justin Bartha",
+    "ator5": "Heather Graham",
+    "ator6": "Jeffrey Tambor"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1hkA0q-fiSNNBeP8PAv4g_ydxjVy6pNUK",
@@ -2824,7 +3818,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Todd Phillips",
+    "ator1": "Bradley Cooper",
+    "ator2": "Ed Helms",
+    "ator3": "Zach Galifianakis",
+    "ator4": "Justin Bartha",
+    "ator5": "Ken Jeong",
+    "ator6": "Paul Giamatti"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1kMmjMu3kRon88yNpebSmE95xrfrELIVx",
@@ -2842,7 +3843,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Todd Phillips",
+    "ator1": "Bradley Cooper",
+    "ator2": "Ed Helms",
+    "ator3": "Zach Galifianakis",
+    "ator4": "Justin Bartha",
+    "ator5": "Ken Jeong",
+    "ator6": "John Goodman"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1uwGZgwPOZJL32yMlCDcUbd7-IuDs-tOP",
@@ -2860,7 +3868,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "John Landis",
+    "ator1": "Dan Aykroyd",
+    "ator2": "Eddie Murphy",
+    "ator3": "Ralph Bellamy",
+    "ator4": "Don Ameche",
+    "ator5": "Denholm Elliott",
+    "ator6": "Jamie Lee Curtis"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/13nzpPqtTyxWsRhXPspHy6zTc35eIv44b",
@@ -2878,7 +3893,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Ben Stiller",
+    "ator1": "Ben Stiller",
+    "ator2": "Jack Black",
+    "ator3": "Robert Downey Jr.",
+    "ator4": "Brandon T. Jackson",
+    "ator5": "Jay Baruchel",
+    "ator6": "Nick Nolte"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1IThcS-1sCtHwY1b3y9cmCPatsM2spnjx",
@@ -2896,7 +3918,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Gene Saks",
+    "ator1": "Jack Lemmon",
+    "ator2": "Walter Matthau",
+    "ator3": "John Fiedler",
+    "ator4": "Herb Edelman",
+    "ator5": "David Sheiner",
+    "ator6": "Larry Haines"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1aHjIUM-Wfo00b6c6Yk8sc0edL2yvBsfi",
@@ -2914,7 +3943,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Garry Marshall",
+    "ator1": "Goldie Hawn",
+    "ator2": "Kurt Russell",
+    "ator3": "Edward Herrmann",
+    "ator4": "Katherine Helmond",
+    "ator5": "Michael Hagerty",
+    "ator6": "Roddy McDowall"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1DTs_f_bArklSQgyn0vTItodBwoJlbkSd",
@@ -2932,7 +3968,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Andy Fickman",
+    "ator1": "Billy Crystal",
+    "ator2": "Bette Midler",
+    "ator3": "Marisa Tomei",
+    "ator4": "Tom Everett Scott",
+    "ator5": "Bailee Madison",
+    "ator6": "Joshua Rush"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1sQEv07FFdXicGi8lr7JCRLWVA6nAiurw",
@@ -2956,7 +3999,14 @@ const filmes = [
         "nome": "Os Embalos Collection",
         "raw": "Os Embalos Collection"
       }
-    ]
+    ],
+    "diretor": "John Badham",
+    "ator1": "John Travolta",
+    "ator2": "Karen Lynn Gorney",
+    "ator3": "Barry Miller",
+    "ator4": "Joseph Cali",
+    "ator5": "Paul Pape",
+    "ator6": "Donna Pescow"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1lqKpc2nqJo06ew5Faurn58YD9Vk1cPQi",
@@ -2980,7 +4030,14 @@ const filmes = [
         "nome": "Os Embalos Collection",
         "raw": "Os Embalos Collection"
       }
-    ]
+    ],
+    "diretor": "John Badham",
+    "ator1": "John Travolta",
+    "ator2": "Karen Lynn Gorney",
+    "ator3": "Barry Miller",
+    "ator4": "Joseph Cali",
+    "ator5": "Paul Pape",
+    "ator6": "Donna Pescow"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1u9W5CL3LeSezUuDZL2QcfcSi3A6Q1WVp",
@@ -3004,7 +4061,14 @@ const filmes = [
         "nome": "Os Embalos Collection",
         "raw": "Os Embalos Collection"
       }
-    ]
+    ],
+    "diretor": "Sylvester Stallone",
+    "ator1": "John Travolta",
+    "ator2": "Cynthia Rhodes",
+    "ator3": "Finola Hughes",
+    "ator4": "Steve Inwood",
+    "ator5": "Julie Bovasso",
+    "ator6": "Charles Ward"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1aQ3e8cJwwYPTzZzvcGAFyg0f_pWtuWXk",
@@ -3022,7 +4086,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Florian Henckel von Donnersmarck",
+    "ator1": "Ulrich Mühe",
+    "ator2": "Sebastian Koch",
+    "ator3": "Martina Gedeck",
+    "ator4": "Ulrich Tukur",
+    "ator5": "Thomas Thieme",
+    "ator6": "Hans-Uwe Bauer"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Q6pRdY_ahJihA3689uqhhVLEUAT29cX0",
@@ -3040,7 +4111,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Taylor Hackford",
+    "ator1": "Keanu Reeves",
+    "ator2": "Al Pacino",
+    "ator3": "Charlize Theron",
+    "ator4": "Jeffrey Jones",
+    "ator5": "Judith Ivey",
+    "ator6": "Connie Nielsen"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1TK7RU-QUky_UFiybbKdbxZ7JHe5eeJZg",
@@ -3058,7 +4136,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Rob Reiner",
+    "ator1": "Jack Nicholson",
+    "ator2": "Morgan Freeman",
+    "ator3": "Sean Hayes",
+    "ator4": "Beverly Todd",
+    "ator5": "Rob Morrow",
+    "ator6": "Alfonso Freeman"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1tu9TeYP6Fj7McL93UrffaCyQmPviufH_",
@@ -3076,7 +4161,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Paolo Taviani",
+    "ator1": "Vincent Spano",
+    "ator2": "Joaquim de Almeida",
+    "ator3": "Greta Scacchi",
+    "ator4": "Desiree Becker",
+    "ator5": "Omero Antonutti",
+    "ator6": "Bérangère Bonvoisin"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1f4aU3bvDj7_QA_-3V4VOC8bVRMOJgKeN",
@@ -3094,7 +4186,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Todd Phillips",
+    "ator1": "Joaquin Phoenix",
+    "ator2": "Robert De Niro",
+    "ator3": "Zazie Beetz",
+    "ator4": "Frances Conroy",
+    "ator5": "Brett Cullen",
+    "ator6": "Shea Whigham"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1gjb29eDJfwMAnIXFIMYufhGwjxmnamUQ",
@@ -3112,7 +4211,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Neil Jordan",
+    "ator1": "Brad Pitt",
+    "ator2": "Tom Cruise",
+    "ator3": "Antonio Banderas",
+    "ator4": "Stephen Rea",
+    "ator5": "Christian Slater",
+    "ator6": "Kirsten Dunst"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1E99yNtDIEtW4Eldp8MPK4raSx_6ZA9Bh",
@@ -3130,7 +4236,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Alan Parker",
+    "ator1": "Irene Cara",
+    "ator2": "Lee Curreri",
+    "ator3": "Laura Dean",
+    "ator4": "Antonia Franceschi",
+    "ator5": "Boyd Gaines",
+    "ator6": "Albert Hague"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/12JZrA_plpQlgze19Q_SzEojq2RHyU-bR",
@@ -3148,7 +4261,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Ridley Scott",
+    "ator1": "Russell Crowe",
+    "ator2": "Joaquin Phoenix",
+    "ator3": "Connie Nielsen",
+    "ator4": "Oliver Reed",
+    "ator5": "Richard Harris",
+    "ator6": "Derek Jacobi"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1fDS1BkU4VPzrza-gonK6MZkp5ln5swTP",
@@ -3166,7 +4286,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "David Frankel",
+    "ator1": "Meryl Streep",
+    "ator2": "Anne Hathaway",
+    "ator3": "Emily Blunt",
+    "ator4": "Stanley Tucci",
+    "ator5": "Simon Baker",
+    "ator6": "Adrian Grenier"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1DOYHV87_3EiNHCRZIdWPTegIPSFyHjAI",
@@ -3184,7 +4311,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Tom Hooper",
+    "ator1": "Hugh Jackman",
+    "ator2": "Russell Crowe",
+    "ator3": "Anne Hathaway",
+    "ator4": "Amanda Seyfried",
+    "ator5": "Eddie Redmayne",
+    "ator6": "Helena Bonham Carter"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1uURwFx-VhFcnwDebUENeOAXjmV4ywKQW",
@@ -3202,7 +4336,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Martin Brest",
+    "ator1": "Al Pacino",
+    "ator2": "Chris O'Donnell",
+    "ator3": "James Rebhorn",
+    "ator4": "Gabrielle Anwar",
+    "ator5": "Philip Seymour Hoffman",
+    "ator6": "Richard Venture"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1-QV8NFWPt8BIijk4lXt2pKS1ccJMbNDo",
@@ -3220,7 +4361,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Martyn Burke",
+    "ator1": "Noah Wyle",
+    "ator2": "Joey Slotnick",
+    "ator3": "J.G. Hertzler",
+    "ator4": "Anthony Michael Hall",
+    "ator5": "Wayne Pére",
+    "ator6": "Sheila Shaw"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1_vMqcRP_EFf3-YB59XE31JsjcjNiv8no",
@@ -3238,7 +4386,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "José Padilha",
+    "ator1": "Wagner Moura",
+    "ator2": "Caio Junqueira",
+    "ator3": "André Ramiro",
+    "ator4": "Maria Ribeiro",
+    "ator5": "Milhem Cortaz",
+    "ator6": "Fernanda Machado"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1MKGkDKgrF_tMsFBnKTB6ZtN_iz1fcy3q",
@@ -3256,7 +4411,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "George Clooney",
+    "ator1": "Ryan Gosling",
+    "ator2": "George Clooney",
+    "ator3": "Philip Seymour Hoffman",
+    "ator4": "Paul Giamatti",
+    "ator5": "Evan Rachel Wood",
+    "ator6": "Marisa Tomei"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1K_bHAjDTJvo1lkBv0bCZKm8kI3OPpve6",
@@ -3274,7 +4436,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Oliver Stone",
+    "ator1": "Michael Douglas",
+    "ator2": "Charlie Sheen",
+    "ator3": "Tamara Tunie",
+    "ator4": "Franklin Cover",
+    "ator5": "Chuck Pfeiffer",
+    "ator6": "John C. McGinley"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1o3OhnnVRz7vi9vWvzTELzce7_bZZVIJt",
@@ -3292,7 +4461,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Taylor Hackford",
+    "ator1": "Richard Gere",
+    "ator2": "Debra Winger",
+    "ator3": "David Keith",
+    "ator4": "Robert Loggia",
+    "ator5": "Lisa Blount",
+    "ator6": "Louis Gossett Jr."
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/13yYLUQbmEU7_0q3YEBBX5cl5-jUPr8fT",
@@ -3310,7 +4486,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Tony Goldwyn",
+    "ator1": "Ashley Judd",
+    "ator2": "Greg Kinnear",
+    "ator3": "Hugh Jackman",
+    "ator4": "Marisa Tomei",
+    "ator5": "Ellen Barkin",
+    "ator6": "Laura Regan"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1krSOVR5R8ZZgs4ykfjU6NS1ol5Iw_ZPf",
@@ -3328,7 +4511,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Steve Barron",
+    "ator1": "Lenny Von Dohlen",
+    "ator2": "Virginia Madsen",
+    "ator3": "Maxwell Caulfield",
+    "ator4": "Bud Cort",
+    "ator5": "Don Fellows",
+    "ator6": "Alan Green"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1fF_liNkehn67cuW5PZBTmo4CGMJEYYl7",
@@ -3346,7 +4536,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Rob Reiner",
+    "ator1": "Madeline Carroll",
+    "ator2": "Callan McAuliffe",
+    "ator3": "Rebecca De Mornay",
+    "ator4": "Anthony Edwards",
+    "ator5": "John Mahoney",
+    "ator6": "Penelope Ann Miller"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1ZQj1CoGavhoeD7ZAMP-QvmlaTvN8-NH7",
@@ -3364,7 +4561,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "James Mangold",
+    "ator1": "Meg Ryan",
+    "ator2": "Hugh Jackman",
+    "ator3": "Liev Schreiber",
+    "ator4": "Breckin Meyer",
+    "ator5": "Natasha Lyonne",
+    "ator6": "Bradley Whitford"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/12N8je0yGlnzkrb_wYJ_OA50PCcNXjr0t",
@@ -3382,7 +4586,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Nancy Meyers",
+    "ator1": "Cameron Diaz",
+    "ator2": "Kate Winslet",
+    "ator3": "Jude Law",
+    "ator4": "Jack Black",
+    "ator5": "Eli Wallach",
+    "ator6": "Edward Burns"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/17shWA1qlp-d0F46_ou3-i131eJfXQnhO",
@@ -3400,7 +4611,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "David O. Russell",
+    "ator1": "Bradley Cooper",
+    "ator2": "Jennifer Lawrence",
+    "ator3": "Robert De Niro",
+    "ator4": "Jacki Weaver",
+    "ator5": "Chris Tucker",
+    "ator6": "Anupam Kher"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1bFptGeSQsqbCn2KYUxVOTqXq4Z58uMVa",
@@ -3418,7 +4636,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Rob Reiner",
+    "ator1": "Morgan Freeman",
+    "ator2": "Virginia Madsen",
+    "ator3": "Emma Fuhrmann",
+    "ator4": "Madeline Carroll",
+    "ator5": "Kenan Thompson",
+    "ator6": "Kevin Pollak"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1WRAZX7sS4xhTF3Q4hiqyZkovclcirlXs",
@@ -3436,7 +4661,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Joe Wright",
+    "ator1": "Keira Knightley",
+    "ator2": "Matthew Macfadyen",
+    "ator3": "Brenda Blethyn",
+    "ator4": "Donald Sutherland",
+    "ator5": "Rosamund Pike",
+    "ator6": "Jena Malone"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1wtAvRA4HJHI2JG7Jwp6QYzybh06h9UH7",
@@ -3454,7 +4686,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Sydney Pollack",
+    "ator1": "Harrison Ford",
+    "ator2": "Julia Ormond",
+    "ator3": "Greg Kinnear",
+    "ator4": "Nancy Marchand",
+    "ator5": "John Wood",
+    "ator6": "Richard Crenna"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1gW1BjzorBMpOdTFwn7o6kU2aWsiuepNG",
@@ -3472,7 +4711,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "John Madden",
+    "ator1": "Gwyneth Paltrow",
+    "ator2": "Joseph Fiennes",
+    "ator3": "Geoffrey Rush",
+    "ator4": "Colin Firth",
+    "ator5": "Ben Affleck",
+    "ator6": "Judi Dench"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1UGg_zxNyvtlIDK-bc-3xyasUId8YTEB3",
@@ -3490,7 +4736,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Mark Tarlov",
+    "ator1": "Sarah Michelle Gellar",
+    "ator2": "Sean Patrick Flanery",
+    "ator3": "Patricia Clarkson",
+    "ator4": "Dylan Baker",
+    "ator5": "Christopher Durang",
+    "ator6": "Betty Buckley"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1eSypj0DlIWrjVUWcY_pEMGyxeQaqlNma",
@@ -3508,7 +4761,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Garry Marshall",
+    "ator1": "Richard Gere",
+    "ator2": "Julia Roberts",
+    "ator3": "Ralph Bellamy",
+    "ator4": "Jason Alexander",
+    "ator5": "Laura San Giacomo",
+    "ator6": "Hector Elizondo"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Pe8-nVU5OnFn55GKQEtztkrODzodarAs",
@@ -3526,7 +4786,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Gene Kelly",
+    "ator1": "Gene Kelly",
+    "ator2": "Donald O'Connor",
+    "ator3": "Debbie Reynolds",
+    "ator4": "Jean Hagen",
+    "ator5": "Millard Mitchell",
+    "ator6": "Cyd Charisse"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1cKq3bNbG1vaI68cjNIMp1UnhO5N0G1x2",
@@ -3544,7 +4811,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Emile Ardolino",
+    "ator1": "Patrick Swayze",
+    "ator2": "Jennifer Grey",
+    "ator3": "Jerry Orbach",
+    "ator4": "Cynthia Rhodes",
+    "ator5": "Jack Weston",
+    "ator6": "Jane Brucker"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/14My63UOXXwxzOGBu7iDv0rxrYv3y4Cpt",
@@ -3562,7 +4836,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Adrian Lyne",
+    "ator1": "Jennifer Beals",
+    "ator2": "Michael Nouri",
+    "ator3": "Lilia Skala",
+    "ator4": "Sunny Johnson",
+    "ator5": "Kyle T. Heffner",
+    "ator6": "Lee Ving"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1l6zZMIC2_sz_EcIY8xWcunFjZ9opVUua",
@@ -3580,7 +4861,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Craig Brewer",
+    "ator1": "Kenny Wormald",
+    "ator2": "Julianne Hough",
+    "ator3": "Dennis Quaid",
+    "ator4": "Andie MacDowell",
+    "ator5": "Miles Teller",
+    "ator6": "Ser'Darius Blain"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1AcGo5jEmxrMjzvW3oS-o928Mc3Y--fWH",
@@ -3598,7 +4886,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Herbert Ross",
+    "ator1": "Kevin Bacon",
+    "ator2": "Lori Singer",
+    "ator3": "John Lithgow",
+    "ator4": "Dianne Wiest",
+    "ator5": "Chris Penn",
+    "ator6": "Frances Lee McCain"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/18946l9G5vJ--T1vjE_8OwHZaHOjFJeGK",
@@ -3616,7 +4911,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Randal Kleiser",
+    "ator1": "John Travolta",
+    "ator2": "Olivia Newton-John",
+    "ator3": "Stockard Channing",
+    "ator4": "Jeff Conaway",
+    "ator5": "Barry Pearl",
+    "ator6": "Didi Conn"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/15fFBENC1p5eCs6YkwY6VMyc95l2e8WHa",
@@ -3634,7 +4936,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Phyllida Lloyd",
+    "ator1": "Meryl Streep",
+    "ator2": "Pierce Brosnan",
+    "ator3": "Colin Firth",
+    "ator4": "Stellan Skarsgård",
+    "ator5": "Julie Walters",
+    "ator6": "Christine Baranski"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1xLY9RAFBzzy9ZEgrAMWb4VvzCN5TbQBR",
@@ -3652,7 +4961,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Baz Luhrmann",
+    "ator1": "Nicole Kidman",
+    "ator2": "Ewan McGregor",
+    "ator3": "John Leguizamo",
+    "ator4": "Jim Broadbent",
+    "ator5": "Richard Roxburgh",
+    "ator6": "Garry McDonald"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1r5gz4oJKGnQthy1RbFsW1G7J9OiF25Ag",
@@ -3670,7 +4986,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Taylor Hackford",
+    "ator1": "Mikhail Baryshnikov",
+    "ator2": "Gregory Hines",
+    "ator3": "Jerzy Skolimowski",
+    "ator4": "Helen Mirren",
+    "ator5": "Geraldine Page",
+    "ator6": "Isabella Rossellini"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1YDNqWR5mS2Eed4DwK3ZZZEvyrJANLkUj",
@@ -3688,7 +5011,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Robert Greenwald",
+    "ator1": "Olivia Newton-John",
+    "ator2": "Gene Kelly",
+    "ator3": "Michael Beck",
+    "ator4": "James Sloyan",
+    "ator5": "Dimitri Logothetis",
+    "ator6": null
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1NA2GvewZTx_nWbybUFfpkZUXbQT7qY8y",
@@ -3712,7 +5042,14 @@ const filmes = [
         "nome": "Ágatha Christie",
         "raw": "Franquia - Ágatha Christie"
       }
-    ]
+    ],
+    "diretor": "Sidney Lumet",
+    "ator1": "Albert Finney",
+    "ator2": "Lauren Bacall",
+    "ator3": "Sean Connery",
+    "ator4": "Ingrid Bergman",
+    "ator5": "Curt Jurgens",
+    "ator6": "Anthony Perkins"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1FD22STgN1Fca2_7-wfn7CPyZgjsL52V1",
@@ -3736,7 +5073,14 @@ const filmes = [
         "nome": "Ágatha Christie",
         "raw": "Franquia - Ágatha Christie"
       }
-    ]
+    ],
+    "diretor": "Guy Hamilton",
+    "ator1": "Peter Ustinov",
+    "ator2": "Jane Birkin",
+    "ator3": "Colin Blakely",
+    "ator4": "Nicholas Clay",
+    "ator5": "James Mason",
+    "ator6": "Roddy McDowall"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/18vQWIxjbue-yy8Jht6IdKwIVsUjeP-8Y",
@@ -3760,7 +5104,14 @@ const filmes = [
         "nome": "Ágatha Christie",
         "raw": "Franquia - Ágatha Christie"
       }
-    ]
+    ],
+    "diretor": "John Guillermin",
+    "ator1": "Peter Ustinov",
+    "ator2": "Jane Birkin",
+    "ator3": "Lois Chiles",
+    "ator4": "Bette Davis",
+    "ator5": "Mia Farrow",
+    "ator6": "Jon Finch"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1A-01bm70oUCssJgbTFZj_AXKSepxE_mE",
@@ -3789,7 +5140,14 @@ const filmes = [
         "nome": "Coleção Tribunal",
         "raw": "Coleção Tribunal"
       }
-    ]
+    ],
+    "diretor": "Billy Wilder",
+    "ator1": "Tyrone Power",
+    "ator2": "Marlene Dietrich",
+    "ator3": "Charles Laughton",
+    "ator4": "Elsa Lanchester",
+    "ator5": "John Williams",
+    "ator6": "Henry Daniell"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1GrCJ6nsqxQJ-B5rwzxSxcZqoKhXTwaQF",
@@ -3813,7 +5171,14 @@ const filmes = [
         "nome": "Alien",
         "raw": "Franquia - Alien"
       }
-    ]
+    ],
+    "diretor": "Ridley Scott",
+    "ator1": "Sigourney Weaver",
+    "ator2": "Tom Skerritt",
+    "ator3": "Veronica Cartwright",
+    "ator4": "Harry Dean Stanton",
+    "ator5": "John Hurt",
+    "ator6": "Ian Holm"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/13EsfIgNisMMTNjxYWtrdnWotu01GSbAb",
@@ -3837,7 +5202,14 @@ const filmes = [
         "nome": "Alien",
         "raw": "Franquia - Alien"
       }
-    ]
+    ],
+    "diretor": "Ridley Scott",
+    "ator1": "Noomi Rapace",
+    "ator2": "Michael Fassbender",
+    "ator3": "Guy Pearce",
+    "ator4": "Idris Elba",
+    "ator5": "Logan Marshall-Green",
+    "ator6": "Charlize Theron"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/13h6HhJJNz2_lUVuB8j5LcIkGzcZpiJRe",
@@ -3861,7 +5233,14 @@ const filmes = [
         "nome": "Hitchcock",
         "raw": "Franquia - Hitchcock"
       }
-    ]
+    ],
+    "diretor": "Alfred Hitchcock",
+    "ator1": "Ray Milland",
+    "ator2": "Grace Kelly",
+    "ator3": "Robert Cummings",
+    "ator4": "John Williams",
+    "ator5": "Anthony Dawson",
+    "ator6": "Patrick Allen"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/16r5FtFGSfGKH2bosXoRSlaV_UlvBmiui",
@@ -3885,7 +5264,14 @@ const filmes = [
         "nome": "Hitchcock",
         "raw": "Franquia - Hitchcock"
       }
-    ]
+    ],
+    "diretor": "Alfred Hitchcock",
+    "ator1": "James Stewart",
+    "ator2": "John Dall",
+    "ator3": "Farley Granger",
+    "ator4": "Joan Chandler",
+    "ator5": "Sir Cedric Hardwicke",
+    "ator6": "Constance Collier"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1W_8ngD_hkT_3F11-OTNpnys6nxlmpKAn",
@@ -3909,7 +5295,14 @@ const filmes = [
         "nome": "Hitchcock",
         "raw": "Franquia - Hitchcock"
       }
-    ]
+    ],
+    "diretor": "Alfred Hitchcock",
+    "ator1": "Cary Grant",
+    "ator2": "Eva Marie Saint",
+    "ator3": "James Mason",
+    "ator4": "Jessie Royce Landis",
+    "ator5": "Leo G. Carroll",
+    "ator6": "Martin Landau"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1wJFlmguVEUIc2ltZweiQ3hqdImzucFRR",
@@ -3933,7 +5326,14 @@ const filmes = [
         "nome": "Hitchcock",
         "raw": "Franquia - Hitchcock"
       }
-    ]
+    ],
+    "diretor": "Alfred Hitchcock",
+    "ator1": "James Stewart",
+    "ator2": "Grace Kelly",
+    "ator3": "Wendell Corey",
+    "ator4": "Thelma Ritter",
+    "ator5": "Raymond Burr",
+    "ator6": "Judith Evelyn"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/11m0BtyR5DUH2HKZvBUntJv9vWJQAdQP_",
@@ -3957,7 +5357,14 @@ const filmes = [
         "nome": "Hitchcock",
         "raw": "Franquia - Hitchcock"
       }
-    ]
+    ],
+    "diretor": "Alfred Hitchcock",
+    "ator1": "Henry Fonda",
+    "ator2": "Vera Miles",
+    "ator3": "Anthony Quayle",
+    "ator4": "Harold J. Stone",
+    "ator5": "Charles Cooper",
+    "ator6": "John Heldabrand"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1C-VmxhgFHs1_xvtnuqxLXlR6MTyg3kjB",
@@ -3981,7 +5388,14 @@ const filmes = [
         "nome": "Hitchcock",
         "raw": "Franquia - Hitchcock"
       }
-    ]
+    ],
+    "diretor": "Alfred Hitchcock",
+    "ator1": "Tippi Hedren",
+    "ator2": "Rod Taylor",
+    "ator3": "Jessica Tandy",
+    "ator4": "Suzanne Pleshette",
+    "ator5": "Veronica Cartwright",
+    "ator6": "Ethel Griffies"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1VNCLpX1m6I66XnJOli6uf0LZtys1JMQt",
@@ -4005,7 +5419,14 @@ const filmes = [
         "nome": "Hitchcock",
         "raw": "Franquia - Hitchcock"
       }
-    ]
+    ],
+    "diretor": "Alfred Hitchcock",
+    "ator1": "Farley Granger",
+    "ator2": "Robert Walker",
+    "ator3": "Ruth Roman",
+    "ator4": "Leo G. Carroll",
+    "ator5": "Patricia Hitchcock",
+    "ator6": "Kasey Rogers"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/14ytJqzCZMYcOOGq0msRMqjTcgzvUPe5B",
@@ -4029,7 +5450,14 @@ const filmes = [
         "nome": "Hitchcock",
         "raw": "Franquia - Hitchcock"
       }
-    ]
+    ],
+    "diretor": "Alfred Hitchcock",
+    "ator1": "Anthony Perkins",
+    "ator2": "Janet Leigh",
+    "ator3": "Vera Miles",
+    "ator4": "John Gavin",
+    "ator5": "Martin Balsam",
+    "ator6": "John McIntire"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1y4PHqtzThOLfBNxcMFv4hsyw7xv2KVdt",
@@ -4053,7 +5481,14 @@ const filmes = [
         "nome": "Hitchcock",
         "raw": "Franquia - Hitchcock"
       }
-    ]
+    ],
+    "diretor": "Alfred Hitchcock",
+    "ator1": "James Stewart",
+    "ator2": "Kim Novak",
+    "ator3": "Barbara Bel Geddes",
+    "ator4": "Tom Helmore",
+    "ator5": "Henry Jones",
+    "ator6": "Raymond Bailey"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1PBz3bWmXFTGD8a4Ub12ApSqtuifi2XCX",
@@ -4077,7 +5512,14 @@ const filmes = [
         "nome": "Jack Ryan",
         "raw": "Franquia - Jack Ryan"
       }
-    ]
+    ],
+    "diretor": "Phillip Noyce",
+    "ator1": "Harrison Ford",
+    "ator2": "Sean Bean",
+    "ator3": "Anne Archer",
+    "ator4": "Patrick Bergin",
+    "ator5": "Thora Birch",
+    "ator6": "James Fox"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1AjwDD7ONW8KM0ELSHA6vj0yIf0rRbdDx",
@@ -4101,7 +5543,14 @@ const filmes = [
         "nome": "Jack Ryan",
         "raw": "Franquia - Jack Ryan"
       }
-    ]
+    ],
+    "diretor": "Phillip Noyce",
+    "ator1": "Harrison Ford",
+    "ator2": "Willem Dafoe",
+    "ator3": "Anne Archer",
+    "ator4": "Joaquim de Almeida",
+    "ator5": "Henry Czerny",
+    "ator6": "Harris Yulin"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1dQuIVpN3v3O1RBqdIjxMLOyHr00aRxvx",
@@ -4125,7 +5574,14 @@ const filmes = [
         "nome": "Tubarão",
         "raw": "Franquia - Tubarão"
       }
-    ]
+    ],
+    "diretor": "Steven Spielberg",
+    "ator1": "Roy Scheider",
+    "ator2": "Robert Shaw",
+    "ator3": "Richard Dreyfuss",
+    "ator4": "Lorraine Gary",
+    "ator5": "Murray Hamilton",
+    "ator6": "Carl Gottlieb"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1e-iyGCG4Pu5AyFltpewT-kvKFw1bFUrW",
@@ -4149,7 +5605,14 @@ const filmes = [
         "nome": "Tubarão",
         "raw": "Franquia - Tubarão"
       }
-    ]
+    ],
+    "diretor": "Jeannot Szwarc",
+    "ator1": "Roy Scheider",
+    "ator2": "Lorraine Gary",
+    "ator3": "Murray Hamilton",
+    "ator4": "Joseph Mascolo",
+    "ator5": "Jeffrey Kramer",
+    "ator6": "Collin Wilcox Paxton"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1G7D7iazxTSDJMPUl4gP5InHk5QAZhMbq",
@@ -4173,7 +5636,14 @@ const filmes = [
         "nome": "Tubarão",
         "raw": "Franquia - Tubarão"
       }
-    ]
+    ],
+    "diretor": "Joe Alves",
+    "ator1": "Dennis Quaid",
+    "ator2": "Bess Armstrong",
+    "ator3": "Simon MacCorkindale",
+    "ator4": "Louis Gossett Jr.",
+    "ator5": "John Putch",
+    "ator6": "Lea Thompson"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/12yf2Q1Fm71FiSJeHDKJxqaqgTCaARR2f",
@@ -4197,7 +5667,14 @@ const filmes = [
         "nome": "Tubarão",
         "raw": "Franquia - Tubarão"
       }
-    ]
+    ],
+    "diretor": "Joseph Sargent",
+    "ator1": "Lorraine Gary",
+    "ator2": "Lance Guest",
+    "ator3": "Mario Van Peebles",
+    "ator4": "Michael Caine",
+    "ator5": "Karen Young",
+    "ator6": "Judith Barsi"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1smT5tIf8S65xRgekEQ2VFNBax7_TDm8h",
@@ -4215,7 +5692,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Greg Marcks",
+    "ator1": "Henry Thomas",
+    "ator2": "Colin Hanks",
+    "ator3": "Ben Foster",
+    "ator4": "Hilary Swank",
+    "ator5": "Patrick Swayze",
+    "ator6": "Rachael Leigh Cook"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1p3jEeX00JVDP6LfhYOb7LPyi-oOl1f3Q",
@@ -4233,7 +5717,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Tim Burton",
+    "ator1": "Johnny Depp",
+    "ator2": "Christina Ricci",
+    "ator3": "Miranda Richardson",
+    "ator4": "Michael Gambon",
+    "ator5": "Casper Van Dien",
+    "ator6": "Jeffrey Jones"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Yh_V5gkeo9Vj5plSDmip-TTXSpo1QaqF",
@@ -4251,7 +5742,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Richard Donner",
+    "ator1": "Gregory Peck",
+    "ator2": "Lee Remick",
+    "ator3": "David Warner",
+    "ator4": "Billie Whitelaw",
+    "ator5": "Harvey Spencer Stephens",
+    "ator6": "Patrick Troughton"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1r4-Ns2eZ-rdXAtFlVZfmMYJ2ErdpVQ0b",
@@ -4269,7 +5767,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Robert Zemeckis",
+    "ator1": "Joseph Gordon-Levitt",
+    "ator2": "Ben Kingsley",
+    "ator3": "Charlotte Le Bon",
+    "ator4": "James Badge Dale",
+    "ator5": "Ben Schwartz",
+    "ator6": "Steve Valentine"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1EkFKHE_CehtLgdCs6GlnRTcPudWCmg96",
@@ -4287,7 +5792,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Alan J. Pakula",
+    "ator1": "Harrison Ford",
+    "ator2": "Brian Dennehy",
+    "ator3": "Raul Julia",
+    "ator4": "Bonnie Bedelia",
+    "ator5": "Paul Winfield",
+    "ator6": "Greta Scacchi"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/17Vlf56H9nlkUBb5M0rvRGU6uzX4oN2Qp",
@@ -4305,7 +5817,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Ben Affleck",
+    "ator1": "Ben Affleck",
+    "ator2": "Bryan Cranston",
+    "ator3": "Alan Arkin",
+    "ator4": "John Goodman",
+    "ator5": "Victor Garber",
+    "ator6": "Tate Donovan"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1X0zyxQt3nqB991_Y3-DkYOJxvZECG2Xp",
@@ -4323,7 +5842,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Pierre Morel",
+    "ator1": "Liam Neeson",
+    "ator2": "Maggie Grace",
+    "ator3": "Famke Janssen",
+    "ator4": "Leland Orser",
+    "ator5": "Jon Gries",
+    "ator6": "David Warshofsky"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1iSlMf296bZmrW0TJX6we_emwwtKqS5FG",
@@ -4341,7 +5867,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Brian De Palma",
+    "ator1": "Sissy Spacek",
+    "ator2": "Piper Laurie",
+    "ator3": "Amy Irving",
+    "ator4": "William Katt",
+    "ator5": "John Travolta",
+    "ator6": "Nancy Allen"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1-69451bHd6PFP_-7s_5vj6sg8CUKfbgW",
@@ -4354,12 +5887,19 @@ const filmes = [
     "perfilCor": null,
     "presetElmedia": null,
     "situacao": null,
-    "sinopse": null,
+    "sinopse": "Uma jovem tímida e isolada, que sofre abusos da mãe fanática religiosa e bullying dos colegas de escola, descobre possuir poderes telecinéticos. A humilhação sofrida no baile de formatura desencadeia uma vingança destrutiva e sangrenta.",
     "genero": "Suspense",
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Kimberly Peirce",
+    "ator1": "Chloë Grace Moretz",
+    "ator2": "Julianne Moore",
+    "ator3": "Judy Greer",
+    "ator4": "Portia Doubleday",
+    "ator5": "Alex Russell",
+    "ator6": "Gabriella Wilde"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1tBb6Tarai2Y005NnM9qVZbcCXisqScWr",
@@ -4377,7 +5917,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Michael Mann",
+    "ator1": "Tom Cruise",
+    "ator2": "Jamie Foxx",
+    "ator3": "Jada Pinkett Smith",
+    "ator4": "Mark Ruffalo",
+    "ator5": "Peter Berg",
+    "ator6": "Bruce McGill"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1lHSVIJBOk-8e5fEyZIKPm1CnWuEcqC6D",
@@ -4395,7 +5942,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Robert Zemeckis",
+    "ator1": "Jodie Foster",
+    "ator2": "Matthew McConaughey",
+    "ator3": "James Woods",
+    "ator4": "John Hurt",
+    "ator5": "Tom Skerritt",
+    "ator6": "William Fichtner"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Qs0isHHMAtBEa7qYvoq9o0W8aAXDE8aJ",
@@ -4413,7 +5967,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Tony Scott",
+    "ator1": "Denzel Washington",
+    "ator2": "Paula Patton",
+    "ator3": "Val Kilmer",
+    "ator4": "Jim Caviezel",
+    "ator5": "Adam Goldberg",
+    "ator6": "Elden Henson"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/15eEBf88Qe1yhBZznsrK7B5w01tCb_LN_",
@@ -4431,7 +5992,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Albert Hughes",
+    "ator1": "Johnny Depp",
+    "ator2": "Heather Graham",
+    "ator3": "Ian Holm",
+    "ator4": "Robbie Coltrane",
+    "ator5": "Ian Richardson",
+    "ator6": "Jason Flemyng"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1_MuyCv7101-M4C3D_8KIPDT9fB93Cyjp",
@@ -4449,7 +6017,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Brian De Palma",
+    "ator1": "Craig Wasson",
+    "ator2": "Melanie Griffith",
+    "ator3": "Gregg Henry",
+    "ator4": "Deborah Shelton",
+    "ator5": "Guy Boyd",
+    "ator6": "Dennis Franz"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1YUA1ma8pjamVwKCeSw5zCblv0Ra3oiHU",
@@ -4467,7 +6042,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Steven Spielberg",
+    "ator1": "Dennis Weaver",
+    "ator2": "Jacqueline Scott",
+    "ator3": "Eddie Firestone",
+    "ator4": "Lou Frizzell",
+    "ator5": "Gene Dynarski",
+    "ator6": "Lucille Benson"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/11fBcXOwloLYox5LpiszTP7Bi1oPQ1y4j",
@@ -4485,7 +6067,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Guy Ritchie",
+    "ator1": "Jason Statham",
+    "ator2": "Holt McCallany",
+    "ator3": "Jeffrey Donovan",
+    "ator4": "Josh Hartnett",
+    "ator5": "Niamh Algar",
+    "ator6": "Laz Alonso"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Lt5mRmpHMoRkg-gMhInP9dgo_YR1xJJ3",
@@ -4503,7 +6092,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Charles Stone III",
+    "ator1": "Viola Davis",
+    "ator2": "Jennifer Lopez",
+    "ator3": "Aml Ameen",
+    "ator4": "Shea Whigham",
+    "ator5": "Andre Royo",
+    "ator6": "Julius Tennon"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1vE6va2K_Mv0wWWfWcA1znzm4gnAozct6",
@@ -4521,7 +6117,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Joel Schumacher",
+    "ator1": "Kiefer Sutherland",
+    "ator2": "Julia Roberts",
+    "ator3": "Kevin Bacon",
+    "ator4": "William Baldwin",
+    "ator5": "Oliver Platt",
+    "ator6": "Kimberly Scott"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Hsm-6fxXW0Zus-XwswXpHTDKOkK05lhS",
@@ -4539,7 +6142,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "David Cronenberg",
+    "ator1": "Christopher Walken",
+    "ator2": "Brooke Adams",
+    "ator3": "Tom Skerritt",
+    "ator4": "Herbert Lom",
+    "ator5": "Anthony Zerbe",
+    "ator6": "Colm Feore"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1l2Y19NkLnZE0Z68DTHiyXvyIKL_yhssu",
@@ -4557,7 +6167,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Christopher Menaul",
+    "ator1": "Rutger Hauer",
+    "ator2": "Miranda Richardson",
+    "ator3": "Peter Vaughan",
+    "ator4": "Michael Kitchen",
+    "ator5": "Jean Marsh",
+    "ator6": "John Woodvine"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1P5bykG5FIlPF4jWQFx27NeiBiRJ0sXkI",
@@ -4575,7 +6192,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Wayne Kramer",
+    "ator1": "Paul Walker",
+    "ator2": "Cameron Bright",
+    "ator3": "Vera Farmiga",
+    "ator4": "Chazz Palminteri",
+    "ator5": "Karel Roden",
+    "ator6": "Johnny Messner"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1jpJLsF-zgg8z9spAxgRzzh3ojxkoDyfU",
@@ -4593,7 +6217,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Francis Lawrence",
+    "ator1": "Jennifer Lawrence",
+    "ator2": "Joel Edgerton",
+    "ator3": "Matthias Schoenaerts",
+    "ator4": "Charlotte Rampling",
+    "ator5": "Jeremy Irons",
+    "ator6": "Mary-Louise Parker"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1nYBTidAmWpFVb-CY6QP784tCoyLOsqCl",
@@ -4611,7 +6242,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Denis Villeneuve",
+    "ator1": "Hugh Jackman",
+    "ator2": "Jake Gyllenhaal",
+    "ator3": "Viola Davis",
+    "ator4": "Maria Bello",
+    "ator5": "Terrence Howard",
+    "ator6": "Melissa Leo"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1nVRH1L7HkuJLAP-n1TSLoUDafTDdq_zC",
@@ -4629,7 +6267,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "D.J. Caruso",
+    "ator1": "Shia LaBeouf",
+    "ator2": "David Morse",
+    "ator3": "Sarah Roemer",
+    "ator4": "Carrie-Anne Moss",
+    "ator5": "Aaron Yoo",
+    "ator6": "Jose Pablo Cantillo"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1tEoc54nM-LIftuzdjjmeO21DOGUIYZGg",
@@ -4647,7 +6292,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Robert Schwentke",
+    "ator1": "Jodie Foster",
+    "ator2": "Peter Sarsgaard",
+    "ator3": "Sean Bean",
+    "ator4": "Kate Beahan",
+    "ator5": "Matt Bomer",
+    "ator6": "Amanda Anka"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/13xRkymFfUbJci4FuMjsGJ0F5SAo22PkK",
@@ -4665,7 +6317,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Tobe Hooper",
+    "ator1": "Craig T. Nelson",
+    "ator2": "JoBeth Williams",
+    "ator3": "Beatrice Straight",
+    "ator4": "Dominique Dunne",
+    "ator5": "Oliver Robins",
+    "ator6": "Heather O'Rourke"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1s3lcQD1fmyaTk_wRl89Xassk8EU_U7uc",
@@ -4683,11 +6342,18 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Joel Schumacher",
+    "ator1": "Colin Farrell",
+    "ator2": "Kiefer Sutherland",
+    "ator3": "Forest Whitaker",
+    "ator4": "Katie Holmes",
+    "ator5": "Radha Mitchell",
+    "ator6": "Michael Coon"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/182OhlbCrp0THeGrrNC-3-nmR8whv1_wL",
-    "nome": "Salt - Versão do Diretor",
+    "nome": "Salt [Versão do Diretor]",
     "ano": 2010,
     "duracao": "01:44:04",
     "gb": 7.97,
@@ -4701,7 +6367,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Phillip Noyce",
+    "ator1": "Angelina Jolie",
+    "ator2": "Liev Schreiber",
+    "ator3": "Chiwetel Ejiofor",
+    "ator4": "Daniel Olbrychski",
+    "ator5": "August Diehl",
+    "ator6": "Daniel Pearce"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1sr3-UYOdZcWSS0pNKlvN9IJYZvp_VshC",
@@ -4719,7 +6392,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "David Fincher",
+    "ator1": "Brad Pitt",
+    "ator2": "Morgan Freeman",
+    "ator3": "Gwyneth Paltrow",
+    "ator4": "Kevin Spacey",
+    "ator5": "R. Lee Ermey",
+    "ator6": "John C. McGinley"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1h4SZHkjWzszIgbm4tdwbpOEOqm1Fcrnc",
@@ -4737,7 +6417,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Neil Burger",
+    "ator1": "Bradley Cooper",
+    "ator2": "Robert De Niro",
+    "ator3": "Abbie Cornish",
+    "ator4": "Andrew Howard",
+    "ator5": "Anna Friel",
+    "ator6": "Johnny Whitworth"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1HXuWBilliobaq1GevZ7KHT8DIz4FUVsx",
@@ -4755,7 +6442,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Roger Donaldson",
+    "ator1": "Kevin Costner",
+    "ator2": "Gene Hackman",
+    "ator3": "Sean Young",
+    "ator4": "Will Patton",
+    "ator5": "Howard Duff",
+    "ator6": "George Dzundza"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1v9oan6OTJx0GpFlY9UNuuxeZw3HvvjEK",
@@ -4773,7 +6467,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Kenneth Branagh",
+    "ator1": "Michael Caine",
+    "ator2": "Jude Law",
+    "ator3": "Harold Pinter",
+    "ator4": "Carmel O'Sullivan",
+    "ator5": "Eve Channing",
+    "ator6": "Kate Agnes"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1uWg8UJ0jN8VJVm4Vqx_kPGn3IT3Kh5Eg",
@@ -4791,7 +6492,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Neil Marshall",
+    "ator1": "Rhona Mitchel",
+    "ator2": "Bob Hoskins",
+    "ator3": "David O'Hara",
+    "ator4": "Malcolm McDowell",
+    "ator5": "Alexander Siddig",
+    "ator6": "Craig Conway"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1LMt0p99QlC_k0VJTFQ1bPKb0gPWLvHcK",
@@ -4809,7 +6517,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Walter Hill",
+    "ator1": "Michael Beck",
+    "ator2": "James Remar",
+    "ator3": "Dorsey Wright",
+    "ator4": "Brian Tyler",
+    "ator5": "David Harris",
+    "ator6": "Tom McKitterick"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1X48o7_4sziK5bSqHjJUOJQ0saU9BPhvY",
@@ -4833,7 +6548,14 @@ const filmes = [
         "nome": "Coleção Desfalque",
         "raw": "Coleção Desfalque"
       }
-    ]
+    ],
+    "diretor": "John McTiernan",
+    "ator1": "Pierce Brosnan",
+    "ator2": "Rene Russo",
+    "ator3": "Denis Leary",
+    "ator4": "Ben Gazzara",
+    "ator5": "Frankie Faison",
+    "ator6": "Fritz Weaver"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1gAZMWXNWWU8lgeLiqUrjnJJUREv0tdm8",
@@ -4857,7 +6579,14 @@ const filmes = [
         "nome": "Ashley Judd",
         "raw": "Franquia - Ashley Judd"
       }
-    ]
+    ],
+    "diretor": "Philip Kaufman",
+    "ator1": "Ashley Judd",
+    "ator2": "Samuel L. Jackson",
+    "ator3": "Andy Garcia",
+    "ator4": "David Strathairn",
+    "ator5": "Russell Wong",
+    "ator6": "Camryn Manheim"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/12xbHGY_XOqW0y47A-h82RhmUoVgzn_5g",
@@ -4881,7 +6610,14 @@ const filmes = [
         "nome": "Ashley Judd",
         "raw": "Franquia - Ashley Judd"
       }
-    ]
+    ],
+    "diretor": "Gary Fleder",
+    "ator1": "Morgan Freeman",
+    "ator2": "Ashley Judd",
+    "ator3": "Cary Elwes",
+    "ator4": "Alex McArthur",
+    "ator5": "Tony Goldwyn",
+    "ator6": "Jay O. Sanders"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1FCDokqDtFxxHK9KtM08AVx9-BjqzArFc",
@@ -4905,7 +6641,14 @@ const filmes = [
         "nome": "Ashley Judd",
         "raw": "Franquia - Ashley Judd"
       }
-    ]
+    ],
+    "diretor": "Carl Franklin",
+    "ator1": "Ashley Judd",
+    "ator2": "Morgan Freeman",
+    "ator3": "James Caviezel",
+    "ator4": "Adam Scott",
+    "ator5": "Amanda Peet",
+    "ator6": "Bruce Davison"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/11BXIgHgpf-Izj6yFAcKfuiNu2cqLUMte",
@@ -4929,7 +6672,14 @@ const filmes = [
         "nome": "Ashley Judd",
         "raw": "Franquia - Ashley Judd"
       }
-    ]
+    ],
+    "diretor": "Bruce Beresford",
+    "ator1": "Ashley Judd",
+    "ator2": "Tommy Lee Jones",
+    "ator3": "Bruce Greenwood",
+    "ator4": "Annabeth Gish",
+    "ator5": "Jay Brazeau",
+    "ator6": "John Maclaren"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1z9VuHv_6h7CiVYwhNlLwdnVLDbUleZ2h",
@@ -4953,7 +6703,14 @@ const filmes = [
         "nome": "Dirty Harry",
         "raw": "Franquia - Dirty Harry"
       }
-    ]
+    ],
+    "diretor": "Buddy Van Horn",
+    "ator1": "Clint Eastwood",
+    "ator2": "Patricia Clarkson",
+    "ator3": "Liam Neeson",
+    "ator4": "Evan C. Kim",
+    "ator5": "David Hunt",
+    "ator6": "Michael Currie"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1F0OnPEeIqIkltw4JD7rXfbGhwDN4uvu8",
@@ -4977,7 +6734,14 @@ const filmes = [
         "nome": "Dirty Harry",
         "raw": "Franquia - Dirty Harry"
       }
-    ]
+    ],
+    "diretor": "Clint Eastwood",
+    "ator1": "Clint Eastwood",
+    "ator2": "Sondra Locke",
+    "ator3": "Pat Hingle",
+    "ator4": "Bradford Dillman",
+    "ator5": "Paul Drake",
+    "ator6": "Audrie Neenan"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Ew8GVuG4S0ObjMsa9LfNwt260ymJyzO4",
@@ -5001,7 +6765,14 @@ const filmes = [
         "nome": "Dirty Harry",
         "raw": "Franquia - Dirty Harry"
       }
-    ]
+    ],
+    "diretor": "Don Siegel",
+    "ator1": "Clint Eastwood",
+    "ator2": "Harry Guardino",
+    "ator3": "Reni Santoni",
+    "ator4": "John Vernon",
+    "ator5": "Andrew Robinson",
+    "ator6": "John Larch"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1aqwW-LG8EzbJaO7UsKm22NAqfTVwzXRl",
@@ -5025,11 +6796,18 @@ const filmes = [
         "nome": "Dirty Harry",
         "raw": "Franquia - Dirty Harry"
       }
-    ]
+    ],
+    "diretor": "James Fargo",
+    "ator1": "Clint Eastwood",
+    "ator2": "Tyne Daly",
+    "ator3": "Harry Guardino",
+    "ator4": "Bradford Dillman",
+    "ator5": "John Mitchum",
+    "ator6": "DeVeren Bookwalter"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1SIIECLk45rj4B0Dsaqs2M_SzLY0hpCSf",
-    "nome": "01 Sherlock Holmes",
+    "nome": "Sherlock Holmes",
     "ano": 2009,
     "duracao": "02:08:24",
     "gb": 9.46,
@@ -5049,11 +6827,18 @@ const filmes = [
         "nome": "Sherlock",
         "raw": "Franquia - Sherlock"
       }
-    ]
+    ],
+    "diretor": "Guy Ritchie",
+    "ator1": "Robert Downey Jr.",
+    "ator2": "Jude Law",
+    "ator3": "Rachel McAdams",
+    "ator4": "Mark Strong",
+    "ator5": "Eddie Marsan",
+    "ator6": "Kelly Reilly"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1TI4L2BFWu9ZO8Yr9W0RqSUlyJWwKz15q",
-    "nome": "02 Sherlock Holmes Jogo de Sombras",
+    "nome": "Sherlock Holmes Jogo de Sombras",
     "ano": 2011,
     "duracao": "02:08:44",
     "gb": 3.22,
@@ -5073,7 +6858,14 @@ const filmes = [
         "nome": "Sherlock",
         "raw": "Franquia - Sherlock"
       }
-    ]
+    ],
+    "diretor": "Guy Ritchie",
+    "ator1": "Robert Downey Jr.",
+    "ator2": "Jude Law",
+    "ator3": "Noomi Rapace",
+    "ator4": "Rachel McAdams",
+    "ator5": "Jared Harris",
+    "ator6": "Stephen Fry"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/177hbNE6ucQIEk65yhu14t06N3WZO20yx",
@@ -5091,7 +6883,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Gregory Hoblit",
+    "ator1": "Richard Gere",
+    "ator2": "Edward Norton",
+    "ator3": "Laura Linney",
+    "ator4": "John Mahoney",
+    "ator5": "Frances McDormand",
+    "ator6": "Alfre Woodard"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1x_9QnZhDipPz22RgKSkzqpG8NcLI5mqS",
@@ -5109,7 +6908,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "F. Gary Gray",
+    "ator1": "Jamie Foxx",
+    "ator2": "Gerard Butler",
+    "ator3": "Colm Feore",
+    "ator4": "Bruce McGill",
+    "ator5": "Leslie Bibb",
+    "ator6": "Michael Irby"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1SR0fW4jN5oZTBdr7beeMHX5S_FqD3tUj",
@@ -5127,7 +6933,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Michael Mann",
+    "ator1": "Al Pacino",
+    "ator2": "Robert De Niro",
+    "ator3": "Val Kilmer",
+    "ator4": "Tom Sizemore",
+    "ator5": "Diane Venora",
+    "ator6": "Amy Brenneman"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1k89ymbew_RASagIrJuarhfb_BfQbnOiI",
@@ -5145,7 +6958,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Gregory Hoblit",
+    "ator1": "Anthony Hopkins",
+    "ator2": "Ryan Gosling",
+    "ator3": "David Strathairn",
+    "ator4": "Rosamund Pike",
+    "ator5": "Embeth Davidtz",
+    "ator6": "Billy Burke"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1KHRfjXLpVxfseuQtG_rG4RXzqGHXAn_b",
@@ -5163,7 +6983,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Paul Verhoeven",
+    "ator1": "Michael Douglas",
+    "ator2": "Sharon Stone",
+    "ator3": "George Dzundza",
+    "ator4": "Jeanne Tripplehorn",
+    "ator5": "Denis Arndt",
+    "ator6": "Leilani Sarelle"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1hS5FN4fBTbFsB6NDgvEgQi2ea3a2k1De",
@@ -5181,7 +7008,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Arne Glimcher",
+    "ator1": "Sean Connery",
+    "ator2": "Laurence Fishburne",
+    "ator3": "Kate Capshaw",
+    "ator4": "Blair Underwood",
+    "ator5": "Ruby Dee",
+    "ator6": "Scarlett Johansson"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/11tD5e-fEYmIgHnVPQxicqCFbaxm7Dwxv",
@@ -5199,7 +7033,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Jon Avnet",
+    "ator1": "Richard Gere",
+    "ator2": "Bai Ling",
+    "ator3": "Bradley Whitford",
+    "ator4": "Byron Mann",
+    "ator5": "Peter Donat",
+    "ator6": "Robert Stanton"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1rj84dhz51BgU9v3pNxV7fsk7Mxceqz7i",
@@ -5217,7 +7058,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Curtis Hanson",
+    "ator1": "Kevin Spacey",
+    "ator2": "Russell Crowe",
+    "ator3": "Guy Pearce",
+    "ator4": "James Cromwell",
+    "ator5": "Kim Basinger",
+    "ator6": "Danny DeVito"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1aDCUiOqQPXo5MPZWB8Vl3bsf4u8fDxdu",
@@ -5235,7 +7083,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Lee Tamahori",
+    "ator1": "Morgan Freeman",
+    "ator2": "Monica Potter",
+    "ator3": "Michael Wincott",
+    "ator4": "Dylan Baker",
+    "ator5": "Mika Boorem",
+    "ator6": "Anton Yelchin"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1kWsiuAR_XVmht7L4W3uMJkhZJmBy6XAR",
@@ -5253,7 +7108,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Michael Caton-Jones",
+    "ator1": "Bruce Willis",
+    "ator2": "Richard Gere",
+    "ator3": "Sidney Poitier",
+    "ator4": "Diane Venora",
+    "ator5": "Mathilda May",
+    "ator6": "J.K. Simmons"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1QdMpt4h9QYpJ_OsvZBX1S1rpr9VtIEnk",
@@ -5271,7 +7133,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Barry Levinson",
+    "ator1": "Nicholas Rowe",
+    "ator2": "Alan Cox",
+    "ator3": "Sophie Ward",
+    "ator4": "Anthony Higgins",
+    "ator5": "Susan Fleetwood",
+    "ator6": "Freddie Jones"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1oWXdRitMe43V3Zz4MyrvYjm8d3_TQi51",
@@ -5289,7 +7158,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Tom Tykwer",
+    "ator1": "Ben Whishaw",
+    "ator2": "Dustin Hoffman",
+    "ator3": "Alan Rickman",
+    "ator4": "Rachel Hurd-Wood",
+    "ator5": "Karoline Herfurth",
+    "ator6": "David Calder"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1h4PENtxMGnTSxCqWrizor1fJJBSmW_jV",
@@ -5307,7 +7183,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Ron Howard",
+    "ator1": "Mel Gibson",
+    "ator2": "Rene Russo",
+    "ator3": "Brawley Nolte",
+    "ator4": "Gary Sinise",
+    "ator5": "Delroy Lindo",
+    "ator6": "Lili Taylor"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/12Wx8nTmLG1Q4nwz3A7JxT3XP7Bdn_maG",
@@ -5325,7 +7208,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Brian De Palma",
+    "ator1": "Kevin Costner",
+    "ator2": "Sean Connery",
+    "ator3": "Charles Martin Smith",
+    "ator4": "Andy Garcia",
+    "ator5": "Robert De Niro",
+    "ator6": "Richard Bradford"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1pGz7uT326wbc7PrZKUnLZ1TcDZZoLHMO",
@@ -5343,7 +7233,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Gregory Hoblit",
+    "ator1": "Denzel Washington",
+    "ator2": "John Goodman",
+    "ator3": "Donald Sutherland",
+    "ator4": "Embeth Davidtz",
+    "ator5": "James Gandolfini",
+    "ator6": "Elias Koteas"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1OSugiSd2d9MLZJF8QHrEUxn9P2_Sp7O8",
@@ -5361,7 +7258,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "José Padilha",
+    "ator1": "Joel Kinnaman",
+    "ator2": "Gary Oldman",
+    "ator3": "Michael Keaton",
+    "ator4": "Abbie Cornish",
+    "ator5": "Jackie Earle Haley",
+    "ator6": "Samuel L. Jackson"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1dBj0EqY6nok1Lm8q2RbYuSnnyhsNtoD_",
@@ -5379,7 +7283,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Alain Desrochers",
+    "ator1": "Antonio Banderas",
+    "ator2": "Ben Kingsley",
+    "ator3": "Liam McIntyre",
+    "ator4": "Cung Le",
+    "ator5": "Katherine de la Rocha",
+    "ator6": "Chad Lindberg"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1O3SFlDB2Nyb8YTZ2V1Lq_0t8xrKUc6U3",
@@ -5397,7 +7308,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Blake Edwards",
+    "ator1": "Bruce Willis",
+    "ator2": "James Garner",
+    "ator3": "Malcolm McDowell",
+    "ator4": "Mariel Hemingway",
+    "ator5": "Kathleen Quinlan",
+    "ator6": "Jennifer Edwards"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/14Yjlh46GnahNoEuFAQdBRr60d7xbf60k",
@@ -5415,7 +7333,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Martin Brest",
+    "ator1": "Eddie Murphy",
+    "ator2": "Judge Reinhold",
+    "ator3": "John Ashton",
+    "ator4": "Lisa Eilbacher",
+    "ator5": "Ronny Cox",
+    "ator6": "Steven Berkoff"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1l53hU0ixb2HfPX7iQ7i8AFF83bjmqtMN",
@@ -5439,7 +7364,14 @@ const filmes = [
         "nome": "Adam Sandler (Mistério)",
         "raw": "Franquia - Adam Sandler (Mistério)"
       }
-    ]
+    ],
+    "diretor": "Kyle Newacheck",
+    "ator1": "Adam Sandler",
+    "ator2": "Jennifer Aniston",
+    "ator3": "Luke Evans",
+    "ator4": "Gemma Arterton",
+    "ator5": "John Kani",
+    "ator6": "Dany Boon"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1uRmQ37ZbI6ObEKB2NpeHQ5IRirq8IS6A",
@@ -5463,7 +7395,14 @@ const filmes = [
         "nome": "Adam Sandler (Mistério)",
         "raw": "Franquia - Adam Sandler (Mistério)"
       }
-    ]
+    ],
+    "diretor": "Jeremy Garelick",
+    "ator1": "Adam Sandler",
+    "ator2": "Jennifer Aniston",
+    "ator3": "Mark Strong",
+    "ator4": "Mélanie Laurent",
+    "ator5": "Jodie Turner-Smith",
+    "ator6": "John Kani"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/19I7x8QwLX9l6Hcema0uv4CJu58ld_9KH",
@@ -5487,7 +7426,14 @@ const filmes = [
         "nome": "Duro de Matar",
         "raw": "Franquia - Duro de Matar"
       }
-    ]
+    ],
+    "diretor": "John McTiernan",
+    "ator1": "Bruce Willis",
+    "ator2": "Alan Rickman",
+    "ator3": "Bonnie Bedelia",
+    "ator4": "Reginald VelJohnson",
+    "ator5": "Paul Gleason",
+    "ator6": "De'voreaux White"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1V1vY604MiqjdHb190J6KDyer24TVBs1r",
@@ -5511,7 +7457,14 @@ const filmes = [
         "nome": "Duro de Matar",
         "raw": "Franquia - Duro de Matar"
       }
-    ]
+    ],
+    "diretor": "Renny Harlin",
+    "ator1": "Bruce Willis",
+    "ator2": "Bonnie Bedelia",
+    "ator3": "William Sadler",
+    "ator4": "Dennis Franz",
+    "ator5": "Reginald VelJohnson",
+    "ator6": "Fred Thompson"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/19v8oT4Z0VPaMoWIoaNr46uRgJS-UdNwN",
@@ -5535,7 +7488,14 @@ const filmes = [
         "nome": "Duro de Matar",
         "raw": "Franquia - Duro de Matar"
       }
-    ]
+    ],
+    "diretor": "John Moore",
+    "ator1": "Bruce Willis",
+    "ator2": "Jai Courtney",
+    "ator3": "Sebastian Koch",
+    "ator4": "Mary Elizabeth Winstead",
+    "ator5": "Yulia Snigir",
+    "ator6": "Radivoje Bukvic"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1LCQX8120AuVjkgyPbtikhWkmet8Nr4M-",
@@ -5559,7 +7519,14 @@ const filmes = [
         "nome": "Jurassic Park",
         "raw": "Franquia - Jurassic Park"
       }
-    ]
+    ],
+    "diretor": "Steven Spielberg",
+    "ator1": "Sam Neill",
+    "ator2": "Laura Dern",
+    "ator3": "Jeff Goldblum",
+    "ator4": "Richard Attenborough",
+    "ator5": "Bob Peck",
+    "ator6": "Martin Ferrero"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1jgQ2dkhbeimBVkiWLzXpFMk1k2CMvI-4",
@@ -5583,7 +7550,14 @@ const filmes = [
         "nome": "Jurassic Park",
         "raw": "Franquia - Jurassic Park"
       }
-    ]
+    ],
+    "diretor": "Steven Spielberg",
+    "ator1": "Jeff Goldblum",
+    "ator2": "Julianne Moore",
+    "ator3": "Pete Postlethwaite",
+    "ator4": "Arliss Howard",
+    "ator5": "Richard Attenborough",
+    "ator6": "Vince Vaughn"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1nU7Zmp7z6xYblhCwMWF0Vew8umn3VLor",
@@ -5607,11 +7581,18 @@ const filmes = [
         "nome": "Jurassic Park",
         "raw": "Franquia - Jurassic Park"
       }
-    ]
+    ],
+    "diretor": "Joe Johnston",
+    "ator1": "Sam Neill",
+    "ator2": "William H. Macy",
+    "ator3": "Téa Leoni",
+    "ator4": "Alessandro Nivola",
+    "ator5": "Trevor Morgan",
+    "ator6": "Michael Jeter"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/19XLvE4mSA_VmG6oDIBACBgfj4DNT1p-N",
-    "nome": "01 O Mundo dos Dinossauros",
+    "nome": "O Mundo dos Dinossauros",
     "ano": 2015,
     "duracao": "02h 04m",
     "gb": null,
@@ -5631,11 +7612,18 @@ const filmes = [
         "nome": "Jurassic World",
         "raw": "Franquia - Jurassic World"
       }
-    ]
+    ],
+    "diretor": "Colin Trevorrow",
+    "ator1": "Chris Pratt",
+    "ator2": "Bryce Dallas Howard",
+    "ator3": "Vincent D'Onofrio",
+    "ator4": "Ty Simpkins",
+    "ator5": "Nick Robinson",
+    "ator6": "Omar Sy"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1QrWiCj6-emDoKFpXcqTdt_IMzNtwgVg_",
-    "nome": "02 Reino Ameaçado",
+    "nome": "Reino Ameaçado",
     "ano": 2018,
     "duracao": "02h 08m",
     "gb": null,
@@ -5655,11 +7643,18 @@ const filmes = [
         "nome": "Jurassic World",
         "raw": "Franquia - Jurassic World"
       }
-    ]
+    ],
+    "diretor": "J.A. Bayona",
+    "ator1": "Chris Pratt",
+    "ator2": "Bryce Dallas Howard",
+    "ator3": "Rafe Spall",
+    "ator4": "Justice Smith",
+    "ator5": "Daniella Pineda",
+    "ator6": "James Cromwell"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1NPvvHWOrsO9sOT7d1Mw4WejBv1L6DZGm",
-    "nome": "03 Domínio",
+    "nome": "Domínio",
     "ano": 2022,
     "duracao": "02h 27m",
     "gb": null,
@@ -5679,11 +7674,18 @@ const filmes = [
         "nome": "Jurassic World",
         "raw": "Franquia - Jurassic World"
       }
-    ]
+    ],
+    "diretor": "Colin Trevorrow",
+    "ator1": "Chris Pratt",
+    "ator2": "Bryce Dallas Howard",
+    "ator3": "Laura Dern",
+    "ator4": "Jeff Goldblum",
+    "ator5": "Sam Neill",
+    "ator6": "DeWanda Wise"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1DssaMz0JZ6gFeOSaKoYFfsLRy7ncjsVJ",
-    "nome": "04 Recomeço",
+    "nome": "Recomeço",
     "ano": 2025,
     "duracao": "02h 14m",
     "gb": null,
@@ -5703,7 +7705,14 @@ const filmes = [
         "nome": "Jurassic World",
         "raw": "Franquia - Jurassic World"
       }
-    ]
+    ],
+    "diretor": "Gareth Edwards",
+    "ator1": "Scarlett Johansson",
+    "ator2": "Mahershala Ali",
+    "ator3": "Jonathan Bailey",
+    "ator4": "Rupert Friend",
+    "ator5": "Manuel Garcia-Rulfo",
+    "ator6": "Luna Blaise"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1e92ZoNSUr3GsVJQ6CCn-2F4P5hWxYasr",
@@ -5727,7 +7736,14 @@ const filmes = [
         "nome": "Máquina Mortífera",
         "raw": "Franquia - Máquina Mortífera"
       }
-    ]
+    ],
+    "diretor": "Richard Donner",
+    "ator1": "Mel Gibson",
+    "ator2": "Danny Glover",
+    "ator3": "Gary Busey",
+    "ator4": "Mitchell Ryan",
+    "ator5": "Tom Atkins",
+    "ator6": "Darlene Love"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1J9T7CMudmOV8-K-dzkh_QySguXSlkM0l",
@@ -5751,7 +7767,14 @@ const filmes = [
         "nome": "Máquina Mortífera",
         "raw": "Franquia - Máquina Mortífera"
       }
-    ]
+    ],
+    "diretor": "Richard Donner",
+    "ator1": "Mel Gibson",
+    "ator2": "Danny Glover",
+    "ator3": "Joe Pesci",
+    "ator4": "Joss Ackland",
+    "ator5": "Derrick O'Connor",
+    "ator6": "Patsy Kensit"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1LYyezxNTyz1BkPDJLfB7picyvTC8CLiL",
@@ -5775,7 +7798,14 @@ const filmes = [
         "nome": "Máquina Mortífera",
         "raw": "Franquia - Máquina Mortífera"
       }
-    ]
+    ],
+    "diretor": "Richard Donner",
+    "ator1": "Mel Gibson",
+    "ator2": "Danny Glover",
+    "ator3": "Joe Pesci",
+    "ator4": "Rene Russo",
+    "ator5": "Stuart Wilson",
+    "ator6": "Grand L. Bush"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1KJ2Y5NhHKjumIX7bzrl4v67Rcguc5wTQ",
@@ -5799,7 +7829,14 @@ const filmes = [
         "nome": "Máquina Mortífera",
         "raw": "Franquia - Máquina Mortífera"
       }
-    ]
+    ],
+    "diretor": "Richard Donner",
+    "ator1": "Mel Gibson",
+    "ator2": "Danny Glover",
+    "ator3": "Joe Pesci",
+    "ator4": "Rene Russo",
+    "ator5": "Chris Rock",
+    "ator6": "Jet Li"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1bOe2mOZ-PV4m-q_Y8vMDg-avE7RwWhuv",
@@ -5823,7 +7860,14 @@ const filmes = [
         "nome": "O Poderoso Chefão",
         "raw": "Franquia - O Poderoso Chefão"
       }
-    ]
+    ],
+    "diretor": "Francis Ford Coppola",
+    "ator1": "Marlon Brando",
+    "ator2": "Al Pacino",
+    "ator3": "James Caan",
+    "ator4": "Richard S. Castellano",
+    "ator5": "Robert Duvall",
+    "ator6": "Sterling Hayden"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1VJnZLZi9B1DJwJuLlqL0D8OZ0iq-VivC",
@@ -5847,7 +7891,14 @@ const filmes = [
         "nome": "O Poderoso Chefão",
         "raw": "Franquia - O Poderoso Chefão"
       }
-    ]
+    ],
+    "diretor": "Francis Ford Coppola",
+    "ator1": "Al Pacino",
+    "ator2": "Robert Duvall",
+    "ator3": "Diane Keaton",
+    "ator4": "Robert De Niro",
+    "ator5": "Talia Shire",
+    "ator6": "Morgana King"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1D_LhBlVy1xB-5H2mLESb-mKbi5zkpLnJ",
@@ -5871,7 +7922,14 @@ const filmes = [
         "nome": "O Poderoso Chefão",
         "raw": "Franquia - O Poderoso Chefão"
       }
-    ]
+    ],
+    "diretor": "Francis Ford Coppola",
+    "ator1": "Al Pacino",
+    "ator2": "Diane Keaton",
+    "ator3": "Talia Shire",
+    "ator4": "Andy Garcia",
+    "ator5": "Eli Wallach",
+    "ator6": "Joe Mantegna"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1weOsp_OrI9SGSppyk0-w9rcO46ff6l5u",
@@ -5895,7 +7953,14 @@ const filmes = [
         "nome": "O Poderoso Chefão",
         "raw": "Franquia - O Poderoso Chefão"
       }
-    ]
+    ],
+    "diretor": "Francis Ford Coppola",
+    "ator1": "Al Pacino",
+    "ator2": "Diane Keaton",
+    "ator3": "Talia Shire",
+    "ator4": "Andy Garcia",
+    "ator5": "Eli Wallach",
+    "ator6": "Joe Mantegna"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1zXog7scFsNF4A2CNC_qJi4igcLLjwz2e",
@@ -5919,7 +7984,14 @@ const filmes = [
         "nome": "O Senhor dos Anéis",
         "raw": "Franquia - O Senhor dos Anéis"
       }
-    ]
+    ],
+    "diretor": "Peter Jackson",
+    "ator1": "Elijah Wood",
+    "ator2": "Ian McKellen",
+    "ator3": "Liv Tyler",
+    "ator4": "Viggo Mortensen",
+    "ator5": "Sean Astin",
+    "ator6": "Cate Blanchett"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1603vVOxZyfqqVUOWwnI6xCTj-B5Oo5Tu",
@@ -5943,7 +8015,14 @@ const filmes = [
         "nome": "O Senhor dos Anéis",
         "raw": "Franquia - O Senhor dos Anéis"
       }
-    ]
+    ],
+    "diretor": "Peter Jackson",
+    "ator1": "Elijah Wood",
+    "ator2": "Ian McKellen",
+    "ator3": "Liv Tyler",
+    "ator4": "Viggo Mortensen",
+    "ator5": "Sean Astin",
+    "ator6": "Cate Blanchett"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1cLNeJ_q2F1sxeMLl0nrt9MoKnNOeip9h",
@@ -5967,7 +8046,14 @@ const filmes = [
         "nome": "O Senhor dos Anéis",
         "raw": "Franquia - O Senhor dos Anéis"
       }
-    ]
+    ],
+    "diretor": "Peter Jackson",
+    "ator1": "Elijah Wood",
+    "ator2": "Ian McKellen",
+    "ator3": "Liv Tyler",
+    "ator4": "Viggo Mortensen",
+    "ator5": "Sean Astin",
+    "ator6": "Cate Blanchett"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1n0-X3_NRpyo6IH0ZRyv_IF3rj-CnFHoB",
@@ -5996,7 +8082,14 @@ const filmes = [
         "nome": "Coleção Oriental",
         "raw": "Coleção Oriental"
       }
-    ]
+    ],
+    "diretor": "John Woo",
+    "ator1": "Tony Leung Chiu-wai",
+    "ator2": "Takeshi Kaneshiro",
+    "ator3": "Zhang Fengyi",
+    "ator4": "Chang Chen",
+    "ator5": "Zhao Wei",
+    "ator6": "Hu Jun"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1dofCHf1_fGpr_0PvP7_vBOHdDjIgZj-z",
@@ -6025,7 +8118,14 @@ const filmes = [
         "nome": "Coleção Oriental",
         "raw": "Coleção Oriental"
       }
-    ]
+    ],
+    "diretor": "John Woo",
+    "ator1": "Tony Leung Chiu-wai",
+    "ator2": "Takeshi Kaneshiro",
+    "ator3": "Zhang Fengyi",
+    "ator4": "Chang Chen",
+    "ator5": "Zhao Wei",
+    "ator6": "Hu Jun"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1UTIyk7M0KEfQmM8Ktbe1RRUc_8NY4yB7",
@@ -6049,7 +8149,14 @@ const filmes = [
         "nome": "Silêncio dos Inocentes",
         "raw": "Franquia - Silêncio dos Inocentes"
       }
-    ]
+    ],
+    "diretor": "Peter Webber",
+    "ator1": "Gaspard Ulliel",
+    "ator2": "Gong Li",
+    "ator3": "Dominic West",
+    "ator4": "Rhys Ifans",
+    "ator5": "Helena-Lia Tachovska",
+    "ator6": "Kevin McKidd"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1ctLV4iGtjGkfEJi775f7AO2n9Oqfyi01",
@@ -6073,7 +8180,14 @@ const filmes = [
         "nome": "Silêncio dos Inocentes",
         "raw": "Franquia - Silêncio dos Inocentes"
       }
-    ]
+    ],
+    "diretor": "Brett Ratner",
+    "ator1": "Anthony Hopkins",
+    "ator2": "Edward Norton",
+    "ator3": "Ralph Fiennes",
+    "ator4": "Harvey Keitel",
+    "ator5": "Emily Watson",
+    "ator6": "Mary-Louise Parker"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1cvRLjQDlagPPuiiU-13TTaZrLNwEaBnV",
@@ -6097,7 +8211,14 @@ const filmes = [
         "nome": "Silêncio dos Inocentes",
         "raw": "Franquia - Silêncio dos Inocentes"
       }
-    ]
+    ],
+    "diretor": "Jonathan Demme",
+    "ator1": "Jodie Foster",
+    "ator2": "Anthony Hopkins",
+    "ator3": "Scott Glenn",
+    "ator4": "Ted Levine",
+    "ator5": "Anthony Heald",
+    "ator6": "Brooke Smith"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1jbiSfJy7VbLO3kfafjvz9Eu7uwU2LtTo",
@@ -6121,7 +8242,14 @@ const filmes = [
         "nome": "Star Wars",
         "raw": "Franquia - Star Wars"
       }
-    ]
+    ],
+    "diretor": "George Lucas",
+    "ator1": "Liam Neeson",
+    "ator2": "Ewan McGregor",
+    "ator3": "Natalie Portman",
+    "ator4": "Jake Lloyd",
+    "ator5": "Ian McDiarmid",
+    "ator6": "Pernilla August"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1FNuSW0-3zdFSbbZwYhexjBnSUGJcvYoJ",
@@ -6145,7 +8273,14 @@ const filmes = [
         "nome": "Star Wars",
         "raw": "Franquia - Star Wars"
       }
-    ]
+    ],
+    "diretor": "George Lucas",
+    "ator1": "Ewan McGregor",
+    "ator2": "Natalie Portman",
+    "ator3": "Hayden Christensen",
+    "ator4": "Ian McDiarmid",
+    "ator5": "Samuel L. Jackson",
+    "ator6": "Christopher Lee"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1QeQI39Cq8rhwNw1Xk-bNciMU8QJuMKEH",
@@ -6169,7 +8304,14 @@ const filmes = [
         "nome": "Star Wars",
         "raw": "Franquia - Star Wars"
       }
-    ]
+    ],
+    "diretor": "George Lucas",
+    "ator1": "Ewan McGregor",
+    "ator2": "Natalie Portman",
+    "ator3": "Hayden Christensen",
+    "ator4": "Ian McDiarmid",
+    "ator5": "Samuel L. Jackson",
+    "ator6": "Christopher Lee"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/18uZjrV2T6TinYFJCWcI-nMuFSllZRAlX",
@@ -6193,7 +8335,14 @@ const filmes = [
         "nome": "Star Wars",
         "raw": "Franquia - Star Wars"
       }
-    ]
+    ],
+    "diretor": "Gareth Edwards",
+    "ator1": "Felicity Jones",
+    "ator2": "Diego Luna",
+    "ator3": "Ben Mendelsohn",
+    "ator4": "Donnie Yen",
+    "ator5": "Mads Mikkelsen",
+    "ator6": "Alan Tudyk"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1x7V7xPmbIS-5mg5bb6uOKqUfk4PK6xIF",
@@ -6217,7 +8366,14 @@ const filmes = [
         "nome": "Star Wars",
         "raw": "Franquia - Star Wars"
       }
-    ]
+    ],
+    "diretor": "George Lucas",
+    "ator1": "Mark Hamill",
+    "ator2": "Harrison Ford",
+    "ator3": "Carrie Fisher",
+    "ator4": "Peter Cushing",
+    "ator5": "Alec Guinness",
+    "ator6": "Anthony Daniels"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1KPA8z0FXWtFwWkgu54FBNm9ZkA1fISBa",
@@ -6241,7 +8397,14 @@ const filmes = [
         "nome": "Star Wars",
         "raw": "Franquia - Star Wars"
       }
-    ]
+    ],
+    "diretor": "Irvin Kershner",
+    "ator1": "Mark Hamill",
+    "ator2": "Harrison Ford",
+    "ator3": "Carrie Fisher",
+    "ator4": "Billy Dee Williams",
+    "ator5": "Anthony Daniels",
+    "ator6": "David Prowse"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1_VDliVoRRoLUC4VE4xvYbeMtwvzhmB-4",
@@ -6265,7 +8428,14 @@ const filmes = [
         "nome": "Star Wars",
         "raw": "Franquia - Star Wars"
       }
-    ]
+    ],
+    "diretor": "Richard Marquand",
+    "ator1": "Mark Hamill",
+    "ator2": "Harrison Ford",
+    "ator3": "Carrie Fisher",
+    "ator4": "Billy Dee Williams",
+    "ator5": "Anthony Daniels",
+    "ator6": "David Prowse"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Kst5FexCWbLWY5pwFsgzcXe_-xv-RfXt",
@@ -6283,7 +8453,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Brian De Palma",
+    "ator1": "Tom Hanks",
+    "ator2": "Bruce Willis",
+    "ator3": "Melanie Griffith",
+    "ator4": "Kim Cattrall",
+    "ator5": "Morgan Freeman",
+    "ator6": "Saul Rubinek"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1OleQDhJRr13shfVSywc6Au0VHRWzCxQm",
@@ -6301,7 +8478,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Stan Dragoti",
+    "ator1": "George Hamilton",
+    "ator2": "Susan Saint James",
+    "ator3": "Richard Benjamin",
+    "ator4": "Dick Shawn",
+    "ator5": "Arte Johnson",
+    "ator6": "Sherman Hemsley"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1DK1vLd-ADsZ1lmIBTzgxmgnwf0sJWR48",
@@ -6319,7 +8503,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Ridley Scott",
+    "ator1": "Harrison Ford",
+    "ator2": "Rutger Hauer",
+    "ator3": "Sean Young",
+    "ator4": "Edward James Olmos",
+    "ator5": "M. Emmet Walsh",
+    "ator6": "Daryl Hannah"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1B-emGe1aFfMvsAxLJ_3BHUpOyLJSP1ZB",
@@ -6337,7 +8528,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Steven Spielberg",
+    "ator1": "Henry Thomas",
+    "ator2": "Drew Barrymore",
+    "ator3": "Robert MacNaughton",
+    "ator4": "Dee Wallace",
+    "ator5": "Peter Coyote",
+    "ator6": "K.C. Martel"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Pz-RkYT2ngcjxBOX47d8a7xGRHa8p6My",
@@ -6355,7 +8553,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Martin Brest",
+    "ator1": "Robert De Niro",
+    "ator2": "Charles Grodin",
+    "ator3": "Yaphet Kotto",
+    "ator4": "John Ashton",
+    "ator5": "Dennis Farina",
+    "ator6": "Joe Pantoliano"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1zLXsz8ldrwL5nljy7siXSZBy-PXNP1zm",
@@ -6373,7 +8578,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Rob Reiner",
+    "ator1": "Billy Crystal",
+    "ator2": "Meg Ryan",
+    "ator3": "Carrie Fisher",
+    "ator4": "Bruno Kirby",
+    "ator5": "Steven Ford",
+    "ator6": "Lisa Jane Persky"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1lcIj_ASxJGNkUXAw7QBD75nVkwUe5o_X",
@@ -6391,7 +8603,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Bruce A. Evans",
+    "ator1": "Kevin Costner",
+    "ator2": "Demi Moore",
+    "ator3": "Dane Cook",
+    "ator4": "William Hurt",
+    "ator5": "Marg Helgenberger",
+    "ator6": "Danielle Panabaker"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Ihv5qibwY1pZaBkkloY4JCZNt2SMqkVt",
@@ -6409,7 +8628,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Mel Brooks",
+    "ator1": "Gene Wilder",
+    "ator2": "Peter Boyle",
+    "ator3": "Marty Feldman",
+    "ator4": "Cloris Leachman",
+    "ator5": "Teri Garr",
+    "ator6": "Madeline Kahn"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1vbvTbVRHOG5oGnhgovXKT4sustBqFt7Z",
@@ -6427,7 +8653,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Woody Allen",
+    "ator1": "Owen Wilson",
+    "ator2": "Rachel McAdams",
+    "ator3": "Marion Cotillard",
+    "ator4": "Kathy Bates",
+    "ator5": "Michael Sheen",
+    "ator6": "Adrien Brody"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1NB3AC5NtMYQS1w3xG_uZarwU1srCoB3B",
@@ -6445,7 +8678,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "John G. Avildsen",
+    "ator1": "Morgan Freeman",
+    "ator2": "Beverly Todd",
+    "ator3": "Alan King",
+    "ator4": "Robert Guillaume",
+    "ator5": "Kelly Lynch",
+    "ator6": "Michael Beach"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/11COpoF7qcaPysbprfuX-bqqkejzQ-XzS",
@@ -6463,7 +8703,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Joel Schumacher",
+    "ator1": "Gerard Butler",
+    "ator2": "Emmy Rossum",
+    "ator3": "Patrick Wilson",
+    "ator4": "Miranda Richardson",
+    "ator5": "Minnie Driver",
+    "ator6": "Ciarán Hinds"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1UJ5GLuTNIkd0B1E9QGd9PRsdzeBE_Uae",
@@ -6481,7 +8728,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Florian Henckel von Donnersmarck",
+    "ator1": "Johnny Depp",
+    "ator2": "Angelina Jolie",
+    "ator3": "Paul Bettany",
+    "ator4": "Timothy Dalton",
+    "ator5": "Steven Berkoff",
+    "ator6": "Rufus Sewell"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1oeP6NEMcmINt07503pkWXRQFbhjH-Cia",
@@ -6494,12 +8748,19 @@ const filmes = [
     "perfilCor": "HDR",
     "presetElmedia": "B2 | S12 | C11 | G8 | H0 | Sh1.4",
     "situacao": "F",
-    "sinopse": null,
+    "sinopse": "Quando uma arma mortal de alta tecnologia ameaça colapsar a ordem mundial, o espião de elite Orson Fortune reúne os melhores agentes do planeta e recruta a maior celebridade de Hollywood para uma infiltração internacional explosiva, luxuosa e imprevisível.",
     "genero": "Cult-Favoritos",
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Guy Ritchie",
+    "ator1": "Jason Statham",
+    "ator2": "Aubrey Plaza",
+    "ator3": "Josh Hartnett",
+    "ator4": "Cary Elwes",
+    "ator5": "Bugzy Malone",
+    "ator6": "Hugh Grant"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/12JUs3_sRDNR0Gx0BRp0EFuK9N6MraWa3",
@@ -6517,7 +8778,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Brad Bird",
+    "ator1": "Patton Oswalt",
+    "ator2": "Ian Holm",
+    "ator3": "Lou Romano",
+    "ator4": "Brian Dennehy",
+    "ator5": "Peter Sohn",
+    "ator6": "Peter O'Toole"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1fdi8UrFaBVjtrAsaXo4IEtMGzxPKP_PA",
@@ -6535,7 +8803,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Robert Towne",
+    "ator1": "Mel Gibson",
+    "ator2": "Michelle Pfeiffer",
+    "ator3": "Kurt Russell",
+    "ator4": "Raul Julia",
+    "ator5": "J.T. Walsh",
+    "ator6": "Arliss Howard"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1dpZAC1eUvl3TBa03y7UGOlSmqR2r_ouD",
@@ -6553,7 +8828,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Louis Leterrier",
+    "ator1": "Jesse Eisenberg",
+    "ator2": "Mark Ruffalo",
+    "ator3": "Woody Harrelson",
+    "ator4": "Isla Fisher",
+    "ator5": "Dave Franco",
+    "ator6": "Mélanie Laurent"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1KMm4Z3zub11finLKRcCPtFhPuF8Y_9IM",
@@ -6571,7 +8853,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Barry Levinson",
+    "ator1": "Bruce Willis",
+    "ator2": "Billy Bob Thornton",
+    "ator3": "Cate Blanchett",
+    "ator4": "Troy Garity",
+    "ator5": "Brian F. O'Byrne",
+    "ator6": "Stacey Travis"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1mCSGIyE-DDwFu-jchq3LFLrKkLNW5g7C",
@@ -6589,7 +8878,14 @@ const filmes = [
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Andrew Stanton",
+    "ator1": "Ben Burtt",
+    "ator2": "Elissa Knight",
+    "ator3": "Jeff Garlin",
+    "ator4": "Fred Willard",
+    "ator5": "John Ratzenberger",
+    "ator6": "Kathy Najimy"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Avd41r90jpzgDu69MybT588m3qp2wxEz",
@@ -6613,7 +8909,14 @@ const filmes = [
         "nome": "Coleção 007",
         "raw": "Coleção 007"
       }
-    ]
+    ],
+    "diretor": "Guy Hamilton",
+    "ator1": "Sean Connery",
+    "ator2": "Honor Blackman",
+    "ator3": "Gert Fröbe",
+    "ator4": "Shirley Eaton",
+    "ator5": "Tania Mallet",
+    "ator6": "Harold Sakata"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1yrhK6ohnw77Ub3LokA5kjSO3tfHtXeOi",
@@ -6637,7 +8940,14 @@ const filmes = [
         "nome": "Coleção 007",
         "raw": "Coleção 007"
       }
-    ]
+    ],
+    "diretor": "Terence Young",
+    "ator1": "Sean Connery",
+    "ator2": "Daniela Bianchi",
+    "ator3": "Pedro Armendáriz",
+    "ator4": "Lotte Lenya",
+    "ator5": "Robert Shaw",
+    "ator6": "Bernard Lee"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1BTgmMiFyg5zXU7tudTJpiuDIvomGDYkK",
@@ -6661,7 +8971,14 @@ const filmes = [
         "nome": "Coleção 007",
         "raw": "Coleção 007"
       }
-    ]
+    ],
+    "diretor": "Guy Hamilton",
+    "ator1": "Roger Moore",
+    "ator2": "Christopher Lee",
+    "ator3": "Britt Ekland",
+    "ator4": "Maud Adams",
+    "ator5": "Hervé Villechaize",
+    "ator6": "Clifton James"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1QV78SdIOhNWdrXg0cbizdl2VNpz058_8",
@@ -6685,7 +9002,14 @@ const filmes = [
         "nome": "Coleção 007",
         "raw": "Coleção 007"
       }
-    ]
+    ],
+    "diretor": "Lewis Gilbert",
+    "ator1": "Roger Moore",
+    "ator2": "Barbara Bach",
+    "ator3": "Curt Jürgens",
+    "ator4": "Richard Kiel",
+    "ator5": "Caroline Munro",
+    "ator6": "Walter Gotell"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1mo6dsSMuxHQtUra2_7vJDcJ17T4_iKCs",
@@ -6709,7 +9033,14 @@ const filmes = [
         "nome": "Coleção 007",
         "raw": "Coleção 007"
       }
-    ]
+    ],
+    "diretor": "John Glen",
+    "ator1": "Roger Moore",
+    "ator2": "Carole Bouquet",
+    "ator3": "Topol",
+    "ator4": "Lynn-Rachel Jones",
+    "ator5": "Julian Glover",
+    "ator6": "Cassandra Harris"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1YWguIymNC9glCibPkNVBqsEFqwYNfx-Q",
@@ -6733,7 +9064,14 @@ const filmes = [
         "nome": "Coleção 007",
         "raw": "Coleção 007"
       }
-    ]
+    ],
+    "diretor": "Martin Campbell",
+    "ator1": "Pierce Brosnan",
+    "ator2": "Sean Bean",
+    "ator3": "Izabella Scorupco",
+    "ator4": "Famke Janssen",
+    "ator5": "Joe Don Baker",
+    "ator6": "Judy Dench"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1didxkqXcqWJys22Gl0cv_IAhLfaLi_dm",
@@ -6757,7 +9095,14 @@ const filmes = [
         "nome": "Coleção 007",
         "raw": "Coleção 007"
       }
-    ]
+    ],
+    "diretor": "Roger Donaldson",
+    "ator1": "Pierce Brosnan",
+    "ator2": "Jonathan Pryce",
+    "ator3": "Michelle Yeoh",
+    "ator4": "Teri Hatcher",
+    "ator5": "Ricky Jay",
+    "ator6": "Götz Otto"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/13VdN8w5bubqBJX0cfWL9djslv_qYrYXt",
@@ -6781,7 +9126,14 @@ const filmes = [
         "nome": "Coleção 007",
         "raw": "Coleção 007"
       }
-    ]
+    ],
+    "diretor": "Michael Apted",
+    "ator1": "Pierce Brosnan",
+    "ator2": "Sophie Marceau",
+    "ator3": "Robert Carlyle",
+    "ator4": "Denise Richards",
+    "ator5": "Robbie Coltrane",
+    "ator6": "Judi Dench"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1vD4sAacvB69z5fPo0_RdQtbI6LXqnDEi",
@@ -6805,7 +9157,14 @@ const filmes = [
         "nome": "Coleção Akira Kurosawa",
         "raw": "Coleção Akira Kurosawa"
       }
-    ]
+    ],
+    "diretor": "Akira Kurosawa",
+    "ator1": "Maxim Munzuk",
+    "ator2": "Yuri Solomin",
+    "ator3": "Mikhail Bychkov",
+    "ator4": "Vladimir Khrulev",
+    "ator5": "V. Lastochkin",
+    "ator6": "Stanislav Marin"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1IZL6Yy3TlG3bEzxwZnWN0SCI2lI17EsZ",
@@ -6829,7 +9188,14 @@ const filmes = [
         "nome": "Coleção Akira Kurosawa",
         "raw": "Coleção Akira Kurosawa"
       }
-    ]
+    ],
+    "diretor": "Akira Kurosawa",
+    "ator1": "Tatsuya Nakadai",
+    "ator2": "Tsutomu Yamazaki",
+    "ator3": "Kenichi Hagiwara",
+    "ator4": "Jinpachi Nezu",
+    "ator5": "Hideji Otaki",
+    "ator6": "Daisuke Ryu"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1JzJPaGezVnvgGCxmqDNEpRX7VPgqDvP9",
@@ -6853,7 +9219,14 @@ const filmes = [
         "nome": "Coleção Akira Kurosawa",
         "raw": "Coleção Akira Kurosawa"
       }
-    ]
+    ],
+    "diretor": "Akira Kurosawa",
+    "ator1": "Toshiro Mifune",
+    "ator2": "Takashi Shimura",
+    "ator3": "Keiko Tsushima",
+    "ator4": "Yukiko Shimazaki",
+    "ator5": "Kamatari Fujiwara",
+    "ator6": "Daisuke Kato"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1DQKmFLgQFGoczBNzZfXWmOkhSVw9Yt8J",
@@ -6877,7 +9250,14 @@ const filmes = [
         "nome": "Coleção Akira Kurosawa",
         "raw": "Coleção Akira Kurosawa"
       }
-    ]
+    ],
+    "diretor": "Akira Kurosawa",
+    "ator1": "Tatsuya Nakadai",
+    "ator2": "Akira Terao",
+    "ator3": "Jinpachi Nezu",
+    "ator4": "Daisuke Ryu",
+    "ator5": "Mieko Harada",
+    "ator6": "Yoshiko Miyazaki"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/16BIMrZ20kkaw8fNIYA25kXV0TFYxdnpD",
@@ -6901,7 +9281,14 @@ const filmes = [
         "nome": "Coleção Assassinas",
         "raw": "Coleção Assassinas"
       }
-    ]
+    ],
+    "diretor": "John Badham",
+    "ator1": "Bridget Fonda",
+    "ator2": "Gabriel Byrne",
+    "ator3": "Dermot Mulroney",
+    "ator4": "Anne Bancroft",
+    "ator5": "Harvey Keitel",
+    "ator6": "Miguel Ferrer"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Dya7DRQuqnIY8IeEFd1jldyGycCAeNzj",
@@ -6925,7 +9312,14 @@ const filmes = [
         "nome": "Coleção Assassinas",
         "raw": "Coleção Assassinas"
       }
-    ]
+    ],
+    "diretor": "Luc Besson",
+    "ator1": "Sasha Luss",
+    "ator2": "Helen Mirren",
+    "ator3": "Luke Evans",
+    "ator4": "Cillian Murphy",
+    "ator5": "Lera Abova",
+    "ator6": "Alexander Petrov"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/15Vt6nB8yJOxTG1jFA4_EEUgiaz71gToJ",
@@ -6949,7 +9343,14 @@ const filmes = [
         "nome": "Coleção Assassinas",
         "raw": "Coleção Assassinas"
       }
-    ]
+    ],
+    "diretor": "Prachya Pinkaew",
+    "ator1": "JeeJa Yanin",
+    "ator2": "Hiroshi Abe",
+    "ator3": "Pongpat Wachirabunjong",
+    "ator4": "Tasanawalai Ogura",
+    "ator5": "Ammara Siripong",
+    "ator6": "Dechawut Chuntakaro"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1KiPfigrQRsoFHGwWvefmtuApZQtssG-D",
@@ -6973,7 +9374,14 @@ const filmes = [
         "nome": "Coleção Assassinas",
         "raw": "Coleção Assassinas"
       }
-    ]
+    ],
+    "diretor": "Joe Wright",
+    "ator1": "Saoirse Ronan",
+    "ator2": "Eric Bana",
+    "ator3": "Cate Blanchett",
+    "ator4": "Tom Hollander",
+    "ator5": "Olivia Williams",
+    "ator6": "Jason Flemyng"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1dSVhXZx5vh-IUvhQxhAkIqOyJOaY_qYk",
@@ -6997,7 +9405,14 @@ const filmes = [
         "nome": "Coleção Assassinas",
         "raw": "Coleção Assassinas"
       }
-    ]
+    ],
+    "diretor": "Luc Besson",
+    "ator1": "Anne Parillaud",
+    "ator2": "Jean-Hugues Anglade",
+    "ator3": "Tchéky Karyo",
+    "ator4": "Jeanne Moreau",
+    "ator5": "Jean Reno",
+    "ator6": "Jean Bouise"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1mXTf2PlezvHxc2H9Pr398bNCRuTeHIvk",
@@ -7022,6 +9437,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Feminina"
       }
     ],
+    "diretor": "Henri-Georges Clouzot",
+    "ator1": "Brigitte Bardot",
+    "ator2": "Paul Meurisse",
+    "ator3": "Charles Vanel",
+    "ator4": "Sami Frey",
+    "ator5": "Marie-José Nat",
+    "ator6": "Louis Seigner",
     "artista": "Brigitte Bardot"
   },
   {
@@ -7047,6 +9469,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Feminina"
       }
     ],
+    "diretor": "Jean-Pierre Melville",
+    "ator1": "Alain Delon",
+    "ator2": "Richard Crenna",
+    "ator3": "Catherine Deneuve",
+    "ator4": "Riccardo Cucciolla",
+    "ator5": "Michael Conrad",
+    "ator6": "André Pousse",
     "artista": "Catherine Deneuve"
   },
   {
@@ -7072,6 +9501,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Feminina"
       }
     ],
+    "diretor": "Sidney Lumet",
+    "ator1": "Paul Newman",
+    "ator2": "Charlotte Rampling",
+    "ator3": "Jack Warden",
+    "ator4": "James Mason",
+    "ator5": "Milo O'Shea",
+    "ator6": "Lindsay Crouse",
     "artista": "Charlotte Rampling"
   },
   {
@@ -7097,6 +9533,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Feminina"
       }
     ],
+    "diretor": "Blake Edwards",
+    "ator1": "David Niven",
+    "ator2": "Peter Sellers",
+    "ator3": "Robert Wagner",
+    "ator4": "Capucine",
+    "ator5": "Brenda De Banzie",
+    "ator6": "Colin Gordon",
     "artista": "Claudia Cardinale"
   },
   {
@@ -7122,6 +9565,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Feminina"
       }
     ],
+    "diretor": "Robert Mulligan",
+    "ator1": "Rock Hudson",
+    "ator2": "Gina Lollobrigida",
+    "ator3": "Sandra Dee",
+    "ator4": "Bobby Darin",
+    "ator5": "Walter Slezak",
+    "ator6": "Michaela Denis",
     "artista": "Gina Lollobrigida"
   },
   {
@@ -7147,6 +9597,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Feminina"
       }
     ],
+    "diretor": "Richard Lester",
+    "ator1": "Oliver Reed",
+    "ator2": "Raquel Welch",
+    "ator3": "Richard Chamberlain",
+    "ator4": "Michael York",
+    "ator5": "Frank Finlay",
+    "ator6": "Christopher Lee",
     "artista": "Raquel Welch"
   },
   {
@@ -7172,6 +9629,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Feminina"
       }
     ],
+    "diretor": "Clive Donner",
+    "ator1": "Peter O'Toole",
+    "ator2": "Peter Sellers",
+    "ator3": "Romy Schneider",
+    "ator4": "Capucine",
+    "ator5": "Paula Prentiss",
+    "ator6": "Woody Allen",
     "artista": "Ursula Andress"
   },
   {
@@ -7197,6 +9661,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Feminina"
       }
     ],
+    "diretor": "Vittorio De Sica",
+    "ator1": "Sophia Loren",
+    "ator2": "Anita Ekberg",
+    "ator3": "Romy Schneider",
+    "ator4": "Marisa Solinas",
+    "ator5": "Peppino De Filippo",
+    "ator6": "Tomas Milian",
     "artista": "Sophia Loren"
   },
   {
@@ -7222,6 +9693,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Masculina"
       }
     ],
+    "diretor": "Jean-Pierre Melville",
+    "ator1": "Alain Delon",
+    "ator2": "Bourvil",
+    "ator3": "Gian Maria Volontè",
+    "ator4": "Yves Montand",
+    "ator5": "Paul Crauchet",
+    "ator6": "Paul Amiot",
     "artista": "Alain Delon"
   },
   {
@@ -7247,6 +9725,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Masculina"
       }
     ],
+    "diretor": "Jean-Pierre Melville",
+    "ator1": "Alain Delon",
+    "ator2": "François Périer",
+    "ator3": "Nathalie Delon",
+    "ator4": "Caty Rosier",
+    "ator5": "Jacques Leroy",
+    "ator6": "Michel Boisrond",
     "artista": "Alain Delon"
   },
   {
@@ -7272,6 +9757,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Masculina"
       }
     ],
+    "diretor": "George Sidney",
+    "ator1": "Elvis Presley",
+    "ator2": "Ann-Margret",
+    "ator3": "Cesare Danova",
+    "ator4": "William Demarest",
+    "ator5": "汎 Nicky Blair",
+    "ator6": "Jack Carter",
     "artista": "Elis Presley"
   },
   {
@@ -7297,6 +9789,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Masculina"
       }
     ],
+    "diretor": "Vittorio De Sica",
+    "ator1": "Sophia Loren",
+    "ator2": "Marcello Mastroianni",
+    "ator3": "Aldo Puglisi Tecla Scarano",
+    "ator4": "Marilù Tolo",
+    "ator5": "Gianni Ridolfi",
+    "ator6": null,
     "artista": "Marcello Mastroianni"
   },
   {
@@ -7322,6 +9821,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Masculina"
       }
     ],
+    "diretor": "David Lean",
+    "ator1": "Omar Sharif",
+    "ator2": "Julie Christie",
+    "ator3": "Geraldine Chaplin",
+    "ator4": "Rod Steiger",
+    "ator5": "Alec Guinness",
+    "ator6": "Tom Courtenay",
     "artista": "Omar Sharif"
   },
   {
@@ -7347,6 +9853,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Masculina"
       }
     ],
+    "diretor": "George Roy Hill",
+    "ator1": "Paul Newman",
+    "ator2": "Robert Redford",
+    "ator3": "Katharine Ross",
+    "ator4": "Strother Martin",
+    "ator5": "Henry Jones",
+    "ator6": "Jeff Corey",
     "artista": "Redford - Newman"
   },
   {
@@ -7371,7 +9884,14 @@ const filmes = [
         "nome": "Coleção Catástrofe",
         "raw": "Coleção Catástrofe"
       }
-    ]
+    ],
+    "diretor": "George Seaton",
+    "ator1": "Burt Lancaster",
+    "ator2": "Dean Martin",
+    "ator3": "Jean Seberg",
+    "ator4": "Jacqueline Bisset",
+    "ator5": "George Kennedy",
+    "ator6": "Helen Hayes"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1AmAmJ_mrOD0J9Y4Ohoe0itvAuPq--lhf",
@@ -7401,6 +9921,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Feminina"
       }
     ],
+    "diretor": "David Lowell Rich",
+    "ator1": "Alain Delon",
+    "ator2": "Susan Blakely",
+    "ator3": "Robert Wagner",
+    "ator4": "Sylvia Kristel",
+    "ator5": "Eddie Albert",
+    "ator6": "George Kennedy",
     "artista": "Sylvia Kristel"
   },
   {
@@ -7425,7 +9952,14 @@ const filmes = [
         "nome": "Coleção Catástrofe",
         "raw": "Coleção Catástrofe"
       }
-    ]
+    ],
+    "diretor": "John Guillermin",
+    "ator1": "Steve McQueen",
+    "ator2": "Paul Newman",
+    "ator3": "William Holden",
+    "ator4": "Faye Dunaway",
+    "ator5": "Fred Astaire",
+    "ator6": "Susan Blakely"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1guW8nOT94Xe3SM7Jq0EComonrySQu7PV",
@@ -7449,7 +9983,14 @@ const filmes = [
         "nome": "Coleção Catástrofe",
         "raw": "Coleção Catástrofe"
       }
-    ]
+    ],
+    "diretor": "James Bridges",
+    "ator1": "Jane Fonda",
+    "ator2": "Jack Lemmon",
+    "ator3": "Michael Douglas",
+    "ator4": "Scott Brady",
+    "ator5": "James Hampton",
+    "ator6": "Peter Donat"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/107tvg-KciqA3kazEMbRqKAATvooYp7H9",
@@ -7473,7 +10014,14 @@ const filmes = [
         "nome": "Coleção Catástrofe",
         "raw": "Coleção Catástrofe"
       }
-    ]
+    ],
+    "diretor": "Jan de Bont",
+    "ator1": "Helen Hunt",
+    "ator2": "Bill Paxton",
+    "ator3": "Cary Elwes",
+    "ator4": "Jami Gertz",
+    "ator5": "Philip Seymour Hoffman",
+    "ator6": "Lois Smith"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1oTAFU5tLJCM9oW6QtUrcnMAeq7GnCAxP",
@@ -7497,7 +10045,14 @@ const filmes = [
         "nome": "Coleção Catástrofe",
         "raw": "Coleção Catástrofe"
       }
-    ]
+    ],
+    "diretor": "Mimi Leder",
+    "ator1": "Robert Duvall",
+    "ator2": "Téa Leoni",
+    "ator3": "Elijah Wood",
+    "ator4": "Vanessa Redgrave",
+    "ator5": "Morgan Freeman",
+    "ator6": "Maximilian Schell"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/11k7L6ZlHxJDwGy9uOA1J98njPhGGLOF6",
@@ -7521,7 +10076,14 @@ const filmes = [
         "nome": "Coleção Catástrofe",
         "raw": "Coleção Catástrofe"
       }
-    ]
+    ],
+    "diretor": "Paul Greengrass",
+    "ator1": "Christian Clemenson",
+    "ator2": "Cheyenne Jackson Ben Sliney",
+    "ator3": "Khalid Abdalla",
+    "ator4": "Corey Johnson",
+    "ator5": "Trish Gates",
+    "ator6": null
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1G6H7SftPbyhmrJ7k-QY3GkG3UcpJrhCJ",
@@ -7545,7 +10107,14 @@ const filmes = [
         "nome": "Coleção Catástrofe",
         "raw": "Coleção Catástrofe"
       }
-    ]
+    ],
+    "diretor": "Alister Grierson",
+    "ator1": "Richard Roxburgh",
+    "ator2": "Ioan Gruffudd",
+    "ator3": "Rhys Wakefield",
+    "ator4": "Alice Parkinson",
+    "ator5": "Dan Wyllie",
+    "ator6": "Christopher Baker"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/19qsigqMdF6r8vy8a66nXiCFwa8jtOpSm",
@@ -7569,7 +10138,14 @@ const filmes = [
         "nome": "Coleção Catástrofe",
         "raw": "Coleção Catástrofe"
       }
-    ]
+    ],
+    "diretor": "Danny Boyle",
+    "ator1": "James Franco",
+    "ator2": "Amber Tamblyn",
+    "ator3": "Kate Mara",
+    "ator4": "Clémence Poésy",
+    "ator5": "Treat Williams",
+    "ator6": "Kate Burton"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1NSTm7ZALDT-xM4P2GxIR5gPTRllACo8C",
@@ -7593,7 +10169,14 @@ const filmes = [
         "nome": "Coleção Catástrofe",
         "raw": "Coleção Catástrofe"
       }
-    ]
+    ],
+    "diretor": "Robert Zemeckis",
+    "ator1": "Denzel Washington",
+    "ator2": "Don Cheadle",
+    "ator3": "Kelly Reilly",
+    "ator4": "John Goodman",
+    "ator5": "Bruce Greenwood",
+    "ator6": "Melissa Leo"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/12AHfgCCHtJd8GiR0luXnGeLKXC-gf_Im",
@@ -7617,7 +10200,14 @@ const filmes = [
         "nome": "Coleção Catástrofe",
         "raw": "Coleção Catástrofe"
       }
-    ]
+    ],
+    "diretor": "Clint Eastwood",
+    "ator1": "Tom Hanks",
+    "ator2": "Aaron Eckhart",
+    "ator3": "Laura Linney",
+    "ator4": "Valerie Mahaffey",
+    "ator5": "Mike O'Malley",
+    "ator6": "Jamey Sheridan"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/14o3Yf6ZYooU7Tc2OIFbqkQYkKGAdaBAp",
@@ -7641,7 +10231,14 @@ const filmes = [
         "nome": "Coleção Cavalos",
         "raw": "Coleção Cavalos"
       }
-    ]
+    ],
+    "diretor": "Carroll Ballard",
+    "ator1": "Kelly Reno",
+    "ator2": "Mickey Rooney",
+    "ator3": "Teri Garr",
+    "ator4": "Clarence Muse",
+    "ator5": "Hoyt Axton",
+    "ator6": "Michael Higgins"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1BoKDDqpBdTMeWWky0RcCNUZfjxsX7vaU",
@@ -7665,7 +10262,14 @@ const filmes = [
         "nome": "Coleção Cavalos",
         "raw": "Coleção Cavalos"
       }
-    ]
+    ],
+    "diretor": "Robert Dalva",
+    "ator1": "Kelly Reno",
+    "ator2": "Vincent Spano",
+    "ator3": "Allen Garfield",
+    "ator4": "Woody Strode",
+    "ator5": "Ferdinando Poggi",
+    "ator6": "Larbi Doghmi"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1JtVlMGCqBDc7zYytkFgXixwQOG86GtYn",
@@ -7689,7 +10293,14 @@ const filmes = [
         "nome": "Coleção Cavalos",
         "raw": "Coleção Cavalos"
       }
-    ]
+    ],
+    "diretor": "Gary Ross",
+    "ator1": "Tobey Maguire",
+    "ator2": "Jeff Bridges",
+    "ator3": "Chris Cooper",
+    "ator4": "Elizabeth Banks",
+    "ator5": "Gary Stevens",
+    "ator6": "William H. Macy"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1mEzYZB-4b_yHu10LVkhAx2c7r3RIcXA6",
@@ -7713,7 +10324,14 @@ const filmes = [
         "nome": "Coleção Cavalos",
         "raw": "Coleção Cavalos"
       }
-    ]
+    ],
+    "diretor": "Randall Wallace",
+    "ator1": "Diane Lane",
+    "ator2": "John Malkovich",
+    "ator3": "Dylan Walsh",
+    "ator4": "Margo Martindale",
+    "ator5": "Nelsan Ellis",
+    "ator6": "Otto Thorwarth"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1gcX5un_unWFjxWFaLapUWMqpnYvqbmGx",
@@ -7737,7 +10355,14 @@ const filmes = [
         "nome": "Coleção Clube das Meninas",
         "raw": "Coleção Clube das Meninas"
       }
-    ]
+    ],
+    "diretor": "Gil Junger",
+    "ator1": "Heath Ledger",
+    "ator2": "Julia Roberts",
+    "ator3": "Joseph Gordon-Levitt",
+    "ator4": "Larisa Oleynik",
+    "ator5": "David Krumholtz",
+    "ator6": "Andrew Keegan"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1qKeuxB4vLe-Hf6HmcZedjkTlZkRWXPE0",
@@ -7761,7 +10386,14 @@ const filmes = [
         "nome": "Coleção Clube das Meninas",
         "raw": "Coleção Clube das Meninas"
       }
-    ]
+    ],
+    "diretor": "Amy Heckerling",
+    "ator1": "Alicia Silverstone",
+    "ator2": "Stacey Dash",
+    "ator3": "Brittany Murphy",
+    "ator4": "Paul Rudd",
+    "ator5": "Donald Faison",
+    "ator6": "Elisa Donovan"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1B8MNih9gWYdJ8AaiL7EDs7k9vFoUNBwc",
@@ -7785,7 +10417,14 @@ const filmes = [
         "nome": "Coleção Clube das Meninas",
         "raw": "Coleção Clube das Meninas"
       }
-    ]
+    ],
+    "diretor": "Donald Petrie",
+    "ator1": "Kate Hudson",
+    "ator2": "Matthew McConaughey",
+    "ator3": "Kathryn Hahn",
+    "ator4": "Annie Parisse",
+    "ator5": "Adam Goldberg",
+    "ator6": "Thomas Lennon"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/19f5_PM6u8Em1-f61RpsgyhHhzH39qErd",
@@ -7809,7 +10448,14 @@ const filmes = [
         "nome": "Coleção Clube das Meninas",
         "raw": "Coleção Clube das Meninas"
       }
-    ]
+    ],
+    "diretor": "Robert Luketic",
+    "ator1": "Reese Witherspoon",
+    "ator2": "Luke Evans",
+    "ator3": "Selma Blair",
+    "ator4": "Matthew Davis",
+    "ator5": "Victor Garber",
+    "ator6": "Jennifer Coolidge"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1X7hivbRNb_hQEFcR7hzteofAqBzC1y0P",
@@ -7833,7 +10479,14 @@ const filmes = [
         "nome": "Coleção Clube das Meninas",
         "raw": "Coleção Clube das Meninas"
       }
-    ]
+    ],
+    "diretor": "Mark Waters",
+    "ator1": "Lindsay Lohan",
+    "ator2": "Rachel McAdams",
+    "ator3": "Tina Fey",
+    "ator4": "Tim Meadows",
+    "ator5": "Amy Poehler",
+    "ator6": "Amanda Seyfried"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1-K-6wC6nYRdivvAqHeIVNyerUVNrac9t",
@@ -7857,7 +10510,14 @@ const filmes = [
         "nome": "Coleção Corridas",
         "raw": "Coleção Corridas"
       }
-    ]
+    ],
+    "diretor": "John Frankenheimer",
+    "ator1": "James Garner",
+    "ator2": "Eva Marie Saint",
+    "ator3": "Yves Montand",
+    "ator4": "Toshirô Mifune",
+    "ator5": "Brian Bedford",
+    "ator6": "Jessica Walter"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/14R9KceOuEkfN9P3fhiOIuL8ZaVwNwOQN",
@@ -7881,7 +10541,14 @@ const filmes = [
         "nome": "Coleção Corridas",
         "raw": "Coleção Corridas"
       }
-    ]
+    ],
+    "diretor": "Tony Scott",
+    "ator1": "Tom Cruise",
+    "ator2": "Robert Duvall",
+    "ator3": "Nicole Kidman",
+    "ator4": "Randy Quaid",
+    "ator5": "Cary Elwes",
+    "ator6": "Michael Rooker"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1xxDSRh8UezgOAXMH9QJwxZsFTd5_8JOm",
@@ -7905,7 +10572,14 @@ const filmes = [
         "nome": "Coleção Corridas",
         "raw": "Coleção Corridas"
       }
-    ]
+    ],
+    "diretor": "James Mangold",
+    "ator1": "Matt Damon",
+    "ator2": "Christian Bale",
+    "ator3": "Jon Bernthal",
+    "ator4": "Caitríona Balfe",
+    "ator5": "Tracy Letts",
+    "ator6": "Josh Lucas"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1zK-GZMhKIwx7NJjMh98Sd7NIV7Q0NokK",
@@ -7929,7 +10603,14 @@ const filmes = [
         "nome": "Coleção Corridas",
         "raw": "Coleção Corridas"
       }
-    ]
+    ],
+    "diretor": "Ron Howard",
+    "ator1": "Chris Hemsworth",
+    "ator2": "Daniel Brühl",
+    "ator3": "Olivia Wilde",
+    "ator4": "Alexandra Maria Lara",
+    "ator5": "Pierfrancesco Favino",
+    "ator6": "David Calder"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/12s5JTkt3dmQIOmosB24iScJxEXLxEku5",
@@ -7953,7 +10634,14 @@ const filmes = [
         "nome": "Coleção Corridas",
         "raw": "Coleção Corridas"
       }
-    ]
+    ],
+    "diretor": "Asif Kapadia",
+    "ator1": "Ayrton Senna",
+    "ator2": "Alain Prost",
+    "ator3": "Frank Williams",
+    "ator4": "Ron Dennis",
+    "ator5": "Viviane Senna",
+    "ator6": "Milton da Silva"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1GW8pXWFr58gtYqdhMeeJSondb-zedOul",
@@ -7977,7 +10665,14 @@ const filmes = [
         "nome": "Coleção Corridas",
         "raw": "Coleção Corridas"
       }
-    ]
+    ],
+    "diretor": "Joseph Kosinski",
+    "ator1": "Brad Pitt",
+    "ator2": "Damson Idris",
+    "ator3": "Kerry Condon",
+    "ator4": "Tobias Menzies",
+    "ator5": "Javier Bardem",
+    "ator6": "Lewis Hamilton"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1PuskAOwW8-aRLmgOLwU9REsHeUK6111-",
@@ -8001,7 +10696,14 @@ const filmes = [
         "nome": "Coleção Desfalque",
         "raw": "Coleção Desfalque"
       }
-    ]
+    ],
+    "diretor": "George Roy Hill",
+    "ator1": "Paul Newman",
+    "ator2": "Robert Redford",
+    "ator3": "Robert Shaw",
+    "ator4": "Charles Durning",
+    "ator5": "Ray Walston",
+    "ator6": "Eileen Brennan"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Bw267tQ1klp398GFpnyTfqqx9_1dDdik",
@@ -8025,7 +10727,14 @@ const filmes = [
         "nome": "Coleção Desfalque",
         "raw": "Coleção Desfalque"
       }
-    ]
+    ],
+    "diretor": "Steven Soderbergh",
+    "ator1": "George Clooney",
+    "ator2": "Brad Pitt",
+    "ator3": "Matt Damon",
+    "ator4": "Andy Garcia",
+    "ator5": "Julia Roberts",
+    "ator6": "Casey Affleck"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1SBV7_XUtJeDFSjy_Z9GKXqy01lFtzczn",
@@ -8049,7 +10758,14 @@ const filmes = [
         "nome": "Coleção Desfalque",
         "raw": "Coleção Desfalque"
       }
-    ]
+    ],
+    "diretor": "Peter Yates",
+    "ator1": "Stanley Baker",
+    "ator2": "James Booth",
+    "ator3": "Frank Finlay",
+    "ator4": "Barry Foster",
+    "ator5": "William Marlowe",
+    "ator6": "Clinton Greyn"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1mqZESd7EVynCrHxUilk1FlFS1ZcIHqbF",
@@ -8073,7 +10789,14 @@ const filmes = [
         "nome": "Coleção Desfalque",
         "raw": "Coleção Desfalque"
       }
-    ]
+    ],
+    "diretor": "John Flynn",
+    "ator1": "Rod Steiger",
+    "ator2": "James Coburn",
+    "ator3": "David McCallum",
+    "ator4": "Michael J. Pollard",
+    "ator5": "Lynn Carlin",
+    "ator6": "Sheree North"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1-_uP1DpYUKgzBhRfizG9jeLBqgHNKHeA",
@@ -8097,7 +10820,14 @@ const filmes = [
         "nome": "Coleção Espionagem",
         "raw": "Coleção Espionagem"
       }
-    ]
+    ],
+    "diretor": "Steven Spielberg",
+    "ator1": "Eric Bana",
+    "ator2": "Daniel Craig",
+    "ator3": "Ciarán Hinds",
+    "ator4": "Mathieu Kassovitz",
+    "ator5": "Hanns Zischler",
+    "ator6": "Geoffrey Rush"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1EYp1LZosf2O4Q_FSf1DGGFTPe_xCCXGX",
@@ -8121,7 +10851,14 @@ const filmes = [
         "nome": "Coleção Espionagem",
         "raw": "Coleção Espionagem"
       }
-    ]
+    ],
+    "diretor": "Robert De Niro",
+    "ator1": "Matt Damon",
+    "ator2": "Angelina Jolie",
+    "ator3": "Alec Baldwin",
+    "ator4": "Tammy Blanchard",
+    "ator5": "Billy Crudup",
+    "ator6": "Robert De Niro"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1rr0YADXIEVQzGazTYmNZgCdZ8kAnmgvy",
@@ -8145,7 +10882,14 @@ const filmes = [
         "nome": "Coleção Espionagem",
         "raw": "Coleção Espionagem"
       }
-    ]
+    ],
+    "diretor": "Tomas Alfredson",
+    "ator1": "Gary Oldman",
+    "ator2": "Colin Firth",
+    "ator3": "Tom Hardy",
+    "ator4": "Mark Strong",
+    "ator5": "Ciarán Hinds",
+    "ator6": "Benedict Cumberbatch"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Se12NrL6CdLdXSAjVvnfsPjZBWE_b3JQ",
@@ -8169,7 +10913,14 @@ const filmes = [
         "nome": "Coleção Esportes",
         "raw": "Coleção Esportes"
       }
-    ]
+    ],
+    "diretor": "David Anspaugh",
+    "ator1": "Gene Hackman",
+    "ator2": "Barbara Hershey",
+    "ator3": "Dennis Hopper",
+    "ator4": "Sheb Wooley",
+    "ator5": "Fern Persons",
+    "ator6": "Chelcie Ross"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1MXZGnDPop4joPH2V__LoMvlb89prVzXc",
@@ -8193,7 +10944,14 @@ const filmes = [
         "nome": "Coleção Esportes",
         "raw": "Coleção Esportes"
       }
-    ]
+    ],
+    "diretor": "Gavin O'Connor",
+    "ator1": "Kurt Russell",
+    "ator2": "Patricia Clarkson",
+    "ator3": "Noah Emmerich",
+    "ator4": "Sean McCann",
+    "ator5": "Kenneth Welsh",
+    "ator6": "Eddie Cahill"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1nTIE4JEOMKuUKiI6T7xhv73gq-WQ0krV",
@@ -8217,7 +10975,14 @@ const filmes = [
         "nome": "Coleção Faroeste",
         "raw": "Coleção Faroeste"
       }
-    ]
+    ],
+    "diretor": "Henry Hathaway",
+    "ator1": "John Wayne",
+    "ator2": "Glen Campbell",
+    "ator3": "Kim Darby",
+    "ator4": "Jeremy Slate",
+    "ator5": "Robert Duvall",
+    "ator6": "Dennis Hopper"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1GlbY_ytiuetaBFfM5wXB6dn4PB-2vzdI",
@@ -8241,7 +11006,14 @@ const filmes = [
         "nome": "Coleção Faroeste",
         "raw": "Coleção Faroeste"
       }
-    ]
+    ],
+    "diretor": "Fred Zinnemann",
+    "ator1": "Gary Cooper",
+    "ator2": "Grace Kelly",
+    "ator3": "Thomas Mitchell",
+    "ator4": "Lloyd Bridges",
+    "ator5": "Katy Jurado",
+    "ator6": "Otto Kruger"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1AJ2rnRY9M0Xg6pAmZ6pBUkHBkM_obCpo",
@@ -8265,7 +11037,14 @@ const filmes = [
         "nome": "Coleção Faroeste",
         "raw": "Coleção Faroeste"
       }
-    ]
+    ],
+    "diretor": "Sam Peckinpah",
+    "ator1": "William Holden",
+    "ator2": "Ernest Borgnine",
+    "ator3": "Robert Ryan",
+    "ator4": "Edmond O'Brien",
+    "ator5": "Warren Oates",
+    "ator6": "Jaime Sánchez"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1NKK6T5yzmtoWuygDS0oHoxFI6hHn_l_-",
@@ -8289,7 +11068,14 @@ const filmes = [
         "nome": "Coleção Faroeste",
         "raw": "Coleção Faroeste"
       }
-    ]
+    ],
+    "diretor": "Richard Brooks",
+    "ator1": "Burt Lancaster",
+    "ator2": "Lee Marvin",
+    "ator3": "Robert Ryan",
+    "ator4": "Jack Palance",
+    "ator5": "Claudia Cardinale",
+    "ator6": "Woody Strode"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1uJnk4o_o-aGnPtepGMa0hFKZx_TW_lHd",
@@ -8313,7 +11099,14 @@ const filmes = [
         "nome": "Coleção Faroeste",
         "raw": "Coleção Faroeste"
       }
-    ]
+    ],
+    "diretor": "Sergio Leone",
+    "ator1": "Clint Eastwood",
+    "ator2": "Marianne Koch",
+    "ator3": "Gian Maria Volontè",
+    "ator4": "Wolfgang Lukschy",
+    "ator5": "Sieghardt Rupp",
+    "ator6": "Joseph Egger"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1TizV5IYCcyaiV-HitHeuaaxPUu0891_I",
@@ -8337,7 +11130,14 @@ const filmes = [
         "nome": "Coleção Faroeste",
         "raw": "Coleção Faroeste"
       }
-    ]
+    ],
+    "diretor": "John Ford",
+    "ator1": "John Wayne",
+    "ator2": "Jeffrey Hunter",
+    "ator3": "Vera Miles",
+    "ator4": "Ward Bond",
+    "ator5": "Natalie Portman",
+    "ator6": "John Qualen"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1aVEhBcBBQfwe6VoXmx1rjdtuDyzs0iZE",
@@ -8361,7 +11161,14 @@ const filmes = [
         "nome": "Coleção Faroeste",
         "raw": "Coleção Faroeste"
       }
-    ]
+    ],
+    "diretor": "Howard Hawks",
+    "ator1": "John Wayne",
+    "ator2": "Dean Martin",
+    "ator3": "Ricky Nelson",
+    "ator4": "Angie Dickinson",
+    "ator5": "Walter Brennan",
+    "ator6": "Ward Bond"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1KpQemeukSyUnP82E9Hmhj22apzNlWeW3",
@@ -8385,7 +11192,14 @@ const filmes = [
         "nome": "Coleção Faroeste",
         "raw": "Coleção Faroeste"
       }
-    ]
+    ],
+    "diretor": "John Sturges",
+    "ator1": "Yul Brynner",
+    "ator2": "Eli Wallach",
+    "ator3": "Steve McQueen",
+    "ator4": "Horst Buchholz",
+    "ator5": "Charles Bronson",
+    "ator6": "Robert Vaughn"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1wfQZcf0gZFywvYBolR7LZErhRB-RzRTD",
@@ -8409,7 +11223,14 @@ const filmes = [
         "nome": "Coleção Faroeste",
         "raw": "Coleção Faroeste"
       }
-    ]
+    ],
+    "diretor": "Sergio Leone",
+    "ator1": "Clint Eastwood",
+    "ator2": "Eli Wallach",
+    "ator3": "Lee Van Cleef",
+    "ator4": "Aldo Giuffrè",
+    "ator5": "Luigi Pistilli",
+    "ator6": "Rada Rassimov"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1oX-gBXBavbrPhRMYz4-RXyiLLjCquv39",
@@ -8433,7 +11254,14 @@ const filmes = [
         "nome": "Coleção Faroeste (Recomendado)",
         "raw": "Coleção Faroeste (Recomendado)"
       }
-    ]
+    ],
+    "diretor": "Henry King",
+    "ator1": "Gregory Peck",
+    "ator2": "Joan Collins",
+    "ator3": "Stephen Boyd",
+    "ator4": "Albert Salmi",
+    "ator5": "Henry Silva",
+    "ator6": "Kathleen Gallant"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1pV9unuXnlQIkeYCcu3Mmgosw3woXrjwO",
@@ -8457,7 +11285,14 @@ const filmes = [
         "nome": "Coleção Faroeste (Recomendado)",
         "raw": "Coleção Faroeste (Recomendado)"
       }
-    ]
+    ],
+    "diretor": "Budd Boetticher",
+    "ator1": "Randolph Scott",
+    "ator2": "Karen Steele",
+    "ator3": "Pernell Roberts",
+    "ator4": "James Coburn",
+    "ator5": "Lee Van Cleef",
+    "ator6": "James Best"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1UnvEzJNV-PHSmSzzobqn9MnWfjz7UxcP",
@@ -8481,7 +11316,14 @@ const filmes = [
         "nome": "Coleção Faroeste Moderno",
         "raw": "Coleção Faroeste Moderno"
       }
-    ]
+    ],
+    "diretor": "Clint Eastwood",
+    "ator1": "Clint Eastwood",
+    "ator2": "Gene Hackman",
+    "ator3": "Morgan Freeman",
+    "ator4": "Richard Harris",
+    "ator5": "Jaimz Woolvett",
+    "ator6": "Saul Rubinek"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1ZtmIr4-TVjQSDN25dAqDiYURcGCn_GCP",
@@ -8505,7 +11347,14 @@ const filmes = [
         "nome": "Coleção Faroeste Moderno",
         "raw": "Coleção Faroeste Moderno"
       }
-    ]
+    ],
+    "diretor": "George P. Cosmatos",
+    "ator1": "Kurt Russell",
+    "ator2": "Val Kilmer",
+    "ator3": "Sam Elliott",
+    "ator4": "Bill Paxton",
+    "ator5": "Powers Boothe",
+    "ator6": "Michael Biehn"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1v9PZACCcDyKHKHXlFSESZvLrEqvbkvSu",
@@ -8535,6 +11384,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Masculina"
       }
     ],
+    "diretor": "Sergio Corbucci",
+    "ator1": "Franco Nero",
+    "ator2": "José Bódalo Loredana Nusciak",
+    "ator3": "Angel Alvarez",
+    "ator4": "Gino Pernice",
+    "ator5": "Simón Arriaga",
+    "ator6": null,
     "artista": "Franco Nero"
   },
   {
@@ -8565,6 +11421,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Masculina"
       }
     ],
+    "diretor": "Giorgio Ferroni",
+    "ator1": "Giuliano Gemma",
+    "ator2": "Ida Galli",
+    "ator3": "Nello Pazzafini",
+    "ator4": "Pierre Cressoy",
+    "ator5": "Franco Fantasia",
+    "ator6": "Tullio Altamura",
     "artista": "Giuliano Gemma"
   },
   {
@@ -8589,7 +11452,14 @@ const filmes = [
         "nome": "Coleção Fé",
         "raw": "Coleção Fé"
       }
-    ]
+    ],
+    "diretor": "Philip Saville",
+    "ator1": "Henry Ian Cusick",
+    "ator2": "Daniel Kash",
+    "ator3": "Christopher Plummer",
+    "ator4": "Stuart Bunce",
+    "ator5": "Diana Berriman",
+    "ator6": "Stephen Russell"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/15kvAZghNYwAKQthbROV25rfhQcOdS9xY",
@@ -8613,7 +11483,14 @@ const filmes = [
         "nome": "Coleção Fé",
         "raw": "Coleção Fé"
       }
-    ]
+    ],
+    "diretor": "Kevin Reynolds",
+    "ator1": "Joseph Fiennes",
+    "ator2": "Tom Felton",
+    "ator3": "Peter Firth",
+    "ator4": "Cliff Curtis",
+    "ator5": "María Botto",
+    "ator6": "Luis Callejo"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1bHViEyvfHc_2HPnWeYPf-htZf2Vdi29s",
@@ -8637,7 +11514,14 @@ const filmes = [
         "nome": "Coleção Fé",
         "raw": "Coleção Fé"
       }
-    ]
+    ],
+    "diretor": "Henry Koster",
+    "ator1": "Richard Burton",
+    "ator2": "Jean Simmons",
+    "ator3": "Victor Mature",
+    "ator4": "Michael Rennie",
+    "ator5": "Jay Robinson",
+    "ator6": "Dean Jagger"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/17FNrTo9c0BPWcTwYAu0SslwuPjNm6XeQ",
@@ -8661,7 +11545,14 @@ const filmes = [
         "nome": "Coleção Fé",
         "raw": "Coleção Fé"
       }
-    ]
+    ],
+    "diretor": "Mel Gibson",
+    "ator1": "Jim Caviezel",
+    "ator2": "Maia Morgenstern",
+    "ator3": "Christo Jivkov",
+    "ator4": "Francesco De Vito",
+    "ator5": "Monica Bellucci",
+    "ator6": "Mattia Sbragia"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1qHUVKYJH9pR0jF74Uyk6IYTM-pghNRIq",
@@ -8685,7 +11576,14 @@ const filmes = [
         "nome": "Coleção Fé",
         "raw": "Coleção Fé"
       }
-    ]
+    ],
+    "diretor": "Mervyn LeRoy",
+    "ator1": "Robert Taylor",
+    "ator2": "Deborah Kerr",
+    "ator3": "Leo Genn",
+    "ator4": "Peter Ustinov",
+    "ator5": "Patricia Laffan",
+    "ator6": "Finlay Currie"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1dBDFlMn6InH3tQURoPKZScI5_JGJ6IYb",
@@ -8709,7 +11607,14 @@ const filmes = [
         "nome": "Coleção Gastronômica",
         "raw": "Coleção Gastronômica"
       }
-    ]
+    ],
+    "diretor": "Lasse Hallström",
+    "ator1": "Helen Mirren",
+    "ator2": "Om Puri",
+    "ator3": "Manish Dayal",
+    "ator4": "Charlotte Le Bon",
+    "ator5": "Amit Shah",
+    "ator6": "Farzana Dua Elahe"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1kTbb1EDOaTr9RmcQR-plgbwkYkMiFb3f",
@@ -8733,7 +11638,14 @@ const filmes = [
         "nome": "Coleção Gastronômica",
         "raw": "Coleção Gastronômica"
       }
-    ]
+    ],
+    "diretor": "Jon Favreau",
+    "ator1": "Jon Favreau",
+    "ator2": "Sofía Vergara",
+    "ator3": "John Leguizamo",
+    "ator4": "Scarlett Johansson",
+    "ator5": "Oliver Platt",
+    "ator6": "Bobby Cannavale"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Fcp17v4fvBu1S9qxTt6ZnuTAIPZ_zntT",
@@ -8757,7 +11669,14 @@ const filmes = [
         "nome": "Coleção Gastronômica",
         "raw": "Coleção Gastronômica"
       }
-    ]
+    ],
+    "diretor": "Lasse Hallström",
+    "ator1": "Juliette Binoche",
+    "ator2": "Johnny Depp",
+    "ator3": "Judi Dench",
+    "ator4": "Alfred Molina",
+    "ator5": "Lena Olin",
+    "ator6": "Carrie-Anne Moss"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1en5qhEw-KLhp7svzFTghPLJyekxCXTI6",
@@ -8781,7 +11700,14 @@ const filmes = [
         "nome": "Coleção Gastronômica",
         "raw": "Coleção Gastronômica"
       }
-    ]
+    ],
+    "diretor": "Ang Lee",
+    "ator1": "Sihung Lung",
+    "ator2": "Yu-Wen Wang",
+    "ator3": "Chien-Lien Wu",
+    "ator4": "Kuei-Mei Yang",
+    "ator5": "Sylvia Chang",
+    "ator6": "Winston Chao"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1zA--xtBsAPqAlECg3P3-whLpt7hRZrJu",
@@ -8805,7 +11731,14 @@ const filmes = [
         "nome": "Coleção Gastronômica",
         "raw": "Coleção Gastronômica"
       }
-    ]
+    ],
+    "diretor": "Ryan Murphy",
+    "ator1": "Julia Roberts",
+    "ator2": "Javier Bardem",
+    "ator3": "Richard Jenkins",
+    "ator4": "Viola Davis",
+    "ator5": "Billy Crudup",
+    "ator6": "James Franco"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1eLoEB0WNfzUe_mIWQkpLSO-xqm1iW7i3",
@@ -8829,7 +11762,14 @@ const filmes = [
         "nome": "Coleção Gastronômica",
         "raw": "Coleção Gastronômica"
       }
-    ]
+    ],
+    "diretor": "Nora Ephron",
+    "ator1": "Meryl Streep",
+    "ator2": "Amy Adams",
+    "ator3": "Stanley Tucci",
+    "ator4": "Chris Messina",
+    "ator5": "Linda Emond",
+    "ator6": "Helen Carey"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1kg-bGNV4EW6wsR7yz0qrQIzW9eYU1Yq7",
@@ -8853,7 +11793,14 @@ const filmes = [
         "nome": "Coleção Gastronômica",
         "raw": "Coleção Gastronômica"
       }
-    ]
+    ],
+    "diretor": "Stephen Chbosky",
+    "ator1": "Vince Vaughn",
+    "ator2": "Lorraine Bracco",
+    "ator3": "Talia Shire",
+    "ator4": "Brenda Vaccaro",
+    "ator5": "Linda Cardellini",
+    "ator6": "Susan Sarandon"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1CMjGE40gp90lw1Ft0Did-Hjb2EAdYIgR",
@@ -8877,7 +11824,14 @@ const filmes = [
         "nome": "Coleção Gastronômica",
         "raw": "Coleção Gastronômica"
       }
-    ]
+    ],
+    "diretor": "Trần Anh Hùng",
+    "ator1": "Juliette Binoche",
+    "ator2": "Benoît Magimel",
+    "ator3": "Emmanuel Salinger",
+    "ator4": "Patrick d'Assumçao",
+    "ator5": "Galatéa Bellugi",
+    "ator6": "Jan Hammenecker"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1ZW05be7nGUhh4sQ6TrGYtOU9OFYbkz0D",
@@ -8901,7 +11855,14 @@ const filmes = [
         "nome": "Coleção Gastronômica",
         "raw": "Coleção Gastronômica"
       }
-    ]
+    ],
+    "diretor": "Tassos Boulmetis",
+    "ator1": "Georges Corraface",
+    "ator2": "Ieroklis Michaelidis",
+    "ator3": "Renis Pittaki",
+    "ator4": "Stelios Mainas",
+    "ator5": "Tamer Karadağli",
+    "ator6": "Basak Köklükaya"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1dWIekFG4rd_Opx8oqqCNU3RLBzAUSD3Y",
@@ -8925,7 +11886,14 @@ const filmes = [
         "nome": "Coleção Gastronômica",
         "raw": "Coleção Gastronômica"
       }
-    ]
+    ],
+    "diretor": "John Wells",
+    "ator1": "Bradley Cooper",
+    "ator2": "Sienna Miller",
+    "ator3": "Daniel Brühl",
+    "ator4": "Emma Thompson",
+    "ator5": "Omar Sy",
+    "ator6": "Matthew Rhys"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/15XhVaQzd-E7jI9-irIH2IZ3VekJwk7Qn",
@@ -8949,7 +11917,14 @@ const filmes = [
         "nome": "Coleção Gastronômica",
         "raw": "Coleção Gastronômica"
       }
-    ]
+    ],
+    "diretor": "Scott Hicks",
+    "ator1": "Catherine Zeta-Jones",
+    "ator2": "Aaron Eckhart",
+    "ator3": "Abigail Breslin",
+    "ator4": "Patricia Clarkson",
+    "ator5": "Jenny Wade",
+    "ator6": "Bob Balaban"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1NZm6wyMuh3pkiBAfG0XLqFEXWtvO7kDV",
@@ -8973,7 +11948,14 @@ const filmes = [
         "nome": "Coleção HQ",
         "raw": "Coleção HQ"
       }
-    ]
+    ],
+    "diretor": "Matthew Vaughn",
+    "ator1": "James McAvoy",
+    "ator2": "Michael Fassbender",
+    "ator3": "Rose Byrne",
+    "ator4": "Jennifer Lawrence",
+    "ator5": "January Jones",
+    "ator6": "Nicholas Hoult"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1EYH2L68lC8jvj872Sh6dOk5Lp265QaPl",
@@ -8997,7 +11979,14 @@ const filmes = [
         "nome": "Coleção HQ",
         "raw": "Coleção HQ"
       }
-    ]
+    ],
+    "diretor": "Bryan Singer",
+    "ator1": "Hugh Jackman",
+    "ator2": "Patrick Stewart",
+    "ator3": "Ian McKellen",
+    "ator4": "Famke Janssen",
+    "ator5": "James Marsden",
+    "ator6": "Halle Berry"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1R2AGF_94QoJROp0l5NqvWV8ogl16JGBV",
@@ -9021,7 +12010,14 @@ const filmes = [
         "nome": "Coleção HQ",
         "raw": "Coleção HQ"
       }
-    ]
+    ],
+    "diretor": "Bryan Singer",
+    "ator1": "Patrick Stewart",
+    "ator2": "Hugh Jackman",
+    "ator3": "Ian McKellen",
+    "ator4": "Halle Berry",
+    "ator5": "Famke Janssen",
+    "ator6": "James Marsden"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1iOTFupSJDj_wEtAfIySZSBIoC_v9k0zv",
@@ -9045,7 +12041,14 @@ const filmes = [
         "nome": "Coleção HQ",
         "raw": "Coleção HQ"
       }
-    ]
+    ],
+    "diretor": "Brett Ratner",
+    "ator1": "Hugh Jackman",
+    "ator2": "Halle Berry",
+    "ator3": "Ian McKellen",
+    "ator4": "Patrick Stewart",
+    "ator5": "Famke Janssen",
+    "ator6": "Anna Paquin"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/10POgztu3_FOPpwN-VKggfvkWm-K5oNuF",
@@ -9069,7 +12072,14 @@ const filmes = [
         "nome": "Coleção HQ",
         "raw": "Coleção HQ"
       }
-    ]
+    ],
+    "diretor": "Gavin Hood",
+    "ator1": "Hugh Jackman",
+    "ator2": "Liev Schreiber",
+    "ator3": "Danny Huston",
+    "ator4": "Will.i.am",
+    "ator5": "Lynn Collins",
+    "ator6": "Kevin Durand"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1uYuj7WUUrG272PceoVYEG1IPDV2NnL1a",
@@ -9093,7 +12103,14 @@ const filmes = [
         "nome": "Coleção HQ",
         "raw": "Coleção HQ"
       }
-    ]
+    ],
+    "diretor": "Mark Steven Johnson",
+    "ator1": "Ben Affleck",
+    "ator2": "Jennifer Garner",
+    "ator3": "Colin Farrell",
+    "ator4": "Michael Clarke Duncan",
+    "ator5": "Jon Favreau",
+    "ator6": "Joe Pantoliano"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1sOM9YAAPUG4NclxLKX9CIipXlkFGKIwi",
@@ -9117,7 +12134,14 @@ const filmes = [
         "nome": "Coleção Intelectuais",
         "raw": "Coleção Intelectuais"
       }
-    ]
+    ],
+    "diretor": "David Lynch",
+    "ator1": "Naomi Watts",
+    "ator2": "Laura Elena Harring",
+    "ator3": "Justin Theroux",
+    "ator4": "Ann Miller",
+    "ator5": "Mark Pellegrino",
+    "ator6": "Robert Forster"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/10efqoHVTvoTlRP0AWlIQ6MYYwkZ9WbeK",
@@ -9147,6 +12171,13 @@ const filmes = [
         "raw": "Coleção Belle Cult - Feminina"
       }
     ],
+    "diretor": "François Truffaut",
+    "ator1": "Jacqueline Bisset",
+    "ator2": "Valentina Cortese",
+    "ator3": "Dani",
+    "ator4": "Alexandra Stewart",
+    "ator5": "Jean-Pierre Aumont",
+    "ator6": "Jean-Pierre Léaud",
     "artista": "Jacqueline Bisset"
   },
   {
@@ -9171,7 +12202,14 @@ const filmes = [
         "nome": "Coleção Investigativa",
         "raw": "Coleção Investigativa"
       }
-    ]
+    ],
+    "diretor": "Christopher Nolan",
+    "ator1": "Guy Pearce",
+    "ator2": "Carrie-Anne Moss",
+    "ator3": "Joe Pantoliano",
+    "ator4": "Mark Boone Junior",
+    "ator5": "Russ Fega",
+    "ator6": "Jorja Fox"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1aeXDkUng2jdl6KQLGWk0IWER3oPfCsoq",
@@ -9195,7 +12233,14 @@ const filmes = [
         "nome": "Coleção Investigativa",
         "raw": "Coleção Investigativa"
       }
-    ]
+    ],
+    "diretor": "Rian Johnson",
+    "ator1": "Daniel Craig",
+    "ator2": "Chris Evans",
+    "ator3": "Ana de Armas",
+    "ator4": "Jamie Lee Curtis",
+    "ator5": "Michael Shannon",
+    "ator6": "Don Johnson"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1IiOjtfX9G4uiS5Ktc1kcGUNPfFIVdU5L",
@@ -9219,7 +12264,14 @@ const filmes = [
         "nome": "Coleção Investigativa",
         "raw": "Coleção Investigativa"
       }
-    ]
+    ],
+    "diretor": "David Fincher",
+    "ator1": "Ben Affleck",
+    "ator2": "Rosamund Pike",
+    "ator3": "Neil Patrick Harris",
+    "ator4": "Tyler Perry",
+    "ator5": "Carrie Coon",
+    "ator6": "Kim Dickens"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1tPSireH7Ia3NnhRskqknvCjUtQUe5jnb",
@@ -9243,7 +12295,14 @@ const filmes = [
         "nome": "Coleção Investigativa",
         "raw": "Coleção Investigativa"
       }
-    ]
+    ],
+    "diretor": "Barry Levinson",
+    "ator1": "Nicholas Rowe",
+    "ator2": "Alan Cox",
+    "ator3": "Sophie Ward",
+    "ator4": "Anthony Higgins",
+    "ator5": "Susan Fleetwood",
+    "ator6": "Freddie Jones"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1zWfJJJQJCTygNRe1BiI9PKjSQYshJhiJ",
@@ -9267,7 +12326,14 @@ const filmes = [
         "nome": "Coleção Investigativa",
         "raw": "Coleção Investigativa"
       }
-    ]
+    ],
+    "diretor": "Bryan Singer",
+    "ator1": "Stephen Baldwin",
+    "ator2": "Gabriel Byrne",
+    "ator3": "Chazz Palminteri",
+    "ator4": "Kevin Pollak",
+    "ator5": "Pete Postlethwaite",
+    "ator6": "Kevin Spacey"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1mXDYug5W58x_v1ZAzlVhqviqDUroa_1S",
@@ -9291,7 +12357,14 @@ const filmes = [
         "nome": "Coleção Investigativa",
         "raw": "Coleção Investigativa"
       }
-    ]
+    ],
+    "diretor": "John Huston",
+    "ator1": "Humphrey Bogart",
+    "ator2": "Mary Astor",
+    "ator3": "Gladys George",
+    "ator4": "Peter Lorre",
+    "ator5": "Barton MacLane",
+    "ator6": "Sydney Greenstreet"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1vhdcCdDjFQvHY7G7gsJ2bpkwItqpjrpR",
@@ -9315,7 +12388,14 @@ const filmes = [
         "nome": "Coleção Investigativa",
         "raw": "Coleção Investigativa"
       }
-    ]
+    ],
+    "diretor": "Joel Schumacher",
+    "ator1": "Matthew McConaughey",
+    "ator2": "Sandra Bullock",
+    "ator3": "Samuel L. Jackson",
+    "ator4": "Kevin Spacey",
+    "ator5": "Oliver Platt",
+    "ator6": "Charles S. Dutton"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1bAuEv7_hq4bbXwJZVB3YbsUc_Xxw1JWo",
@@ -9339,7 +12419,14 @@ const filmes = [
         "nome": "Coleção Investigativa",
         "raw": "Coleção Investigativa"
       }
-    ]
+    ],
+    "diretor": "Harold Becker",
+    "ator1": "Al Pacino",
+    "ator2": "Ellen Barkin",
+    "ator3": "John Goodman",
+    "ator4": "Michael Rooker",
+    "ator5": "William Hickey",
+    "ator6": "Richard Jenkins"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1I7GO4e_XIEZs3h3NLJSPB1RXoZv8vmFr",
@@ -9363,7 +12450,14 @@ const filmes = [
         "nome": "Coleção Karatê Kid",
         "raw": "Coleção Karatê Kid"
       }
-    ]
+    ],
+    "diretor": "John G. Avildsen",
+    "ator1": "Ralph Macchio",
+    "ator2": "Pat Morita",
+    "ator3": "Elisabeth Shue",
+    "ator4": "Martin Kove",
+    "ator5": "Randee Heller",
+    "ator6": "William Zabka"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1snlthlSGDkbuY0uN7J2h0oAygS9bJb74",
@@ -9387,7 +12481,14 @@ const filmes = [
         "nome": "Coleção Karatê Kid",
         "raw": "Coleção Karatê Kid"
       }
-    ]
+    ],
+    "diretor": "John G. Avildsen",
+    "ator1": "Ralph Macchio",
+    "ator2": "Pat Morita",
+    "ator3": "Pat E. Johnson",
+    "ator4": "Bruce Malmuth",
+    "ator5": "Eddie Smith",
+    "ator6": "Martin Kove"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1lyjLZfj3T56jSMe7kkdR6AdvMUOR8oVo",
@@ -9411,7 +12512,14 @@ const filmes = [
         "nome": "Coleção Karatê Kid",
         "raw": "Coleção Karatê Kid"
       }
-    ]
+    ],
+    "diretor": "John G. Avildsen",
+    "ator1": "Ralph Macchio",
+    "ator2": "Pat Morita",
+    "ator3": "Robyn Lively",
+    "ator4": "Thomas Ian Griffith",
+    "ator5": "Martin Kove",
+    "ator6": "Sean Kanan"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1nBcCJW8xwN5AAbqL3J3DTCZU2oSRfg1Z",
@@ -9435,7 +12543,14 @@ const filmes = [
         "nome": "Coleção Natal",
         "raw": "Coleção Natal"
       }
-    ]
+    ],
+    "diretor": "Josh Gordon",
+    "ator1": "Jason Bateman",
+    "ator2": "Olivia Munn",
+    "ator3": "T.J. Miller",
+    "ator4": "Jennifer Aniston",
+    "ator5": "Kate McKinnon",
+    "ator6": "Courtney B. Vance"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1NZtF0Rar9-kj8aJxrYF-3kXQmc2HY_1E",
@@ -9459,7 +12574,14 @@ const filmes = [
         "nome": "Coleção Natal",
         "raw": "Coleção Natal"
       }
-    ]
+    ],
+    "diretor": "Clay Kaytis",
+    "ator1": "Kurt Russell",
+    "ator2": "Darby Camp",
+    "ator3": "Judah Lewis",
+    "ator4": "Oliver Hudson",
+    "ator5": "Lamorne Morris",
+    "ator6": "Goldie Hawn"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1oEQdcP5kqMJsFUtxaGDbq09Cz_9wNWhv",
@@ -9483,7 +12605,14 @@ const filmes = [
         "nome": "Coleção Natal",
         "raw": "Coleção Natal"
       }
-    ]
+    ],
+    "diretor": "Chris Columbus",
+    "ator1": "Macaulay Culkin",
+    "ator2": "Joe Pesci",
+    "ator3": "Daniel Stern",
+    "ator4": "John Heard",
+    "ator5": "Roberts Blossom",
+    "ator6": "Catherine O'Hara"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1lKxH6z-3Li3mckY_q2luzgCk9D9dG4X7",
@@ -9507,7 +12636,14 @@ const filmes = [
         "nome": "Coleção Natal",
         "raw": "Coleção Natal"
       }
-    ]
+    ],
+    "diretor": "Paul Feig",
+    "ator1": "Lewis Black",
+    "ator2": "Wilmer Valderrama",
+    "ator3": "Tyler James Williams",
+    "ator4": "Dyllan Christopher",
+    "ator5": "Brett Kelly",
+    "ator6": "Gia Mantegna"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/13XvfvuE_Pwt6I3fP4ar6pgT-KFHrwlSH",
@@ -9531,7 +12667,14 @@ const filmes = [
         "nome": "Coleção Natal",
         "raw": "Coleção Natal"
       }
-    ]
+    ],
+    "diretor": "John Pasquin",
+    "ator1": "Tim Allen",
+    "ator2": "Judge Reinhold",
+    "ator3": "Wendy Crewson",
+    "ator4": "Eric Lloyd",
+    "ator5": "David Krumholtz",
+    "ator6": "Peter Boyle"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1r6PeNuYFPHhhA0ArapT08khIcwdNrorG",
@@ -9555,7 +12698,14 @@ const filmes = [
         "nome": "Coleção Natal",
         "raw": "Coleção Natal"
       }
-    ]
+    ],
+    "diretor": "Alexander Payne",
+    "ator1": "Paul Giamatti",
+    "ator2": "Da'Vine Joy Randolph",
+    "ator3": "Dominic Sessa",
+    "ator4": "Carrie Preston",
+    "ator5": "Brady Hepner",
+    "ator6": "Ian Dolley"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1mGTH2bN3JA-9kbKLINFYVih3uMkexKUv",
@@ -9579,7 +12729,14 @@ const filmes = [
         "nome": "Coleção Natal",
         "raw": "Coleção Natal"
       }
-    ]
+    ],
+    "diretor": "Shaun Paul Piccinino",
+    "ator1": "Christina Milian",
+    "ator2": "Jay Pharoah",
+    "ator3": "Devale Ellis",
+    "ator4": "Snyder Derival",
+    "ator5": "Kofi Siriboe",
+    "ator6": "Kalen Allen"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1BN9sL_l1HrWcqPpY3DUIbzLPvm0Lmthz",
@@ -9603,7 +12760,14 @@ const filmes = [
         "nome": "Coleção Natal",
         "raw": "Coleção Natal"
       }
-    ]
+    ],
+    "diretor": "Brian Levant",
+    "ator1": "Arnold Schwarzenegger",
+    "ator2": "Sinbad",
+    "ator3": "Phil Hartman",
+    "ator4": "Rita Wilson",
+    "ator5": "Robert Conrad",
+    "ator6": "Jake Lloyd"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1SHhpOGYvSxdOPpVnmiIA4KWpcnmRFtPo",
@@ -9627,7 +12791,14 @@ const filmes = [
         "nome": "Coleção Natal",
         "raw": "Coleção Natal"
       }
-    ]
+    ],
+    "diretor": "John Whitesell",
+    "ator1": "Danny DeVito",
+    "ator2": "Matthew Broderick",
+    "ator3": "Kristin Davis",
+    "ator4": "Kristin Chenoweth",
+    "ator5": "Alia Shawkat",
+    "ator6": "Dylan Blue"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1wYbtnQRSOBBH11qZngmCyRJ1zcrwZo9M",
@@ -9651,7 +12822,14 @@ const filmes = [
         "nome": "Coleção Natal",
         "raw": "Coleção Natal"
       }
-    ]
+    ],
+    "diretor": "Joe Roth",
+    "ator1": "Tim Allen",
+    "ator2": "Jamie Lee Curtis",
+    "ator3": "Dan Aykroyd",
+    "ator4": "Erik Per Sullivan",
+    "ator5": "Cheech Marin",
+    "ator6": "Jake Busey"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1rWd6MhMUgkk7tDuZVMboxYPVi6uc66B6",
@@ -9675,7 +12853,14 @@ const filmes = [
         "nome": "Coleção Natal",
         "raw": "Coleção Natal"
       }
-    ]
+    ],
+    "diretor": "Clay Kaytis",
+    "ator1": "Peter Billingsley",
+    "ator2": "Erinn Hayes",
+    "ator3": "Scott Schwartz",
+    "ator4": "R.D. Robb",
+    "ator5": "Zack Ward",
+    "ator6": "Julie Hagerty"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1WfdB33YWLQkH7mKIlBJnH1zFCzB3UV7v",
@@ -9699,7 +12884,14 @@ const filmes = [
         "nome": "Coleção Natal (Anime)",
         "raw": "Coleção Natal (Anime)"
       }
-    ]
+    ],
+    "diretor": "Sergio Pablos",
+    "ator1": "Jason Schwartzman",
+    "ator2": "J.K. Simmons",
+    "ator3": "Rashida Jones",
+    "ator4": "Will Sasso",
+    "ator5": "Neda Margrethe Labba",
+    "ator6": "Sergio Pablos"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1_Ag46KqBZHHNxRftNBBdGvYjhmLY1Zih",
@@ -9723,7 +12915,14 @@ const filmes = [
         "nome": "Coleção Natal (Anime)",
         "raw": "Coleção Natal (Anime)"
       }
-    ]
+    ],
+    "diretor": "Mauricio de Sousa",
+    "ator1": "Claudio Cavalcanti",
+    "ator2": "Ruthinho",
+    "ator3": "Orlando Viggiani",
+    "ator4": "Dirce Migliaccio",
+    "ator5": "Ivete Jayme",
+    "ator6": "Isaura Gomes"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/10_ZMfHhNoiyBSCNV7CJDUuqMaoesJ8bc",
@@ -9747,7 +12946,14 @@ const filmes = [
         "nome": "Coleção Natal (Anime)",
         "raw": "Coleção Natal (Anime)"
       }
-    ]
+    ],
+    "diretor": "Robert Zemeckis",
+    "ator1": "Tom Hanks",
+    "ator2": "Chris Coppola",
+    "ator3": "Michael Jeter",
+    "ator4": "Leslie Zemeckis",
+    "ator5": "Eddie Deezen",
+    "ator6": "Nona Gaye"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1ZXSGViHeknZl6w7avF6oZvC6OfgT46QZ",
@@ -9771,7 +12977,14 @@ const filmes = [
         "nome": "Coleção Natal (Anime)",
         "raw": "Coleção Natal (Anime)"
       }
-    ]
+    ],
+    "diretor": "Bill Melendez",
+    "ator1": "Peter Robbins",
+    "ator2": "Chris Shea",
+    "ator3": "Tracy Stratford",
+    "ator4": "Kathy Steinberg",
+    "ator5": "Chris Doran",
+    "ator6": "Geoffrey Ornstein"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1JQk8YO0Yg6SH3Y1SorDqgIhWCNSTAyw6",
@@ -9795,7 +13008,14 @@ const filmes = [
         "nome": "Coleção Nouvelle Vague",
         "raw": "Coleção Nouvelle Vague"
       }
-    ]
+    ],
+    "diretor": "François Truffaut",
+    "ator1": "Jean-Pierre Léaud",
+    "ator2": "Albert Rémy",
+    "ator3": "Claire Maurier",
+    "ator4": "Guy Decomble",
+    "ator5": "Georges Flamant",
+    "ator6": "Patrick Auffay"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1XFgpTM7pkCulXJdX9soKFUK-j0ljpoX5",
@@ -9819,7 +13039,14 @@ const filmes = [
         "nome": "Coleção Nouvelle Vague",
         "raw": "Coleção Nouvelle Vague"
       }
-    ]
+    ],
+    "diretor": "Jean-Luc Godard",
+    "ator1": "Jean-Paul Belmondo",
+    "ator2": "Jean Seberg",
+    "ator3": "Daniel Boulanger",
+    "ator4": "Henri-Jacques Huet",
+    "ator5": "Roger Hanin",
+    "ator6": "Van Doude"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1KNMunQyjDEHXmX8Ch1wrtw7WWCLwWJyM",
@@ -9843,7 +13070,14 @@ const filmes = [
         "nome": "Coleção Nouvelle Vague",
         "raw": "Coleção Nouvelle Vague"
       }
-    ]
+    ],
+    "diretor": "Richard Linklater",
+    "ator1": "Guillaume Marbeck",
+    "ator2": "Zoey Deutch",
+    "ator3": "Aubry Dullin",
+    "ator4": "Adrien Rouyard",
+    "ator5": "Benjamin Clery",
+    "ator6": "Louis Garrel"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1WvEuWsDWJ_OeiF545UKZxCCAXsjRAhvl",
@@ -9867,7 +13101,14 @@ const filmes = [
         "nome": "Coleção Oriental",
         "raw": "Coleção Oriental"
       }
-    ]
+    ],
+    "diretor": "Zhang Yimou",
+    "ator1": "Jet Li",
+    "ator2": "Tony Leung Chiu-wai",
+    "ator3": "Maggie Cheung",
+    "ator4": "Chen Daoming",
+    "ator5": "Zhang Ziyi",
+    "ator6": "Donnie Yen"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1ctyA1FimhAzIWTAX0yG0pvazO-wNGb4N",
@@ -9891,7 +13132,14 @@ const filmes = [
         "nome": "Coleção Oriental",
         "raw": "Coleção Oriental"
       }
-    ]
+    ],
+    "diretor": "Wilson Yip",
+    "ator1": "Donnie Yen",
+    "ator2": "Simon Yam",
+    "ator3": "Siu-Wong Fan",
+    "ator4": "Ka Tung Lam",
+    "ator5": "Yu Xing",
+    "ator6": "You-Nam Wong"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1XyUSAys6nxPkarNZNmEw0rhjdDz_tLtT",
@@ -9915,7 +13163,14 @@ const filmes = [
         "nome": "Coleção Oriental",
         "raw": "Coleção Oriental"
       }
-    ]
+    ],
+    "diretor": "Wilson Yip",
+    "ator1": "Donnie Yen",
+    "ator2": "Xiaoming Huang",
+    "ator3": "Sammo Kam-Bo Hung",
+    "ator4": "Lynn Hung",
+    "ator5": "Simon Yam",
+    "ator6": "Siu-Wong Fan"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/13jYF7nDMs_XBpXasuQooWctl5HNBk6tO",
@@ -9939,7 +13194,14 @@ const filmes = [
         "nome": "Coleção Oriental",
         "raw": "Coleção Oriental"
       }
-    ]
+    ],
+    "diretor": "Ang Lee",
+    "ator1": "Chow Yun-Fat",
+    "ator2": "Michelle Yeoh",
+    "ator3": "Zhang Ziyi",
+    "ator4": "Chang Chen",
+    "ator5": "Cheng Pei-Pei",
+    "ator6": "Sihung Lung"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1fANtee5qBP9Fq60ycivVfzdLsNtPJAZ_",
@@ -9963,7 +13225,14 @@ const filmes = [
         "nome": "Coleção Oscar",
         "raw": "Coleção Oscar"
       }
-    ]
+    ],
+    "diretor": "Adam McKay",
+    "ator1": "Christian Bale",
+    "ator2": "Steve Carell",
+    "ator3": "Ryan Gosling",
+    "ator4": "Brad Pitt",
+    "ator5": "Melissa Leo",
+    "ator6": "Hamish Linklater"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1OVjKIGo0S4ArhUioNtq3HtRpJQhfzX9B",
@@ -9987,7 +13256,14 @@ const filmes = [
         "nome": "Coleção Oscar",
         "raw": "Coleção Oscar"
       }
-    ]
+    ],
+    "diretor": "Jean-Marc Vallée",
+    "ator1": "Matthew McConaughey",
+    "ator2": "Jennifer Garner",
+    "ator3": "Jared Leto",
+    "ator4": "Denis O'Hare",
+    "ator5": "Steve Zahn",
+    "ator6": "Dallas Roberts"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1o1Ty7Kg2SiwCRhyyARsGNdW6BSFT8laF",
@@ -10011,7 +13287,14 @@ const filmes = [
         "nome": "Coleção Oscar",
         "raw": "Coleção Oscar"
       }
-    ]
+    ],
+    "diretor": "Tony Gilroy",
+    "ator1": "George Clooney",
+    "ator2": "Tom Wilkinson",
+    "ator3": "Tilda Swinton",
+    "ator4": "Sydney Pollack",
+    "ator5": "Michael O'Keefe",
+    "ator6": "Dan Hedaya"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1mW3bVqT3A1W0KgNdDKcBQlejPjQN5MpF",
@@ -10035,7 +13318,14 @@ const filmes = [
         "nome": "Coleção Oscar",
         "raw": "Coleção Oscar"
       }
-    ]
+    ],
+    "diretor": "Jan Svěrák",
+    "ator1": "Zdeněk Svěrák",
+    "ator2": "Andrej Chalimon",
+    "ator3": "Libuše Šafránková",
+    "ator4": "Oleg Tabakov",
+    "ator5": "Stella Zázvorková",
+    "ator6": "Ladislav Smoljak"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1T-bevx7XmrbLO1X1v7fVs2NnBiWZv1I_",
@@ -10059,7 +13349,14 @@ const filmes = [
         "nome": "Coleção Oscar",
         "raw": "Coleção Oscar"
       }
-    ]
+    ],
+    "diretor": "Stephen Frears",
+    "ator1": "Judi Dench",
+    "ator2": "Steve Coogan",
+    "ator3": "Sophie Kennedy Clark",
+    "ator4": "Mare Winningham",
+    "ator5": "Peter Hermann",
+    "ator6": "Sean Mahon"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1lAID98si76Idg7reCsFCx73synsa9NCS",
@@ -10083,7 +13380,14 @@ const filmes = [
         "nome": "Coleção Oscar",
         "raw": "Coleção Oscar"
       }
-    ]
+    ],
+    "diretor": "Clint Bentley",
+    "ator1": "Joel Edgerton",
+    "ator2": "Felicity Jones",
+    "ator3": "Nathaniel Arcand",
+    "ator4": "Clifton Collins Jr.",
+    "ator5": "John Diehl",
+    "ator6": "Paul Schneider"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1_FskMDgNkG0booWK7tnDscIqQ9byFUeY",
@@ -10107,7 +13411,14 @@ const filmes = [
         "nome": "Coleção Oscar",
         "raw": "Coleção Oscar"
       }
-    ]
+    ],
+    "diretor": "David O. Russell",
+    "ator1": "Christian Bale",
+    "ator2": "Bradley Cooper",
+    "ator3": "Amy Adams",
+    "ator4": "Jeremy Renner",
+    "ator5": "Jennifer Lawrence",
+    "ator6": "Louis C.K."
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1jeWn_HpydpTmpjUHFx3swCV9511MwzOl",
@@ -10131,7 +13442,14 @@ const filmes = [
         "nome": "Coleção Oscar",
         "raw": "Coleção Oscar"
       }
-    ]
+    ],
+    "diretor": "Martin McDonagh",
+    "ator1": "Frances McDormand",
+    "ator2": "Woody Harrelson",
+    "ator3": "Sam Rockwell",
+    "ator4": "Abbie Cornish",
+    "ator5": "John Hawkes",
+    "ator6": "Peter Dinklage"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1nbdzhEyNDNmWJmfArGVxuHM9CuCqV2mA",
@@ -10155,7 +13473,14 @@ const filmes = [
         "nome": "Coleção Tribunal",
         "raw": "Coleção Tribunal"
       }
-    ]
+    ],
+    "diretor": "William Friedkin",
+    "ator1": "Courtney B. Vance",
+    "ator2": "Ossie Davis",
+    "ator3": "George C. Scott",
+    "ator4": "Armin Mueller-Stahl",
+    "ator5": "Jack Lemmon",
+    "ator6": "Hume Cronyn"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1qUM8ISxb9-S3SaYUW8iRVTldtzu6S1If",
@@ -10179,7 +13504,14 @@ const filmes = [
         "nome": "Coleção Tribunal",
         "raw": "Coleção Tribunal"
       }
-    ]
+    ],
+    "diretor": "Justine Triet",
+    "ator1": "Sandra Hüller",
+    "ator2": "Swann Arlaud",
+    "ator3": "Milo Machado-Graner",
+    "ator4": "Antoine Reinartz",
+    "ator5": "Samuel Theis",
+    "ator6": "Jeannie Disson"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1f7HoB93v6fDUtF64QdD1f9QaG7ZQ7UdR",
@@ -10203,7 +13535,14 @@ const filmes = [
         "nome": "Coleção Tribunal",
         "raw": "Coleção Tribunal"
       }
-    ]
+    ],
+    "diretor": "Jonathan Lynn",
+    "ator1": "Joe Pesci",
+    "ator2": "Marisa Tomei",
+    "ator3": "Ralph Macchio",
+    "ator4": "Mitchell Whitfield",
+    "ator5": "Fred Gwynne",
+    "ator6": "Lane Smith"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1EyNIwcOUiVPMmO5BTrJFgUioBpVtwe60",
@@ -10227,7 +13566,14 @@ const filmes = [
         "nome": "Coleção Tribunal",
         "raw": "Coleção Tribunal"
       }
-    ]
+    ],
+    "diretor": "Yves Simoneau",
+    "ator1": "Alec Baldwin",
+    "ator2": "Brian Cox",
+    "ator3": "Christopher Plummer",
+    "ator4": "Jill Hennessy",
+    "ator5": "Christopher Heyerdahl",
+    "ator6": "Roger Dunn"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1ycH0hcuWJ9iqWO5bt2LP7CzI7aBW6t1d",
@@ -10251,7 +13597,14 @@ const filmes = [
         "nome": "Coleção Tribunal",
         "raw": "Coleção Tribunal"
       }
-    ]
+    ],
+    "diretor": "David Dobkin",
+    "ator1": "Robert Downey Jr.",
+    "ator2": "Robert Duvall",
+    "ator3": "Vera Farmiga",
+    "ator4": "Vincent D'Onofrio",
+    "ator5": "Jeremy Strong",
+    "ator6": "Dax Shepard"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1VFs6M8qYw9CTeZkKRMOz2mdUWePEqU2A",
@@ -10275,7 +13628,14 @@ const filmes = [
         "nome": "Coleção Tribunal",
         "raw": "Coleção Tribunal"
       }
-    ]
+    ],
+    "diretor": "Peter Yates",
+    "ator1": "Cher",
+    "ator2": "Dennis Quaid",
+    "ator3": "Liam Neeson",
+    "ator4": "John Mahoney",
+    "ator5": "Joe Mantegna",
+    "ator6": "Philip Bosco"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1dvmMZPF6bIfEwvQLavRuZ87iUhkNWqqf",
@@ -10299,7 +13659,14 @@ const filmes = [
         "nome": "Coleção Shakespeare",
         "raw": "Coleção Shakespeare"
       }
-    ]
+    ],
+    "diretor": "Kenneth Branagh",
+    "ator1": "Kenneth Branagh",
+    "ator2": "Kate Winslet",
+    "ator3": "Derek Jacobi",
+    "ator4": "Julie Christie",
+    "ator5": "Richard Briers",
+    "ator6": "Michael Maloney"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1u_lA1NZd6xp1ZnGycbCOZFR7ZpvPdP1D",
@@ -10323,7 +13690,14 @@ const filmes = [
         "nome": "Coleção Shakespeare",
         "raw": "Coleção Shakespeare"
       }
-    ]
+    ],
+    "diretor": "Kenneth Branagh",
+    "ator1": "Kenneth Branagh",
+    "ator2": "Derek Jacobi",
+    "ator3": "Simon Russell Beale",
+    "ator4": "James Larkin",
+    "ator5": "Brian Blessed",
+    "ator6": "Charles Kay"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1JtMWL50iwLVnh8swKU_AMnRW3dhXlj04",
@@ -10347,7 +13721,14 @@ const filmes = [
         "nome": "Coleção Shakespeare",
         "raw": "Coleção Shakespeare"
       }
-    ]
+    ],
+    "diretor": "Oliver Parker",
+    "ator1": "Laurence Fishburne",
+    "ator2": "Irène Jacob",
+    "ator3": "Kenneth Branagh",
+    "ator4": "Nathaniel Parker",
+    "ator5": "Michael Maloney",
+    "ator6": "Anna Patrick"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1VAG__CLrTawal-j0a2zhySe5atbLhyu5",
@@ -10371,7 +13752,14 @@ const filmes = [
         "nome": "Coleção Shakespeare",
         "raw": "Coleção Shakespeare"
       }
-    ]
+    ],
+    "diretor": "Laurence Olivier",
+    "ator1": "Laurence Olivier",
+    "ator2": "Cedric Hardwicke",
+    "ator3": "Nicholas Hannen",
+    "ator4": "Ralph Richardson",
+    "ator5": "John Gielgud",
+    "ator6": "Claire Bloom"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1HoUY4FU2InW88GnMjWKOYHsn_7T4sJ4e",
@@ -10395,7 +13783,14 @@ const filmes = [
         "nome": "Coleção Shakespeare",
         "raw": "Coleção Shakespeare"
       }
-    ]
+    ],
+    "diretor": "Joel Coen",
+    "ator1": "Denzel Washington",
+    "ator2": "Frances McDormand",
+    "ator3": "Alex Hassell",
+    "ator4": "Bertie Carvel",
+    "ator5": "Brendan Gleeson",
+    "ator6": "Corey Hawkins"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1YXP0rGPLlKafcBC-0NDtkBM8fj4P6Djk",
@@ -10408,7 +13803,7 @@ const filmes = [
     "perfilCor": null,
     "presetElmedia": null,
     "situacao": null,
-    "sinopse": "A emocionante jornada de um homem humilde determinado a salvar a visão da mulher que ama. Entre trapalhadas hilárias e uma sensibilidade tocante, este romance mudo desafia a chegada do som no cinema com uma das mensagens mais belas sobre a empatia humana.",
+    "sinopse": "O clássico comovente que uniu o Vagabundo a um adorável órfão em uma parceria inesquecível. Com humor refinado e profunda carga dramática, esta obra revolucionou o cinema ao provar que um filme pode fazer chorar e sorrir ao mesmo tempo.",
     "genero": "Filmes Família",
     "origem": "genero",
     "colecaoTipo": "Franquia - Chaplin",
@@ -10419,7 +13814,14 @@ const filmes = [
         "nome": "Chaplin",
         "raw": "Franquia - Chaplin"
       }
-    ]
+    ],
+    "diretor": "Charlie Chaplin",
+    "ator1": "Charlie Chaplin",
+    "ator2": "Jackie Coogan",
+    "ator3": "Carl Miller",
+    "ator4": "Edna Purviance",
+    "ator5": "Albert Austin",
+    "ator6": "Beulah Bains"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1e-c5eTv31aVf7qbAnOGcbHrEk2_BEXpI",
@@ -10443,7 +13845,14 @@ const filmes = [
         "nome": "Chaplin",
         "raw": "Franquia - Chaplin"
       }
-    ]
+    ],
+    "diretor": "Charlie Chaplin",
+    "ator1": "Charlie Chaplin",
+    "ator2": "Mack Swain",
+    "ator3": "Tom Murray",
+    "ator4": "Georgia Hale",
+    "ator5": "Henry Bergman",
+    "ator6": "Malcolm Waite"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1qnvt22zOY1VbQ1qJO9tMJ9pRSkJK0NPU",
@@ -10467,7 +13876,14 @@ const filmes = [
         "nome": "Chaplin",
         "raw": "Franquia - Chaplin"
       }
-    ]
+    ],
+    "diretor": "Charlie Chaplin",
+    "ator1": "Charlie Chaplin",
+    "ator2": "Al Ernest Garcia",
+    "ator3": "Merna Kennedy",
+    "ator4": "Harry Crocker",
+    "ator5": "George Davis",
+    "ator6": "Henry Bergman"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/14pA7YiLSUJP8kFJ1n1VKKBL1fmvKJops",
@@ -10480,7 +13896,7 @@ const filmes = [
     "perfilCor": null,
     "presetElmedia": null,
     "situacao": null,
-    "sinopse": "O clássico comovente que uniu o Vagabundo a um adorável órfão em uma parceria inesquecível. Com humor refinado e profunda carga dramática, esta obra revolucionou o cinema ao provar que um filme pode fazer chorar e sorrir ao mesmo tempo.",
+    "sinopse": "A emocionante jornada de um homem humilde determinado a salvar a visão da mulher que ama. Entre trapalhadas hilárias e uma sensibilidade tocante, este romance mudo desafia a chegada do som no cinema com uma das mensagens mais belas sobre a empatia humana.",
     "genero": "Filmes Família",
     "origem": "genero",
     "colecaoTipo": "Franquia - Chaplin",
@@ -10491,7 +13907,14 @@ const filmes = [
         "nome": "Chaplin",
         "raw": "Franquia - Chaplin"
       }
-    ]
+    ],
+    "diretor": "Charlie Chaplin",
+    "ator1": "Charlie Chaplin",
+    "ator2": "Virginia Cherrill",
+    "ator3": "Florence Lee",
+    "ator4": "Harry Myers",
+    "ator5": "Al Ernest Garcia",
+    "ator6": "Hank Mann"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1DVtqkCV_z5b4a0CMYQMm_76f7lpnu7uI",
@@ -10504,7 +13927,7 @@ const filmes = [
     "perfilCor": null,
     "presetElmedia": null,
     "situacao": null,
-    "sinopse": "A genial e corajosa sátira política onde Chaplin ridiculariza o fascismo com inteligência afiada. Uma obra-prima audaciosa que diverte através de equívocos hilários e entrega um dos discursos humanistas mais potentes e atuais da história.",
+    "sinopse": "Uma crítica bem-humorada e atemporal à industrialização e à opressão do trabalho fabril. O Vagabundo tenta sobreviver à rotina das máquinas em uma sucessão de cenas icônicas que misturam comédia física genial e questionamento social.",
     "genero": "Filmes Família",
     "origem": "genero",
     "colecaoTipo": "Franquia - Chaplin",
@@ -10515,7 +13938,14 @@ const filmes = [
         "nome": "Chaplin",
         "raw": "Franquia - Chaplin"
       }
-    ]
+    ],
+    "diretor": "Charlie Chaplin",
+    "ator1": "Charlie Chaplin",
+    "ator2": "Paulette Goddard",
+    "ator3": "Henry Bergman",
+    "ator4": "Tiny Sandford",
+    "ator5": "Chester Conklin",
+    "ator6": "Hank Mann"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1a9RDR7qd6-eCJd-MWErtS9gpcP1i4Qsw",
@@ -10528,7 +13958,7 @@ const filmes = [
     "perfilCor": null,
     "presetElmedia": null,
     "situacao": null,
-    "sinopse": "Uma crítica bem-humorada e atemporal à industrialização e à opressão do trabalho fabril. O Vagabundo tenta sobreviver à rotina das máquinas em uma sucessão de cenas icônicas que misturam comédia física genial e questionamento social.",
+    "sinopse": "A genial e corajosa sátira política onde Chaplin ridiculariza o fascismo com inteligência afiada. Uma obra-prima audaciosa que diverte através de equívocos hilários e entrega um dos discursos humanistas mais potentes e atuais da história.",
     "genero": "Filmes Família",
     "origem": "genero",
     "colecaoTipo": "Franquia - Chaplin",
@@ -10539,7 +13969,14 @@ const filmes = [
         "nome": "Chaplin",
         "raw": "Franquia - Chaplin"
       }
-    ]
+    ],
+    "diretor": "Charlie Chaplin",
+    "ator1": "Charlie Chaplin",
+    "ator2": "Paulette Goddard",
+    "ator3": "Jack Oakie",
+    "ator4": "Reginald Gardiner",
+    "ator5": "Henry Bergman",
+    "ator6": "Billy Gilbert"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1ZblRtv9KS4KzktHhVHmFnmh25k6UZAg2",
@@ -10563,7 +14000,14 @@ const filmes = [
         "nome": "O Gordo e o Magro",
         "raw": "Franquia - O Gordo e o Magro"
       }
-    ]
+    ],
+    "diretor": "John Ford",
+    "ator1": "Gary Cooper",
+    "ator2": "Sigrid Gurie",
+    "ator3": "Basil Rathbone",
+    "ator4": "Ernest Lawson",
+    "ator5": "Guy Kibbee",
+    "ator6": "Binnie Barnes"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1lRD_3Ht-lY91H1SWCGmW6wgAXfmtDEw5",
@@ -10576,12 +14020,19 @@ const filmes = [
     "perfilCor": null,
     "presetElmedia": null,
     "situacao": null,
-    "sinopse": "A emocionante história dos bastidores da criação do clássico Peter Pan. Acompanhe a tocante e transformadora amizade entre o escritor J.M. Barrie e uma família que o inspira a redescobrir o poder da imaginação, do afeto e da eterna juventude.",
+    "sinopse": "Uma comédia eletrizante ambientada no auge da Beatlemania em 1964. Seis adolescentes de Nova Jersey fazem de tudo para invadir Nova York e assistir à histórica primeira apresentação dos Beatles na TV americana, desencadeando confusões inesquecíveis.",
     "genero": "Filmes Família",
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Robert Zemeckis",
+    "ator1": "Tim Matheson",
+    "ator2": "Nancy Allen",
+    "ator3": "John Belushi",
+    "ator4": "Tom Hulce",
+    "ator5": "Mark Metcalf",
+    "ator6": "Peter Riegert"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1YiezhdyGD3q9GY2yTacTJzcwwMEreg3N",
@@ -10594,12 +14045,19 @@ const filmes = [
     "perfilCor": null,
     "presetElmedia": null,
     "situacao": null,
-    "sinopse": "Uma comédia eletrizante ambientada no auge da Beatlemania em 1964. Seis adolescentes de Nova Jersey fazem de tudo para invadir Nova York e assistir à histórica primeira apresentação dos Beatles na TV americana, desencadeando confusões inesquecíveis.",
+    "sinopse": "A emocionante história dos bastidores da criação do clássico Peter Pan. Acompanhe a tocante e transformadora amizade entre o escritor J.M. Barrie e uma família que o inspira a redescobrir o poder da imaginação, do afeto e da eterna juventude.",
     "genero": "Filmes Família",
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Marc Forster",
+    "ator1": "Johnny Depp",
+    "ator2": "Kate Winslet",
+    "ator3": "Dustin Hoffman",
+    "ator4": "Julie Christie",
+    "ator5": "Radha Mitchell",
+    "ator6": "Freddie Highmore"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Je89FymnSZiSlNCAzEwp9gusEOafDR64",
@@ -10612,12 +14070,19 @@ const filmes = [
     "perfilCor": null,
     "presetElmedia": null,
     "situacao": null,
-    "sinopse": "As hilárias e adoráveis desventuras de um garoto francês cheio de imaginação e sua turma de amigos. Uma comédia familiar leve, nostálgica e inteligente que captura perfeitamente os desafios e as grandes alegrias do universo infantil.",
+    "sinopse": "Um pai excêntrico sai de uma clínica de reabilitação determinado a convencer sua filha de que há um tesouro espanhol enterrado sob um supermercado local. Uma jornada cativante e imprevisível sobre segundas chances, loucura e os laços familiares.",
     "genero": "Filmes Família",
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Mike Cahill",
+    "ator1": "Michael Douglas",
+    "ator2": "Evan Rachel Wood",
+    "ator3": "Willis Burks II",
+    "ator4": "Laura Kachergus",
+    "ator5": "Paul Lieber",
+    "ator6": "Kathleen Wilhoite"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1pHVMxpl2QE7wtVIClkBEaOeAyZPJZpvD",
@@ -10630,12 +14095,19 @@ const filmes = [
     "perfilCor": null,
     "presetElmedia": null,
     "situacao": null,
-    "sinopse": "Um pai excêntrico sai de uma clínica de reabilitação determinado a convencer sua filha de que há um tesouro espanhol enterrado sob um supermercado local. Uma jornada cativante e imprevisível sobre segundas chances, loucura e os laços familiares.",
+    "sinopse": "As hilárias e adoráveis desventuras de um garoto francês cheio de imaginação e sua turma de amigos. Uma comédia familiar leve, nostálgica e inteligente que captura perfeitamente os desafios e as grandes alegrias do universo infantil.",
     "genero": "Filmes Família",
     "origem": "genero",
     "colecaoTipo": null,
     "ordem": null,
-    "tags": []
+    "tags": [],
+    "diretor": "Laurent Tirard",
+    "ator1": "Maxime Godart",
+    "ator2": "Valérie Lemercier",
+    "ator3": "Kad Merad",
+    "ator4": "Sandrine Kiberlain",
+    "ator5": "François-Xavier Demaison",
+    "ator6": "Michel Galabru"
   },
   {
     "capa": "https://lh3.googleusercontent.com/d/1Trr7iGftVCQFeRRXP2qmYurtCJCc0RTn",
@@ -10660,6 +14132,13 @@ const filmes = [
         "raw": "Franquia - Caros Amigos"
       }
     ],
+    "diretor": "Mario Monicelli",
+    "ator1": "Ugo Tognazzi",
+    "ator2": "Gastone Moschin",
+    "ator3": "Philippe Noiret",
+    "ator4": "Duilio Del Prete",
+    "ator5": "Adolfo Celi",
+    "ator6": "Olga Karlatos",
     "nomeOriginal": "Amici Miei"
   },
   {
@@ -10685,6 +14164,13 @@ const filmes = [
         "raw": "Franquia - Caros Amigos"
       }
     ],
+    "diretor": "Mario Monicelli",
+    "ator1": "Ugo Tognazzi",
+    "ator2": "Gastone Moschin",
+    "ator3": "Philippe Noiret",
+    "ator4": "Renzo Montagnani",
+    "ator5": "Adolfo Celi",
+    "ator6": "Milena Vukotic",
     "nomeOriginal": "Amici Miei - Ato II"
   },
   {
@@ -10710,6 +14196,13 @@ const filmes = [
         "raw": "Franquia - Caros Amigos"
       }
     ],
+    "diretor": "Nanni Loy",
+    "ator1": "Ugo Tognazzi",
+    "ator2": "Gastone Moschin",
+    "ator3": "Philippe Noiret",
+    "ator4": "Renzo Montagnani",
+    "ator5": "Adolfo Celi",
+    "ator6": "Bernard Blier",
     "nomeOriginal": "Amici Miei - Ato III"
   },
   {
@@ -10735,6 +14228,13 @@ const filmes = [
         "raw": "Franquia - Eternos Desconhecidos"
       }
     ],
+    "diretor": "Mario Monicelli",
+    "ator1": "Vittorio Gassman",
+    "ator2": "Marcello Mastroianni",
+    "ator3": "Renato Salvatori",
+    "ator4": "Totò",
+    "ator5": "Claudia Cardinale",
+    "ator6": "Tiberio Murgia",
     "nomeOriginal": "I Soliti Ignoti"
   },
   {
@@ -10760,6 +14260,13 @@ const filmes = [
         "raw": "Franquia - Eternos Desconhecidos"
       }
     ],
+    "diretor": "Nanni Loy",
+    "ator1": "Vittorio Gassman",
+    "ator2": "Renato Salvatori",
+    "ator3": "Claudia Cardinale",
+    "ator4": "Vittorio Caprioli",
+    "ator5": "Tiberio Murgia",
+    "ator6": "Carlo Pisacane",
     "nomeOriginal": "Audace colpo dei soliti ignoti"
   },
   {
@@ -10785,6 +14292,13 @@ const filmes = [
         "raw": "Franquia - Os Monstros"
       }
     ],
+    "diretor": "Dino Risi",
+    "ator1": "Vittorio Gassman",
+    "ator2": "Ugo Tognazzi",
+    "ator3": "Lando Buzzanca",
+    "ator4": "Marisa Merlin",
+    "ator5": "Michèle Mercier",
+    "ator6": "Marino Masé",
     "nomeOriginal": "I Mostri"
   },
   {
@@ -10810,6 +14324,13 @@ const filmes = [
         "raw": "Franquia - Os Monstros"
       }
     ],
+    "diretor": "Dino Risi",
+    "ator1": "Vittorio Gassman",
+    "ator2": "Ugo Tognazzi",
+    "ator3": "Alberto Sordi",
+    "ator4": "Ornella Muti",
+    "ator5": "Eros Pagni",
+    "ator6": "Yorgo Voyagis",
     "nomeOriginal": "I Nuovi Mostri"
   },
   {
@@ -10835,6 +14356,13 @@ const filmes = [
         "raw": "Franquia - Pão, Amor"
       }
     ],
+    "diretor": "Luigi Comencini",
+    "ator1": "Vittorio De Sica",
+    "ator2": "Gina Lollobrigida",
+    "ator3": "Marisa Merlini",
+    "ator4": "Roberto Risso",
+    "ator5": "Memmo Carotenuto",
+    "ator6": "Tina Pica",
     "nomeOriginal": "Pane, amore e fantasia"
   },
   {
@@ -10860,6 +14388,13 @@ const filmes = [
         "raw": "Franquia - Pão, Amor"
       }
     ],
+    "diretor": "Luigi Comencini",
+    "ator1": "Vittorio De Sica",
+    "ator2": "Gina Lollobrigida",
+    "ator3": "Marisa Merlini",
+    "ator4": "Roberto Risso",
+    "ator5": "Maria Pia Casilio",
+    "ator6": "Tina Pica",
     "nomeOriginal": "Pane, amore e gelosia"
   },
   {
@@ -10885,6 +14420,13 @@ const filmes = [
         "raw": "Franquia - Pão, Amor"
       }
     ],
+    "diretor": "Dino Risi",
+    "ator1": "Vittorio De Sica",
+    "ator2": "Sophia Loren",
+    "ator3": "Lea Padovani",
+    "ator4": "Antonio Cifariello",
+    "ator5": "Tina Pica",
+    "ator6": "Mario Carotenuto",
     "nomeOriginal": "Pane, amore e..."
   },
   {
@@ -10904,6 +14446,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Federico Fellini",
+    "ator1": "Marcello Mastroianni",
+    "ator2": "Anita Ekberg",
+    "ator3": "Anouk Aimée",
+    "ator4": "Yvonne Furneaux",
+    "ator5": "Magali Noël",
+    "ator6": "Alain Cuny",
     "nomeOriginal": "La dolce vita"
   },
   {
@@ -10923,6 +14472,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Mario Monicelli",
+    "ator1": "Monica Vitti",
+    "ator2": "Stanley Baker",
+    "ator3": "Carlo Giuffrè",
+    "ator4": "Corin Redgrave",
+    "ator5": "Anthony Booth",
+    "ator6": "Aldo Puglisi",
     "nomeOriginal": "La Ragazza con La Pistola"
   },
   {
@@ -10942,6 +14498,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Paolo Sorrentino",
+    "ator1": "Toni Servillo",
+    "ator2": "Carlo Verdone",
+    "ator3": "Sabrina Ferilli",
+    "ator4": "Carlo Buccirosso",
+    "ator5": "Iaia Forte",
+    "ator6": "Pamela Villoresi",
     "nomeOriginal": "La Grande Bellezza"
   },
   {
@@ -10961,6 +14524,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Camillo Mastrocinque",
+    "ator1": "Totò",
+    "ator2": "Peppino De Filippo",
+    "ator3": "Giulia Rubini",
+    "ator4": "Gabriele Tinti",
+    "ator5": "Yoka Berretty",
+    "ator6": "Luigi Pavese",
     "nomeOriginal": "La banda degli onesti"
   },
   {
@@ -10980,6 +14550,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Pasquale Festa Campanile",
+    "ator1": "Nino Manfredi",
+    "ator2": "Catherine Spaak",
+    "ator3": "Maria Grazia Buccella",
+    "ator4": "Vittorio Caprioli",
+    "ator5": "Akiko Wakabayashi",
+    "ator6": "Mario Pisu",
     "nomeOriginal": "Adulterio all'italiana"
   },
   {
@@ -10999,6 +14576,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Dino Risi",
+    "ator1": "Vittorio Gassman",
+    "ator2": "Jean-Louis Trintignant",
+    "ator3": "Catherine Spaak",
+    "ator4": "Claudio Gora",
+    "ator5": "Luciana Angiolillo",
+    "ator6": "Linda Sini",
     "nomeOriginal": "Il sorpasso"
   },
   {
@@ -11018,6 +14602,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Mauro Bolognini",
+    "ator1": "Monica Vitti",
+    "ator2": "Claudia Cardinale",
+    "ator3": "Capucine",
+    "ator4": "Jane Fonda",
+    "ator5": "Alberto Sordi",
+    "ator6": "Jean-Sorel",
     "nomeOriginal": "The Queens"
   },
   {
@@ -11037,6 +14628,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Mattoli Mario",
+    "ator1": "Totò",
+    "ator2": "Sophia Loren",
+    "ator3": "Carlo Croccolo",
+    "ator4": "Dolores Palumbo",
+    "ator5": "Enzo Turco",
+    "ator6": "Liana Billi",
     "nomeOriginal": "Miseria e nobiltaà"
   },
   {
@@ -11056,6 +14654,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Mario Camerini",
+    "ator1": "Alberto Sordi",
+    "ator2": "Vittorio Gassman",
+    "ator3": "Nino Manfredi",
+    "ator4": "Dorian Gray",
+    "ator5": "Silvana Mangano",
+    "ator6": "Bernard Blier",
     "nomeOriginal": "Crimen"
   },
   {
@@ -11075,6 +14680,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Pietro Germi",
+    "ator1": "Marcello Mastroianni",
+    "ator2": "Daniela Rocca",
+    "ator3": "Stefania Sandrelli",
+    "ator4": "Leopoldo Trieste",
+    "ator5": "Odoardo Spadaro",
+    "ator6": "Angela Cardile",
     "nomeOriginal": "Divorcio a la italiana"
   },
   {
@@ -11094,6 +14706,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Nanni Loy",
+    "ator1": "Lando Buzzanca",
+    "ator2": "Walter Chiari",
+    "ator3": "Aldo Fabrizi",
+    "ator4": "Caterina Boratto",
+    "ator5": "Alberto Sordi",
+    "ator6": "Anna Magnani",
     "nomeOriginal": "Made in Italy"
   },
   {
@@ -11113,6 +14732,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Gianni Franciolini",
+    "ator1": "Peppino De Filippo",
+    "ator2": "Eduardo De Filippo",
+    "ator3": "Titina De Filippo",
+    "ator4": "Aldo Fabrizi",
+    "ator5": "Vittorio De Sica",
+    "ator6": "Renato Rascel",
     "nomeOriginal": "Ferdinando I, re di Napoli"
   },
   {
@@ -11132,6 +14758,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Franco Giraldi",
+    "ator1": "Ugo Tognazzi",
+    "ator2": "Isabella Rei",
+    "ator3": "Corrado Sonni",
+    "ator4": "Lilla Brignone",
+    "ator5": "Irasema Dilián",
+    "ator6": "Marisa Bartoli",
     "nomeOriginal": "La Bambolona"
   },
   {
@@ -11151,6 +14784,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Mario Monicelli",
+    "ator1": "Anna Magnani",
+    "ator2": "Totò",
+    "ator3": "Ben Gazzara",
+    "ator4": "Fred Clark",
+    "ator5": "Edy Vessel",
+    "ator6": "Mac Ronay",
     "nomeOriginal": "Risate di gioia"
   },
   {
@@ -11170,6 +14810,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Alberto Lattuada",
+    "ator1": "Alberto Sordi",
+    "ator2": "Norma Bengell",
+    "ator3": "Gabriella Conti",
+    "ator4": "Ugo Attanasio",
+    "ator5": "Cinzia Bruno",
+    "ator6": "Armando Tineo",
     "nomeOriginal": "Mafioso"
   },
   {
@@ -11189,6 +14836,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Mario Monicelli",
+    "ator1": "Sophia Loren",
+    "ator2": "William Devane",
+    "ator3": "Gigi Proietti",
+    "ator4": "Danny DeVito",
+    "ator5": "Susan Sarandon",
+    "ator6": "Jack Lemmon",
     "nomeOriginal": "La Mortadella"
   },
   {
@@ -11208,6 +14862,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Dino Risi",
+    "ator1": "Monica Vitti",
+    "ator2": "Enrico Maria Salerno",
+    "ator3": "Carlo Giuffrè",
+    "ator4": "Jean-Claude Brialy",
+    "ator5": "Michel Constantin",
+    "ator6": "Clara Bindi",
     "nomeOriginal": "Noi Donne Siamo Fatte Cosi"
   },
   {
@@ -11227,6 +14888,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Ettore Scola",
+    "ator1": "Vittorio Gassman",
+    "ator2": "Nino Manfredi",
+    "ator3": "Stefania Sandrelli",
+    "ator4": "Stefano Satta Flores",
+    "ator5": "Giovanna Ralli",
+    "ator6": "Aldo Fabrizi",
     "nomeOriginal": "C'eravamo Tanto Amati"
   },
   {
@@ -11246,6 +14914,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Michelangelo Antonioni",
+    "ator1": "Alain Delon",
+    "ator2": "Monica Vitti",
+    "ator3": "Francisco Rabal",
+    "ator4": "Louis Seigner",
+    "ator5": "Lilla Brignone",
+    "ator6": "Rosanna Rory",
     "nomeOriginal": "L'eclisse"
   },
   {
@@ -11265,6 +14940,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Mario Monicelli",
+    "ator1": "Vittorio Gassman",
+    "ator2": "Catherine Spaak",
+    "ator3": "Gian Maria Volontè",
+    "ator4": "Maria Grazia Buccella",
+    "ator5": "Barbara Steele",
+    "ator6": "Enrico Maria Salerno",
     "nomeOriginal": "L'armata Brancaleone"
   },
   {
@@ -11284,6 +14966,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Ettore Scola",
+    "ator1": "Fanny Ardant",
+    "ator2": "Stefania Sandrelli",
+    "ator3": "Vittorio Gassman",
+    "ator4": "Giancarlo Giannini",
+    "ator5": "Marie Gillain",
+    "ator6": "Antonio Catania",
     "nomeOriginal": "La Cena"
   },
   {
@@ -11303,6 +14992,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Marco Ferreri",
+    "ator1": "Ugo Tognazzi",
+    "ator2": "Marina Vlady",
+    "ator3": "Walter Giller",
+    "ator4": "Linda Sini",
+    "ator5": "Riccardo Fellini",
+    "ator6": "Igi Polidoro",
     "nomeOriginal": "L'ape regina"
   },
   {
@@ -11322,6 +15018,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Mario Monicelli",
+    "ator1": "Alberto Sordi",
+    "ator2": "Paolo Stoppa",
+    "ator3": "Caroline Berg",
+    "ator4": "Flavio Bucci",
+    "ator5": "Giorgio Gobbi",
+    "ator6": "Colette Rossi",
     "nomeOriginal": "Il Marchese Del Grillo"
   },
   {
@@ -11341,6 +15044,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Dino Risi",
+    "ator1": "Vittorio Gassman",
+    "ator2": "Ann-Margret",
+    "ator3": "Eleonora Brown",
+    "ator4": "Fiorenzo Fiorentini",
+    "ator5": "Antonella Steni",
+    "ator6": "Luigi Vannucchi",
     "nomeOriginal": "Il Tigre"
   },
   {
@@ -11360,6 +15070,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Dino Risi",
+    "ator1": "Alberto Sordi",
+    "ator2": "Franca Valeri",
+    "ator3": "Livio Lorenzon",
+    "ator4": "Nando Bruno",
+    "ator5": "Ruggero Marchi",
+    "ator6": "Enzo Petito",
     "nomeOriginal": "Il vedovo"
   },
   {
@@ -11379,6 +15096,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Ugo Tognazzi",
+    "ator1": "Ugo Tognazzi",
+    "ator2": "Ilaria Occhini",
+    "ator3": "Margarete Robsahm",
+    "ator4": "Aldo Pini",
+    "ator5": "Mario Carotenuto",
+    "ator6": "Marisa Merlini",
     "nomeOriginal": "Il mantenuto"
   },
   {
@@ -11398,6 +15122,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Silvio Soldini",
+    "ator1": "Licia Maglietta",
+    "ator2": "Bruno Ganz",
+    "ator3": "Giuseppe Battiston",
+    "ator4": "Marina Massironi",
+    "ator5": "Antonio Catania",
+    "ator6": "Felice Andreasi",
     "nomeOriginal": "Pane e Tulipani"
   },
   {
@@ -11417,6 +15148,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Luciano Salce",
+    "ator1": "Ugo Tognazzi",
+    "ator2": "Monica Vitti",
+    "ator3": "John Richardson",
+    "ator4": "Barbara Bouchet",
+    "ator5": "Sabina De Guida",
+    "ator6": "Antonio Allocca",
     "nomeOriginal": "L'anatra All Arancia"
   },
   {
@@ -11436,6 +15174,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Dino Risi",
+    "ator1": "Vittorio Gassman",
+    "ator2": "Alessandro Momo",
+    "ator3": "Agostina Belli",
+    "ator4": "Elena Borgo",
+    "ator5": "Moira Orfei",
+    "ator6": "Torindo Bedini",
     "nomeOriginal": "Profumo di Donna"
   },
   {
@@ -11455,6 +15200,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Lina Wertmüller",
+    "ator1": "Giancarlo Giannini",
+    "ator2": "Mariangela Melato",
+    "ator3": "Riccardo Salvino",
+    "ator4": "Isa Danieli",
+    "ator5": "Aldo Puglisi",
+    "ator6": "Anna Melita",
     "nomeOriginal": "Swept Away"
   },
   {
@@ -11474,6 +15226,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Pietro Germi",
+    "ator1": "Stefania Sandrelli",
+    "ator2": "Saro Urzì",
+    "ator3": "Aldo Puglisi",
+    "ator4": "Lando Buzzanca",
+    "ator5": "Lola Braccini",
+    "ator6": "Leopoldo Trieste",
     "nomeOriginal": "Sedotta e abbandonata"
   },
   {
@@ -11493,6 +15252,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Mario Mattoli",
+    "ator1": "Totò",
+    "ator2": "Ugo Tognazzi",
+    "ator3": "Virna Lisi",
+    "ator4": "Raimondo Vianello",
+    "ator5": "Lauretta Masiero",
+    "ator6": "Vittorio Congia",
     "nomeOriginal": "Sua Eccellenza si fermò a mangiare"
   },
   {
@@ -11512,6 +15278,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Dino Risi",
+    "ator1": "Vittorio Gassman",
+    "ator2": "Dorian Gray",
+    "ator3": "Anna Maria Ferrero",
+    "ator4": "Mario Carotenuto",
+    "ator5": "Alberto Bonucci",
+    "ator6": "Harry Guardino",
     "nomeOriginal": "Il mattatore"
   },
   {
@@ -11531,6 +15304,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Luciano Salce",
+    "ator1": "Ugo Tognazzi",
+    "ator2": "Catherine Spaak",
+    "ator3": "Gianni Garko",
+    "ator4": "Fabrizio Capucci",
+    "ator5": "Donatella Mauro",
+    "ator6": "Oliviero Prunas",
     "nomeOriginal": "La voglia matta"
   },
   {
@@ -11550,6 +15330,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Luigi Zampa",
+    "ator1": "Alberto Sordi",
+    "ator2": "Claudia Cardinale",
+    "ator3": "Riccardo Garrone",
+    "ator4": "Corrado Olmi",
+    "ator5": "Angelo Infanti",
+    "ator6": "Tano Cimarosa",
     "nomeOriginal": "Bello Onesto Emigrato Australia Sposerebbe Compaesana Illibata"
   },
   {
@@ -11569,6 +15356,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Camillo Mastrocinque",
+    "ator1": "Totò",
+    "ator2": "Peppino De Filippo",
+    "ator3": "Sylva Koscina",
+    "ator4": "Ugo Tognazzi",
+    "ator5": "Raimondo Vianello",
+    "ator6": "Aroldo Tieri",
     "nomeOriginal": "La cambiale"
   },
   {
@@ -11588,6 +15382,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Dino Risi",
+    "ator1": "Alberto Sordi",
+    "ator2": "Nino Manfredi",
+    "ator3": "Ingeborg Schöner",
+    "ator4": "Niki Dantine",
+    "ator5": "Luciano Marcelli",
+    "ator6": "Marisa Merlin",
     "nomeOriginal": "Venezia, la luna e tu"
   },
   {
@@ -11607,6 +15408,13 @@ const filmes = [
     "colecaoTipo": null,
     "ordem": null,
     "tags": [],
+    "diretor": "Luigi Zampa",
+    "ator1": "Alberto Sordi",
+    "ator2": "Vittorio De Sica",
+    "ator3": "Marisa Merlin",
+    "ator4": "Mara Berni",
+    "ator5": "Nando Bruno",
+    "ator6": "Riccardo Garrone",
     "nomeOriginal": "Il vigile"
   }
 ];
